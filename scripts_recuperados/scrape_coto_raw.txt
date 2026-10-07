@@ -1,0 +1,32 @@
+cd "C:/Users/ncort/AppData/Local/Temp/claude/C--Users-ncort-Ads-Analytics-para-VSC-dashboard-reporting/7d404d61-4350-449a-ba38-19455fe041ac/scratchpad" && powershell -NoProfile -Command "Get-CimInstance Win32_Process | Where-Object { \$_.Name -eq 'python.exe' -and (\$_.CommandLine -like '*refresh_precios*' -or \$_.CommandLine -like '*scrape_coto*') } | ForEach-Object { Stop-Process -Id \$_.ProcessId -Force; 'detenido ' + \$_.ProcessId }; Get-CimInstance Win32_Process | Where-Object { \$_.Name -eq 'bash.exe' -and \$_.CommandLine -like '*run_pipeline*' } | ForEach-Object { Stop-Process -Id \$_.ProcessId -Force; 'bash detenido ' + \$_.ProcessId }" ; python - <<'PYEOF'
+p = "armar_grupos.py"
+s = open(p, encoding="utf-8").read()
+s = s.replace('CF_BRANDS = {"carrefour",', 'CF_BRANDS = {"generico", "genérico", "complemento", "sin marca", "s/m", "carrefour",')
+s = s.replace('''            tk = toks_de(name, brand)[:3]
+            b = "" if norm(brand).strip() in CF_BRANDS else brand
+            term = " ".join(x for x in [b, " ".join(tk), size_str(name)] if x).strip()''',
+'''            tk = [t for t in toks_de(name, brand) if t not in ("kg", "kilo", "unidad", "atado", "paquete", "bandeja")][:3]
+            b = "" if norm(brand).strip() in CF_BRANDS else brand
+            sz = size_str(name)
+            if re.search(r"\\b(x|por)\\s*(kg|kilo|unidad|atado|paquete|bandeja)\\b", norm(name)):
+                sz = ""
+            term = " ".join(x for x in [b, " ".join(tk), sz] if x).strip()''')
+s = s.replace('''        key = f"{c['nombre']}|{m.get('leaf', '')}|{tipo_de(name, brand)}"
+        key_members.setdefault(key, []).append(it["id"])''',
+'''        key = f"{c['nombre']}|{m.get('leaf', '')}|{tipo_de(name, brand)}"
+        if c["nombre"] not in ("Carnicería", "Verdulería y frutas") and not key.endswith("|mix"):
+            key_members.setdefault(key, []).append(it["id"])''')
+open(p, "w", encoding="utf-8").write(s)
+print("armar_grupos patch ok")
+PYEOF
+grep -c 'x|por' armar_grupos.py; python -u armar_grupos.py | head -4; python - <<'PYEOF'
+import json, io, sys
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+ing = json.load(open("ingredientes.json", encoding="utf-8"))
+n = 0
+for c in ing["categorias"]:
+    for it in c["items"]:
+        if n < 14 and it["id"] in ("milanesa-de-bola-de-lomo-x-kg", "nalga-x-kg") or (n < 14 and c["nombre"] in ("Limpieza y hogar", "Bebidas") and n % 3 == 0):
+            print("  term:", it["id"], "->", it["busqueda"])
+        n += 1
+PYEOF

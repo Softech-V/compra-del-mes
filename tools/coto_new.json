@@ -1,0 +1,4525 @@
+{
+ "carne-milanesa": {
+  "precio": 19499.0,
+  "avail": true,
+  "nombre": "Nalga  Estancias Coto X KG",
+  "list": 19499.0,
+  "promo": null
+ },
+ "bifes": {
+  "precio": 17499.0,
+  "avail": true,
+  "nombre": "Bola De Lomo  Estancias Coto X KG",
+  "list": 17499.0,
+  "promo": null
+ },
+ "carne-picada": {
+  "precio": 12999.0,
+  "avail": true,
+  "nombre": "Picada Especial X KG",
+  "list": 12999.0,
+  "promo": null
+ },
+ "carne-sopa": {
+  "precio": 9899.0,
+  "avail": true,
+  "nombre": "Osobuco De Garron    X KG",
+  "list": 9899.0,
+  "promo": null
+ },
+ "pechuga": {
+  "precio": 8999.0,
+  "avail": true,
+  "nombre": "Pechuga Con Piel X Kg Congelados",
+  "list": 8999.0,
+  "promo": null
+ },
+ "tira-asado": {
+  "precio": 16499.0,
+  "avail": true,
+  "nombre": "Asado De Bife Coto Xkg",
+  "list": 16499.0,
+  "promo": null
+ },
+ "chorizo": {
+  "precio": 13000.0,
+  "avail": true,
+  "nombre": "Chorizo Fco El Amanecer El Amanecer Ban 1 Kgm",
+  "list": 13000.0,
+  "promo": null
+ },
+ "matambre": {
+  "precio": 17300.0,
+  "avail": true,
+  "nombre": "Matambre Mixto X Kg",
+  "list": 17300.0,
+  "promo": null
+ },
+ "carne-estofado": {
+  "precio": 4800.0,
+  "avail": true,
+  "nombre": "Estofado De Cerdo X KG",
+  "list": 4800.0,
+  "promo": null
+ },
+ "pollo-entero": {
+  "precio": 4399.0,
+  "avail": true,
+  "nombre": "Pollo Congelado X Kg",
+  "list": 4399.0,
+  "promo": "10%Dto"
+ },
+ "merluza": {
+  "precio": 15999.0,
+  "avail": true,
+  "nombre": "Filet de merluza despinado con piel x Kg",
+  "list": 15999.0,
+  "promo": "20%Dto"
+ },
+ "milanesa-de-bola-de-lomo-x-kg": {
+  "precio": 17499.0,
+  "avail": true,
+  "nombre": "Bola De Lomo  Estancias Coto X KG",
+  "list": 17499.0,
+  "promo": null
+ },
+ "tapa-de-asado-x-kg": {
+  "precio": 13499.0,
+  "avail": true,
+  "nombre": "Tapa De Asado  Especial X KG",
+  "list": 13499.0,
+  "promo": null
+ },
+ "bife-ancho-novillo-x-kg": {
+  "precio": 14999.0,
+  "avail": true,
+  "nombre": "Bife Ancho    X KG",
+  "list": 14999.0,
+  "promo": null
+ },
+ "paleta-x-kg": {
+  "precio": 15699.0,
+  "avail": true,
+  "nombre": "Paleta Del Centro  Estancias Coto X KG",
+  "list": 15699.0,
+  "promo": null
+ },
+ "colita-de-cuadril-x-kg": {
+  "precio": 20499.0,
+  "avail": true,
+  "nombre": "Colita De Cuadril  Estancias Coto X KG",
+  "list": 20499.0,
+  "promo": null
+ },
+ "cuadril-novillo-x-kg": {
+  "precio": 18499.0,
+  "avail": true,
+  "nombre": "Cuadril  Selección X KG",
+  "list": 18499.0,
+  "promo": null
+ },
+ "asado-novillo-x-kg": {
+  "precio": 12999.0,
+  "avail": true,
+  "nombre": "Asado Del Medio Estancias Coto X KG",
+  "list": 12999.0,
+  "promo": null
+ },
+ "nalga-x-kg": {
+  "precio": 19499.0,
+  "avail": true,
+  "nombre": "Nalga  Estancias Coto X KG",
+  "list": 19499.0,
+  "promo": null
+ },
+ "peceto-x-kg": {
+  "precio": 20999.0,
+  "avail": true,
+  "nombre": "Peceto  Estancias Coto X KG",
+  "list": 20999.0,
+  "promo": null
+ },
+ "palomita-novillo-x-kg": {
+  "precio": 15699.0,
+  "avail": true,
+  "nombre": "Palomita    X KG",
+  "list": 15699.0,
+  "promo": null
+ },
+ "marucha-novillo-x-kg": {
+  "precio": 12999.0,
+  "avail": true,
+  "nombre": "Marucha    X KG",
+  "list": 12999.0,
+  "promo": null
+ },
+ "espinazo-novillo-x-kg": {
+  "precio": 3990.0,
+  "avail": true,
+  "nombre": "Espinazo    X KG",
+  "list": 3990.0,
+  "promo": null
+ },
+ "azotillo-novillo-x-kg": {
+  "precio": 10999.0,
+  "avail": true,
+  "nombre": "Azotillo X KG",
+  "list": 10999.0,
+  "promo": null
+ },
+ "vacio-x-kg": {
+  "precio": 18499.0,
+  "avail": true,
+  "nombre": "Vacío Del Centro Estancias Coto X KG",
+  "list": 18499.0,
+  "promo": null
+ },
+ "ojo-de-bife-novillito-x-kg": {
+  "precio": 28999.0,
+  "avail": true,
+  "nombre": "Ojo De Bife  (peso Aproximado De La Unidad 1,200 Kg) X KG",
+  "list": 28999.0,
+  "promo": null
+ },
+ "lomo-novillito-x-kg": {
+  "precio": 25499.0,
+  "avail": true,
+  "nombre": "Lomo  Estancias Coto X KG",
+  "list": 25499.0,
+  "promo": null
+ },
+ "cuadrada-en-trozo-x-kg": {
+  "precio": 17499.0,
+  "avail": true,
+  "nombre": "Cuadrada  Novillito Estancias Coto X Kg",
+  "list": 17499.0,
+  "promo": null
+ },
+ "tortuguita-novillo-x-kg": {
+  "precio": 15499.0,
+  "avail": true,
+  "nombre": "Tortuguita    X KG",
+  "list": 15499.0,
+  "promo": null
+ },
+ "lengua-vacuna-x-kg": {
+  "precio": 10000.0,
+  "avail": true,
+  "nombre": "Lengua Cong. Xkg",
+  "list": 10000.0,
+  "promo": null
+ },
+ "muslo-el-mercado-x-kg": {
+  "precio": 7499.0,
+  "avail": true,
+  "nombre": "Muslo Con Piel X Kg Congelados",
+  "list": 7499.0,
+  "promo": null
+ },
+ "pata-de-pollo-el-mercado-x-kg": {
+  "precio": 3999.0,
+  "avail": true,
+  "nombre": "Pata Muslo Con Piel X Kg Congelados",
+  "list": 3999.0,
+  "promo": null
+ },
+ "carre-de-cerdo-x-kg": {
+  "precio": 7800.0,
+  "avail": true,
+  "nombre": "Carré De Cerdo X KG",
+  "list": 7800.0,
+  "promo": null
+ },
+ "pechito-de-cerdo-x-kg": {
+  "precio": 7600.0,
+  "avail": true,
+  "nombre": "Pechito Con Manta De Cerdo X KG",
+  "list": 7600.0,
+  "promo": null
+ },
+ "churrasquito-de-cerdo-x-kg": {
+  "precio": 12000.0,
+  "avail": true,
+  "nombre": "Churrasquito De Cerdo X KG",
+  "list": 12000.0,
+  "promo": null
+ },
+ "solomillo-de-cerdo-x-kg": {
+  "precio": 19000.0,
+  "avail": true,
+  "nombre": "Solomillo  De Cerdo (peso Mínimo De La Unidad 790g) X KG",
+  "list": 19000.0,
+  "promo": null
+ },
+ "matambrito-de-cerdo-x-kg": {
+  "precio": 18000.0,
+  "avail": true,
+  "nombre": "Matambre De Cerdo X KG",
+  "list": 18000.0,
+  "promo": null
+ },
+ "costeleta-de-cerdo-x-3-huella-natural-x-": {
+  "precio": 4299.0,
+  "avail": true,
+  "nombre": "Paleta Con Hueso Y Cuero De Cerdo X KG",
+  "list": 4299.0,
+  "promo": null
+ },
+ "ribs-de-cerdo-x-kg": {
+  "precio": 4299.0,
+  "avail": true,
+  "nombre": "Paleta Con Hueso Y Cuero De Cerdo X KG",
+  "list": 4299.0,
+  "promo": null
+ },
+ "cinta-de-carre-de-cerdo-x-kg": {
+  "precio": null,
+  "avail": false,
+  "gone": true,
+  "nombre": null,
+  "list": null,
+  "promo": null
+ },
+ "rinoncito-de-cerdo-x-kg": {
+  "precio": 4299.0,
+  "avail": true,
+  "nombre": "Paleta Con Hueso Y Cuero De Cerdo X KG",
+  "list": 4299.0,
+  "promo": null
+ },
+ "higado-x-kg": {
+  "precio": 4000.0,
+  "avail": true,
+  "nombre": "Higado X KG",
+  "list": 4000.0,
+  "promo": null
+ },
+ "chinchulin-escurrido-x-kg": {
+  "precio": 6500.0,
+  "avail": true,
+  "nombre": "Chinchulin X Kg",
+  "list": 6500.0,
+  "promo": null
+ },
+ "chorizo-parrillero-cabana-argentina-435-": {
+  "precio": 6800.0,
+  "avail": true,
+  "nombre": "Chorizo parrillero envasado al vacío CABAÑA ARGENTINA 435g",
+  "list": 6800.0,
+  "promo": null
+ },
+ "rinon-x-kg": {
+  "precio": 4800.0,
+  "avail": true,
+  "nombre": "Riñón    X KG",
+  "list": 4800.0,
+  "promo": null
+ },
+ "mondongo-x-kg": {
+  "precio": 8500.0,
+  "avail": true,
+  "nombre": "Mondongo X Kg",
+  "list": 8500.0,
+  "promo": null
+ },
+ "molleja-x-kg": {
+  "precio": 25000.0,
+  "avail": true,
+  "nombre": "Molleja    X KG",
+  "list": 25000.0,
+  "promo": null
+ },
+ "langostinos-enteros-grande-mercado-del-m": {
+  "precio": 29990.0,
+  "avail": true,
+  "nombre": "Langostino Entero Crudo Grande Congelado X Kg\r\n",
+  "list": 29990.0,
+  "promo": "20%Dto"
+ },
+ "kanikama-mercado-del-mar-x-kg": {
+  "precio": 3599.0,
+  "avail": true,
+  "nombre": "Surimi Varita Ahumada Kanikama Paq 125 Grm",
+  "list": 3599.0,
+  "promo": "20%Dto"
+ },
+ "cayos-de-vieiras-mercado-del-mar-x-kg": {
+  "precio": 29999.0,
+  "avail": true,
+  "nombre": "Vieira C/Poller   Xkg",
+  "list": 29999.0,
+  "promo": "20%Dto"
+ },
+ "vieiras-media-valva-mercado-del-mar-x-kg": {
+  "precio": 24999.0,
+  "avail": true,
+  "nombre": "Mejillon Media Valva Chileno Congelado X Kg\r\n",
+  "list": 24999.0,
+  "promo": "20%Dto"
+ },
+ "tentaculo-de-calamar-mercado-del-mar-x-k": {
+  "precio": 27999.0,
+  "avail": true,
+  "nombre": "Tentaculo De Calamar Congelado X Kg\r\n",
+  "list": 27999.0,
+  "promo": "20%Dto"
+ },
+ "tubo-de-calamar-mercado-del-mar-x-kg": {
+  "precio": 29999.0,
+  "avail": true,
+  "nombre": "Tubo De Calamar Congelado X Kg",
+  "list": 29999.0,
+  "promo": "20%Dto"
+ },
+ "formitas-de-marluza-mercado-del-mar-x-kg": {
+  "precio": 8499.0,
+  "avail": true,
+  "nombre": "Merluza Rebozada Formita Infantil Prefrito Congelado X Kg\r\n",
+  "list": 8499.0,
+  "promo": "20%Dto"
+ },
+ "medallon-de-merluza-espinaca-y-queso-mer": {
+  "precio": 6990.0,
+  "avail": true,
+  "nombre": "Medallon De Merluza Rebozado Espinaca Y Queso Prefrito Congelado X Kg\r\n",
+  "list": 6990.0,
+  "promo": null
+ },
+ "filet-a-las-finas-hierbas-mercado-del-ma": {
+  "precio": 7589.0,
+  "avail": true,
+  "nombre": "Palitos De Pollo A Las Finas Hierbas GRUPOLAR 320g",
+  "list": 7589.0,
+  "promo": null
+ },
+ "rabas-rebozadas-mercado-del-mar-x-kg": {
+  "precio": 41999.0,
+  "avail": true,
+  "nombre": "Raba Rebozada Prefrita Congelado X Kg\r\n",
+  "list": 41999.0,
+  "promo": "20%Dto"
+ },
+ "papa": {
+  "precio": 2299.0,
+  "avail": true,
+  "nombre": "Papa Negra Selección X Kg",
+  "list": 2299.0,
+  "promo": null
+ },
+ "cebolla": {
+  "precio": 3699.0,
+  "avail": true,
+  "nombre": "Cebolla A Granel X Kg",
+  "list": 3699.0,
+  "promo": null
+ },
+ "tomate": {
+  "precio": 6499.0,
+  "avail": true,
+  "nombre": "Tomate Larga Vida Racimo X Kg",
+  "list": 6499.0,
+  "promo": null
+ },
+ "lechuga": {
+  "precio": 2899.0,
+  "avail": true,
+  "nombre": "Lechuga Morada X Kg",
+  "list": 2899.0,
+  "promo": null
+ },
+ "palta": {
+  "precio": 6999.0,
+  "avail": true,
+  "nombre": "Palta Hass   Xkg",
+  "list": 6999.0,
+  "promo": null
+ },
+ "zanahoria": {
+  "precio": 2899.0,
+  "avail": true,
+  "nombre": "Zanahoria Bolsita X Kg",
+  "list": 2899.0,
+  "promo": null
+ },
+ "espinaca": {
+  "precio": 3795.0,
+  "avail": true,
+  "nombre": "Espinaca Congelada Lucchetti 400g",
+  "list": 3795.0,
+  "promo": null
+ },
+ "brocoli": {
+  "precio": 7499.0,
+  "avail": true,
+  "nombre": "Brocoli X Kg",
+  "list": 7499.0,
+  "promo": null
+ },
+ "coliflor": {
+  "precio": 5499.0,
+  "avail": true,
+  "nombre": "Coliflor Romanesco Xkg",
+  "list": 5499.0,
+  "promo": null
+ },
+ "zapallito": {
+  "precio": 5399.0,
+  "avail": true,
+  "nombre": "Zapallito Redondo   Xkg",
+  "list": 5399.0,
+  "promo": null
+ },
+ "berenjena": {
+  "precio": 3999.0,
+  "avail": true,
+  "nombre": "Berenjena x kg",
+  "list": 3999.0,
+  "promo": null
+ },
+ "calabaza": {
+  "precio": 3999.0,
+  "avail": true,
+  "nombre": "Zapallo Anco X Kg",
+  "list": 3999.0,
+  "promo": null
+ },
+ "champignones": {
+  "precio": 5699.0,
+  "avail": true,
+  "nombre": "Champignon Blanco Laminado PORTO X 200 Gr",
+  "list": 5699.0,
+  "promo": null
+ },
+ "banana": {
+  "precio": 1999.0,
+  "avail": true,
+  "nombre": "Banana Cavendish X Kg",
+  "list": 1999.0,
+  "promo": null
+ },
+ "frutilla": {
+  "precio": 12499.0,
+  "avail": true,
+  "nombre": "Almohaditas Frutilla Nutrifoods Xkg 1 Kgm",
+  "list": 12499.0,
+  "promo": null
+ },
+ "uvas": {
+  "precio": 8999.0,
+  "avail": true,
+  "nombre": "Uva Negra importada x Kg",
+  "list": 8999.0,
+  "promo": null
+ },
+ "mandarina-nova-huella-natural-x-kg": {
+  "precio": 1199.0,
+  "avail": true,
+  "nombre": "Mandarina Murcot   Xkg",
+  "list": 1199.0,
+  "promo": null
+ },
+ "arandanos-125-g": {
+  "precio": 2499.0,
+  "avail": true,
+  "nombre": "Arandano Bja 125 Gr",
+  "list": 2499.0,
+  "promo": null
+ },
+ "lima-taiti-x-kg": {
+  "precio": 1240.99,
+  "avail": true,
+  "nombre": "Lima Para Uñas TAO Lavable",
+  "list": 1240.99,
+  "promo": "25%Dto"
+ },
+ "melon-amarillo-x-kg": {
+  "precio": 3299.0,
+  "avail": true,
+  "nombre": "Melón Amarillo X Kg",
+  "list": 3299.0,
+  "promo": null
+ },
+ "papaya-x-uni": {
+  "precio": 8999.0,
+  "avail": true,
+  "nombre": "Papaya .   Xkg",
+  "list": 8999.0,
+  "promo": null
+ },
+ "batata-x-kg": {
+  "precio": 2399.0,
+  "avail": true,
+  "nombre": "Batata X Kg",
+  "list": 2399.0,
+  "promo": null
+ },
+ "pimiento-rojo-x-kg": {
+  "precio": 10499.0,
+  "avail": true,
+  "nombre": "Pimiento Rojo   Xkg",
+  "list": 10499.0,
+  "promo": null
+ },
+ "puerro-x-atado": {
+  "precio": 1099.0,
+  "avail": true,
+  "nombre": "Puerro X Uni",
+  "list": 1099.0,
+  "promo": null
+ },
+ "acelga-x-paquete": {
+  "precio": 999.0,
+  "avail": true,
+  "nombre": "Acelga Hidroponica Pack Choi Compostela 1u",
+  "list": 999.0,
+  "promo": null
+ },
+ "pepino-x-kg": {
+  "precio": 1999.0,
+  "avail": true,
+  "nombre": "Pepino .   Xkg",
+  "list": 1999.0,
+  "promo": null
+ },
+ "choclo-x-uni": {
+  "precio": 1000.0,
+  "avail": true,
+  "nombre": "Choclo Amarillo Cremoso Inalpa Vida 300 Grm",
+  "list": 1000.0,
+  "promo": null
+ },
+ "rucula-x-1-atado": {
+  "precio": 749.0,
+  "avail": true,
+  "nombre": "Rucula X Uni",
+  "list": 749.0,
+  "promo": null
+ },
+ "perejil-x-atado": {
+  "precio": 1099.0,
+  "avail": true,
+  "nombre": "Perejil Dicomere 30 Grm",
+  "list": 1099.0,
+  "promo": null
+ },
+ "remolacha-x-kg": {
+  "precio": 2499.0,
+  "avail": true,
+  "nombre": "Remolacha X Kg",
+  "list": 2499.0,
+  "promo": null
+ },
+ "repollo-blanco-x-kg": {
+  "precio": 1999.0,
+  "avail": true,
+  "nombre": "Repollo Blanco X Kg",
+  "list": 1999.0,
+  "promo": null
+ },
+ "espinaca-x-atado": {
+  "precio": 3795.0,
+  "avail": true,
+  "nombre": "Espinaca Congelada Lucchetti 400g",
+  "list": 3795.0,
+  "promo": null
+ },
+ "rabanito-x-atado": {
+  "precio": 5299.0,
+  "avail": true,
+  "nombre": "Rabanito X Kg",
+  "list": 5299.0,
+  "promo": null
+ },
+ "mix-desayuno-el-mercado-300-grs": {
+  "precio": 10999.0,
+  "avail": true,
+  "nombre": "Mix Nórdico Kos Food 300g",
+  "list": 10999.0,
+  "promo": null
+ },
+ "patitas": {
+  "precio": 8635.0,
+  "avail": true,
+  "nombre": "Patitas De Pollo Original Patitas 400g",
+  "list": 8635.0,
+  "promo": null
+ },
+ "jamon": {
+  "precio": 22205.0,
+  "avail": true,
+  "nombre": "Jamon Cocido Feteado. Primera Mar . 1 Kgm",
+  "list": 22205.0,
+  "promo": null
+ },
+ "queso-cremoso": {
+  "precio": 11999.0,
+  "avail": true,
+  "nombre": "Queso Cremoso La Maria Pilar X Kg",
+  "list": 11999.0,
+  "promo": null
+ },
+ "queso-rallado": {
+  "precio": 4189.0,
+  "avail": true,
+  "nombre": "Queso Parmesano Rallado LA SERENISIMA 80g",
+  "list": 4189.0,
+  "promo": null
+ },
+ "crema": {
+  "precio": 3080.0,
+  "avail": true,
+  "nombre": "Crema De Leche Clasica Para Cocinar LAS TRES NIÑAS 200 Ml",
+  "list": 3080.0,
+  "promo": null
+ },
+ "manteca": {
+  "precio": 4575.0,
+  "avail": true,
+  "nombre": "Manteca Sin Sal Tonadita Pan 200 Grm",
+  "list": 4575.0,
+  "promo": null
+ },
+ "queso-untable": {
+  "precio": 5995.0,
+  "avail": true,
+  "nombre": "Queso Blanco Balance CASANCREM 290gr",
+  "list": 5995.0,
+  "promo": null
+ },
+ "yogur-bebible": {
+  "precio": 4049.0,
+  "avail": true,
+  "nombre": "Yogur ILOLAY Durazno Bebible 1kg",
+  "list": 4049.0,
+  "promo": null
+ },
+ "postrecitos": {
+  "precio": 1325.0,
+  "avail": true,
+  "nombre": "Yogur DANONINO Batido Sabor Frutilla 80,5 Gr",
+  "list": 1325.0,
+  "promo": null
+ },
+ "tapas-tarta": {
+  "precio": 3799.0,
+  "avail": true,
+  "nombre": "Tapas para Tartas La Salteña Mix de Semillas Lino, Chía y Quinoa 400g",
+  "list": 3799.0,
+  "promo": null
+ },
+ "tapas-empanadas": {
+  "precio": 1849.0,
+  "avail": true,
+  "nombre": "Tapas Para Empanadas Criollas Ciudad Del Lago X12 Un 300 Grm",
+  "list": 1849.0,
+  "promo": null
+ },
+ "salchichas": {
+  "precio": 2015.0,
+  "avail": true,
+  "nombre": "Salchichas Sin Piel 6u 66 190g",
+  "list": 2015.0,
+  "promo": null
+ },
+ "queso-danbo": {
+  "precio": 10999.0,
+  "avail": true,
+  "nombre": "Queso La Paulina Danbo en Fetas Pack Ahorro 500g",
+  "list": 10999.0,
+  "promo": null
+ },
+ "salame": {
+  "precio": 5969.0,
+  "avail": true,
+  "nombre": "Salame Milan Feteado Campo Austral 150g",
+  "list": 5969.0,
+  "promo": null
+ },
+ "mortadela": {
+  "precio": 2635.0,
+  "avail": true,
+  "nombre": "Mortadela BOCATTI Con Pistacho Bli 70 Grm",
+  "list": 2635.0,
+  "promo": null
+ },
+ "yogur-firme": {
+  "precio": 1079.0,
+  "avail": true,
+  "nombre": "Yogur Entero Firme Sabor Frutilla Ilolay 120g",
+  "list": 1079.0,
+  "promo": null
+ },
+ "ricota": {
+  "precio": 2554.0,
+  "avail": true,
+  "nombre": "Ravioles Ricota Amici 400g",
+  "list": 2554.0,
+  "promo": null
+ },
+ "muzzarella": {
+  "precio": 7759.0,
+  "avail": true,
+  "nombre": "Muzzarella FORMAGGE 250g",
+  "list": 7759.0,
+  "promo": null
+ },
+ "tapas-pizza": {
+  "precio": 2399.0,
+  "avail": true,
+  "nombre": "Prepizza C/Tomate Yuli Bsa 330 Grm\r\n",
+  "list": 2399.0,
+  "promo": null
+ },
+ "leche-chocolatada": {
+  "precio": 4480.0,
+  "avail": true,
+  "nombre": "Leche chocolatada sin lactosa ILOLAY 1L",
+  "list": 4480.0,
+  "promo": null
+ },
+ "dulce-de-leche": {
+  "precio": 3599.0,
+  "avail": true,
+  "nombre": "Dulce De Leche COTO 400g",
+  "list": 3599.0,
+  "promo": null
+ },
+ "panceta": {
+  "precio": 6069.0,
+  "avail": true,
+  "nombre": "Panceta Feteada Paladini Bli 150 Grm",
+  "list": 6069.0,
+  "promo": null
+ },
+ "provoleta": {
+  "precio": 25499.0,
+  "avail": true,
+  "nombre": "Provoleta Parrillera CANUT X Kg",
+  "list": 25499.0,
+  "promo": null
+ },
+ "actimel": {
+  "precio": 2199.0,
+  "avail": true,
+  "nombre": "Leche Fermentada Kids Sabor Frutilla Dulce ACTIMEL 100gr",
+  "list": 2199.0,
+  "promo": null
+ },
+ "queso-hebras": {
+  "precio": 2889.0,
+  "avail": true,
+  "nombre": "Queso En Hebras Cuatro Quesos La Paulina Bol 1 Grm",
+  "list": 2889.0,
+  "promo": null
+ },
+ "ravioles": {
+  "precio": 3445.0,
+  "avail": true,
+  "nombre": "Ravioles Rellenos Ricota Mozzarella Y Jamon MENDIA 500g",
+  "list": 3445.0,
+  "promo": null
+ },
+ "queso-portsalut": {
+  "precio": 7469.0,
+  "avail": true,
+  "nombre": "Port Salut Vacalin Fracc Paq 400 Grm",
+  "list": 7469.0,
+  "promo": null
+ },
+ "papas-congeladas": {
+  "precio": 4888.0,
+  "avail": true,
+  "nombre": "Papas Corte Tradicional MCCAIN 400g",
+  "list": 4888.0,
+  "promo": null
+ },
+ "nescao-chocolatada-lista-para-tomar-185-": {
+  "precio": 1689.0,
+  "avail": true,
+  "nombre": "Nescao® Chocolatada Lista Para Tomar X 185ml.",
+  "list": 1689.0,
+  "promo": null
+ },
+ "la-lechera-nutrifuerza-800-grs": {
+  "precio": 14296.0,
+  "avail": true,
+  "nombre": "LA LECHERA® Nutrifuerza x 800gr\r\n",
+  "list": 14296.0,
+  "promo": null
+ },
+ "svelty-extra-calcio-750-grs": {
+  "precio": 17696.0,
+  "avail": true,
+  "nombre": "SVELTY® Extra Calcio x 750gr\r\n",
+  "list": 17696.0,
+  "promo": null
+ },
+ "svelty-extra-calcio-200-grs": {
+  "precio": 4575.0,
+  "avail": true,
+  "nombre": "Manteca Extra Sal Tonadita 200g",
+  "list": 4575.0,
+  "promo": null
+ },
+ "svelty-extra-calcio-370-grs": {
+  "precio": 9606.0,
+  "avail": true,
+  "nombre": "SVELTY® Extra Calcio x 370gr\r\n",
+  "list": 9606.0,
+  "promo": null
+ },
+ "svelty-colageno-370-grs": {
+  "precio": 11524.0,
+  "avail": true,
+  "nombre": "SVELTY® Colágeno x 370gr\r\n",
+  "list": 11524.0,
+  "promo": null
+ },
+ "sachet-yogur-entero-sabor-frutilla-la-se": {
+  "precio": 5429.0,
+  "avail": true,
+  "nombre": "Yogur Sachet Deslactosado Sabor Frutilla 900gr La Serenísima Nutrición Activa\r\n",
+  "list": 5429.0,
+  "promo": null
+ },
+ "yogur-griego-bebible-natural-yogurisimo-": {
+  "precio": 6415.0,
+  "avail": true,
+  "nombre": "Yogurísimo Griego Bebible Frutilla 900g",
+  "list": 6415.0,
+  "promo": null
+ },
+ "yogur-griego-con-granola-yogurisimo-168-": {
+  "precio": 4285.0,
+  "avail": true,
+  "nombre": "Yogur Griego con granola Yogurísimo 168g\r\n",
+  "list": 4285.0,
+  "promo": null
+ },
+ "yogur-cremoso-milkaut-sabor-natural-en-p": {
+  "precio": 2499.0,
+  "avail": true,
+  "nombre": "Yogur Cremoso Entero Sabor Natural Milkaut 180g",
+  "list": 2499.0,
+  "promo": null
+ },
+ "yogur-natural-sin-azucar-tregar-en-pote-": {
+  "precio": 3990.0,
+  "avail": true,
+  "nombre": "Yogur Entero Natural Sin Azucar Tregar 280g",
+  "list": 3990.0,
+  "promo": null
+ },
+ "yogur-cremoso-ilolay-natural-en-pote-350": {
+  "precio": 3920.0,
+  "avail": true,
+  "nombre": "Yogur batido descremado sabor natural ILOLAY 350g",
+  "list": 3920.0,
+  "promo": null
+ },
+ "manteca-cotampo-200-grs": {
+  "precio": 1999.0,
+  "avail": true,
+  "nombre": "Manteca COTAMPO 200g",
+  "list": 1999.0,
+  "promo": null
+ },
+ "levadura-seca-instantanea-levex-panes-es": {
+  "precio": 709.0,
+  "avail": true,
+  "nombre": "Levaduras Panes Especiales Levex 12g",
+  "list": 709.0,
+  "promo": null
+ },
+ "margarina-en-pan-margadan-200-g": {
+  "precio": 2349.0,
+  "avail": true,
+  "nombre": "Margarina Para Cocina Y Resposteria DANICA 200g",
+  "list": 2349.0,
+  "promo": null
+ },
+ "crema-la-serenisima-para-cocinar-330-cc": {
+  "precio": 5135.0,
+  "avail": true,
+  "nombre": "Crema Para Cocinar LA SERENISIMA 330ml",
+  "list": 5135.0,
+  "promo": "25%Dto"
+ },
+ "huevos-blancos-el-mercado-6-uni": {
+  "precio": 2190.0,
+  "avail": true,
+  "nombre": "Huevo Blanco Grande 6u",
+  "list": 2190.0,
+  "promo": null
+ },
+ "tapa-para-empanada-criolla-la-saltena-x-": {
+  "precio": 2535.0,
+  "avail": true,
+  "nombre": "Tapa Para Empanada Criolla La Salteña 330g",
+  "list": 2535.0,
+  "promo": null
+ },
+ "dulce-de-batata-esnaola-lata-700-g": {
+  "precio": 10499.0,
+  "avail": true,
+  "nombre": "Dulce De Batata A La Vainilla Esnaola 700g",
+  "list": 10499.0,
+  "promo": null
+ },
+ "salchicha-friolim-con-piel-alemana-corta": {
+  "precio": 3379.0,
+  "avail": true,
+  "nombre": "Salchicha FRIOLIM Con Piel Alemana Corta X 4 Uni 180g",
+  "list": 3379.0,
+  "promo": null
+ },
+ "queso-la-serenisima-original-libre-de-gl": {
+  "precio": 6285.0,
+  "avail": true,
+  "nombre": "Queso Untable La SerenÍsima Clásico 460 gr",
+  "list": 6285.0,
+  "promo": null
+ },
+ "queso-cremon-la-serenisima-original-pote": {
+  "precio": 4300.0,
+  "avail": true,
+  "nombre": "Queso Blanco Original La Serenísima Clásico 290 Gr",
+  "list": 4300.0,
+  "promo": null
+ },
+ "queso-untable-tonadita-sabor-queso-azul-": {
+  "precio": 2879.0,
+  "avail": true,
+  "nombre": "Queso Untable Salame Tonadita 180g",
+  "list": 2879.0,
+  "promo": null
+ },
+ "queso-crema-entero-carrefour-classic-480": {
+  "precio": 4799.0,
+  "avail": true,
+  "nombre": "Queso Con Crema Light Cremette 480g",
+  "list": 4799.0,
+  "promo": null
+ },
+ "queso-crema-milkaut-crematto-balance-en-": {
+  "precio": 7549.0,
+  "avail": true,
+  "nombre": "Queso Crema Crematto Clasico Milkaut 445g",
+  "list": 7549.0,
+  "promo": null
+ },
+ "queso-gouda-vaquero-fraccionado": {
+  "precio": 19499.0,
+  "avail": true,
+  "nombre": "Queso Gouda . Noal Xkg",
+  "list": 19499.0,
+  "promo": null
+ },
+ "queso-rallado-carrefour-classic-120-grs": {
+  "precio": 5199.0,
+  "avail": true,
+  "nombre": "Queso Rallado Melincué 120g",
+  "list": 5199.0,
+  "promo": "25%Dto"
+ },
+ "alimento-a-base-de-queso-rallado-la-ques": {
+  "precio": 2599.0,
+  "avail": true,
+  "nombre": "Aderezo A Base De Queso Rallado Ciudad Del Lago 100g",
+  "list": 2599.0,
+  "promo": null
+ },
+ "provoleta-con-cazuela-nonna-pia-x-uni": {
+  "precio": 7165.0,
+  "avail": true,
+  "nombre": "Queso Provoleta Con Cazuela Nonna Pia 160 Grm",
+  "list": 7165.0,
+  "promo": null
+ },
+ "mini-provoleta-nonna-pia-4-uni": {
+  "precio": 7955.0,
+  "avail": true,
+  "nombre": "Queso Provoleta Mini Nonna Pia 175g",
+  "list": 7955.0,
+  "promo": null
+ },
+ "queso-danbo-dona-aurora-feteado-170-g": {
+  "precio": 5719.0,
+  "avail": true,
+  "nombre": "Queso Dambo Fetas Doña Aurora X 170g",
+  "list": 5719.0,
+  "promo": null
+ },
+ "lomito-feteado-150-g": {
+  "precio": 6105.0,
+  "avail": true,
+  "nombre": "Queso Cheddar Feteado La Serenisima 150gr",
+  "list": 6105.0,
+  "promo": null
+ },
+ "salamin-tandilero-cagnoli-picado-fino-14": {
+  "precio": 8189.0,
+  "avail": true,
+  "nombre": "Salamín Picado Fino Cagnoli 145g",
+  "list": 8189.0,
+  "promo": null
+ },
+ "longaniza-espanola-cagnoli-x-kg": {
+  "precio": 32329.0,
+  "avail": true,
+  "nombre": "Longaniza A La Española Las Dinas X 1kg",
+  "list": 32329.0,
+  "promo": null
+ },
+ "pizzetas-de-tomate-6-u": {
+  "precio": null,
+  "avail": false,
+  "gone": true,
+  "nombre": null,
+  "list": null,
+  "promo": null
+ },
+ "pizza-napolitana-x-unidad": {
+  "precio": 16199.0,
+  "avail": true,
+  "nombre": "Pizza Napolitana Coto X Uni",
+  "list": 16199.0,
+  "promo": null
+ },
+ "quiche-pollo-puerro-y-mozzarella-el-merc": {
+  "precio": 7186.0,
+  "avail": true,
+  "nombre": "Nuggets Crocantes De Pollo Union Ganadera 300g",
+  "list": 7186.0,
+  "promo": null
+ },
+ "tarta-de-calabaza-x-unidad": {
+  "precio": 8599.0,
+  "avail": true,
+  "nombre": "Tarta Individual De Calabaza",
+  "list": 8599.0,
+  "promo": null
+ },
+ "hamburguesa-paty-flowpack-2-uni": {
+  "precio": 8572.0,
+  "avail": true,
+  "nombre": "Hamburguesa Carne Vacuna X Paty Cja 288 Grm",
+  "list": 8572.0,
+  "promo": null
+ },
+ "medallon-de-carne-vacuna-congelados-2-un": {
+  "precio": 2565.0,
+  "avail": true,
+  "nombre": "Medallon Carne Vacuna/Soja Paty 110g",
+  "list": 2565.0,
+  "promo": null
+ },
+ "hamburguesa-swift-clasica-4-u": {
+  "precio": 14842.0,
+  "avail": true,
+  "nombre": "Hamburguesas PATY  4 Uni X 120 Gr Grandes",
+  "list": 14842.0,
+  "promo": null
+ },
+ "hamburguesa-grandes-de-cancha-paty-caja-": {
+  "precio": 14842.0,
+  "avail": true,
+  "nombre": "Hamburguesas PATY  4 Uni X 120 Gr Grandes",
+  "list": 14842.0,
+  "promo": null
+ },
+ "bocaditos-de-pollo-patitas-sabor-origina": {
+  "precio": 25649.0,
+  "avail": true,
+  "nombre": "Patitas De Pollo Granja Del Sol 1.1kg",
+  "list": 25649.0,
+  "promo": null
+ },
+ "nuggets-de-pollo-carrefour-classic-300-g": {
+  "precio": 7186.0,
+  "avail": true,
+  "nombre": "Nuggets Crocantes De Pollo Union Ganadera 300g",
+  "list": 7186.0,
+  "promo": null
+ },
+ "milanesa-de-soja-original-granja-del-sol": {
+  "precio": 9649.0,
+  "avail": true,
+  "nombre": "Milanesas De Soja receta original GRANJA DEL SOL 660g",
+  "list": 9649.0,
+  "promo": "40%Dto"
+ },
+ "milanesa-de-soja-swift-4-u": {
+  "precio": 5499.0,
+  "avail": true,
+  "nombre": "Milanesas de soja GRANJA DEL SOL 330g",
+  "list": 5499.0,
+  "promo": "40%Dto"
+ },
+ "papas-noisettes-carrefour-classic-500-g": {
+  "precio": 2699.0,
+  "avail": true,
+  "nombre": "Papas Mix Huercal del Famataca 500g",
+  "list": 2699.0,
+  "promo": null
+ },
+ "pizza-pietro-de-mozzarella-470-g": {
+  "precio": 11245.0,
+  "avail": true,
+  "nombre": "Pizza Mozzarella Pietro 470g",
+  "list": 11245.0,
+  "promo": null
+ },
+ "pizza-mozarella-individual-pietro-de-mas": {
+  "precio": 11245.0,
+  "avail": true,
+  "nombre": "Pizza Mozzarella Pietro 470g",
+  "list": 11245.0,
+  "promo": null
+ },
+ "lasagna-congelada-sadia-bolognesa-fp-350": {
+  "precio": 8605.0,
+  "avail": true,
+  "nombre": "Lasagna Bolognesa Sadia 350g",
+  "list": 8605.0,
+  "promo": null
+ },
+ "pizza-congelada-zen-margarita-en-caja-55": {
+  "precio": 16750.0,
+  "avail": true,
+  "nombre": "Pizza Margarita Pizza Zën 550g",
+  "list": 16750.0,
+  "promo": null
+ },
+ "camarones-pelados-cocidos-congelados-250": {
+  "precio": 9999.0,
+  "avail": true,
+  "nombre": "Camaron Pelado Cocido Superbe 250g",
+  "list": 9999.0,
+  "promo": "20%Dto"
+ },
+ "salmon-ahumado-superbe-200-g": {
+  "precio": 15999.0,
+  "avail": true,
+  "nombre": "Salmon Rosado Ahumado Rebanado SUPERBE 200g",
+  "list": 15999.0,
+  "promo": "20%Dto"
+ },
+ "mejillones-pelados-cocidos-congelados-su": {
+  "precio": 11099.0,
+  "avail": true,
+  "nombre": "Langostino Pelado Crudo SUPERBE 250g",
+  "list": 11099.0,
+  "promo": "20%Dto"
+ },
+ "langostinos-pelados-crudos-porto-bello-2": {
+  "precio": 11099.0,
+  "avail": true,
+  "nombre": "Langostino Pelado Crudo SUPERBE 250g",
+  "list": 11099.0,
+  "promo": "20%Dto"
+ },
+ "suprema-congelada-x-kg": {
+  "precio": 8200.0,
+  "avail": true,
+  "nombre": "Supremas Jamón Y Queso COTO Congelada X Kg",
+  "list": 8200.0,
+  "promo": null
+ },
+ "formitas-de-pollo-carrefour-classic-400-": {
+  "precio": 9605.0,
+  "avail": true,
+  "nombre": "Alitas De Pollo Crocante Sadia 400g",
+  "list": 9605.0,
+  "promo": null
+ },
+ "huevos": {
+  "precio": 11990.0,
+  "avail": true,
+  "nombre": "Huevos De Color Maple X 30u.",
+  "list": 11990.0,
+  "promo": null
+ },
+ "arroz": {
+  "precio": 2135.0,
+  "avail": true,
+  "nombre": "Arroz Largo Fino LUCCHETTI 1kg",
+  "list": 2135.0,
+  "promo": null
+ },
+ "arroz-risotto": {
+  "precio": 2225.0,
+  "avail": true,
+  "nombre": "Arroz Doble Carolina Gallo 500g",
+  "list": 2225.0,
+  "promo": null
+ },
+ "lentejas": {
+  "precio": 1983.0,
+  "avail": true,
+  "nombre": "Lentejas COTO Bolsa 400 Gr",
+  "list": 1983.0,
+  "promo": null
+ },
+ "polenta": {
+  "precio": 890.0,
+  "avail": true,
+  "nombre": "Polenta DEL CAMPO Paquete 500 Gr",
+  "list": 890.0,
+  "promo": null
+ },
+ "pure-tomate": {
+  "precio": 999.0,
+  "avail": true,
+  "nombre": "Pure Tomate CORPER 520 Gr",
+  "list": 999.0,
+  "promo": null
+ },
+ "pan-rallado": {
+  "precio": 3800.0,
+  "avail": true,
+  "nombre": "Pan Rallado Fortificado Preferido 1kg",
+  "list": 3800.0,
+  "promo": null
+ },
+ "lasagna": {
+  "precio": 15812.0,
+  "avail": true,
+  "nombre": "Lasagna BARILLA Precocida Paquete 500 Gr",
+  "list": 15812.0,
+  "promo": null
+ },
+ "aceite": {
+  "precio": 5495.0,
+  "avail": true,
+  "nombre": "Aceite Mezcla Soja/Girasol Cocinero 1.5 Ltr",
+  "list": 5495.0,
+  "promo": null
+ },
+ "aceite-oliva": {
+  "precio": 15700.0,
+  "avail": true,
+  "nombre": "Aceite Oliva Virgen Extra OLIOVITA Mediterráneo  500 Ml",
+  "list": 15700.0,
+  "promo": null
+ },
+ "avena": {
+  "precio": 2260.0,
+  "avail": true,
+  "nombre": "Avena instantánea QUAKER 280g",
+  "list": 2260.0,
+  "promo": null
+ },
+ "choclo-lata": {
+  "precio": 1800.0,
+  "avail": true,
+  "nombre": "Granos de choclo amarillo enteros COTO 300g",
+  "list": 1800.0,
+  "promo": null
+ },
+ "duraznos": {
+  "precio": 3999.0,
+  "avail": true,
+  "nombre": "Lata De Duraznos Inca 820g",
+  "list": 3999.0,
+  "promo": null
+ },
+ "cereales": {
+  "precio": 3417.99,
+  "avail": true,
+  "nombre": "Cereal Zucaritas Kelloggs 240g",
+  "list": 3417.99,
+  "promo": null
+ },
+ "azucar": {
+  "precio": 1390.0,
+  "avail": true,
+  "nombre": "Azúcar La Campechana 1kg",
+  "list": 1390.0,
+  "promo": null
+ },
+ "sal": {
+  "precio": 1787.0,
+  "avail": true,
+  "nombre": "Sal Fina . Celusal Est 500 Grm",
+  "list": 1787.0,
+  "promo": null
+ },
+ "harina": {
+  "precio": 919.0,
+  "avail": true,
+  "nombre": "Harina De Trigo 000 Coto 1kg",
+  "list": 919.0,
+  "promo": null
+ },
+ "aceitunas": {
+  "precio": 1390.0,
+  "avail": true,
+  "nombre": "Aceitunas Verdes Enteras Morixe 200g",
+  "list": 1390.0,
+  "promo": null
+ },
+ "atun-lata": {
+  "precio": 3235.0,
+  "avail": true,
+  "nombre": "Atun Desmenuzado Al Natural del Mar 170g",
+  "list": 3235.0,
+  "promo": null
+ },
+ "arvejas-lata": {
+  "precio": 1549.0,
+  "avail": true,
+  "nombre": "Arvejas y Choclo COTO 300g",
+  "list": 1549.0,
+  "promo": "35%Dto"
+ },
+ "mayonesa": {
+  "precio": 5963.0,
+  "avail": true,
+  "nombre": "Mayonesa NATURA   Pouch 950 Gr",
+  "list": 5963.0,
+  "promo": null
+ },
+ "ketchup": {
+  "precio": 1410.0,
+  "avail": true,
+  "nombre": "Ketchup Fiesta 220g",
+  "list": 1410.0,
+  "promo": null
+ },
+ "mostaza": {
+  "precio": 560.0,
+  "avail": true,
+  "nombre": "Mostaza LIVIAN 60g",
+  "list": 560.0,
+  "promo": null
+ },
+ "caldos": {
+  "precio": 1751.0,
+  "avail": true,
+  "nombre": "Caldo Deshidratado De Verduras Knorr 57g",
+  "list": 1751.0,
+  "promo": null
+ },
+ "sopa-instantanea": {
+  "precio": 3662.0,
+  "avail": true,
+  "nombre": "Sopa Instantanea De Choclo Con Perejil Knorr 63 Grm",
+  "list": 3662.0,
+  "promo": null
+ },
+ "snacks-papas": {
+  "precio": 4200.0,
+  "avail": true,
+  "nombre": "Papas Fritas Queso Crema Y Cebolla Lays 77g",
+  "list": 4200.0,
+  "promo": null
+ },
+ "mani": {
+  "precio": 3849.99,
+  "avail": true,
+  "nombre": "Maní Tostado Salados Con Cáscara Maní King 400g",
+  "list": 3849.99,
+  "promo": null
+ },
+ "alfajores": {
+  "precio": 572.0,
+  "avail": true,
+  "nombre": "Alfajor Frutos Del Bosque Sol Serrano 40g",
+  "list": 572.0,
+  "promo": null
+ },
+ "cacao-amargo": {
+  "precio": 2787.99,
+  "avail": true,
+  "nombre": "Oblea Kitkat® Dark 4 Fingers X 41,5gr",
+  "list": 2787.99,
+  "promo": null
+ },
+ "miel": {
+  "precio": 3150.0,
+  "avail": true,
+  "nombre": "Miel TREBOLAR    250 Gr",
+  "list": 3150.0,
+  "promo": null
+ },
+ "levadura": {
+  "precio": 545.0,
+  "avail": true,
+  "nombre": "Levadura Seca CALSA Mi Pan 10 Gr",
+  "list": 545.0,
+  "promo": null
+ },
+ "polvo-hornear": {
+  "precio": 1578.0,
+  "avail": true,
+  "nombre": "Polvo Para Hornear LA PARMESANA 50g",
+  "list": 1578.0,
+  "promo": null
+ },
+ "premezcla-bizcochuelo": {
+  "precio": 3600.0,
+  "avail": true,
+  "nombre": "Premezcla para Bizcochuelo Morixe Sabor Pistacho 540g",
+  "list": 3600.0,
+  "promo": null
+ },
+ "gelatina": {
+  "precio": 1127.0,
+  "avail": true,
+  "nombre": "Gelatina Sabor Frutilla Godet Sob 25 Grm",
+  "list": 1127.0,
+  "promo": null
+ },
+ "arroz-integral": {
+  "precio": 3990.0,
+  "avail": true,
+  "nombre": "Arroz Integral Selección Gallo 1kg",
+  "list": 3990.0,
+  "promo": null
+ },
+ "granola": {
+  "precio": 4235.0,
+  "avail": true,
+  "nombre": "Granola Crocante Granix Paq 350 Grm",
+  "list": 4235.0,
+  "promo": null
+ },
+ "tostadas": {
+  "precio": 1987.0,
+  "avail": true,
+  "nombre": "Tostadas Sin Sal Libres RIERA 200g",
+  "list": 1987.0,
+  "promo": null
+ },
+ "budin": {
+  "precio": 849.0,
+  "avail": true,
+  "nombre": "Budin Porcion Limon . . 65 Grm",
+  "list": 849.0,
+  "promo": null
+ },
+ "pan-hamburguesa": {
+  "precio": 559.0,
+  "avail": true,
+  "nombre": "Pan De Hamburguesa X Uni",
+  "list": 559.0,
+  "promo": null
+ },
+ "pan-pancho": {
+  "precio": 599.0,
+  "avail": true,
+  "nombre": "Pan De Pancho X Uni",
+  "list": 599.0,
+  "promo": null
+ },
+ "maiz-blanco": {
+  "precio": 1499.0,
+  "avail": true,
+  "nombre": "Maíz Pisado Blanco Cosecha Criolla 500g",
+  "list": 1499.0,
+  "promo": null
+ },
+ "porotos": {
+  "precio": 999.0,
+  "avail": true,
+  "nombre": "Poroto De Soja Cosecha Criolla 500g",
+  "list": 999.0,
+  "promo": null
+ },
+ "dulce-membrillo": {
+  "precio": 3199.0,
+  "avail": true,
+  "nombre": "Dulce De Membrillo Emeth Bja 500 Grm",
+  "list": 3199.0,
+  "promo": null
+ },
+ "galletitas-chocolinas": {
+  "precio": 1264.99,
+  "avail": true,
+  "nombre": "Galletitas Dulces Sabor Chocolate Chocolinas 100g",
+  "list": 1264.99,
+  "promo": null
+ },
+ "galletitas-opera": {
+  "precio": 2965.99,
+  "avail": true,
+  "nombre": "Galletita Rellena OPERA 220g",
+  "list": 2965.99,
+  "promo": null
+ },
+ "vinagre-alcohol": {
+  "precio": 1587.0,
+  "avail": true,
+  "nombre": "Vinagre Alcohol FAVINCO Pet 1 L",
+  "list": 1587.0,
+  "promo": null
+ },
+ "kesitas": {
+  "precio": 2496.99,
+  "avail": true,
+  "nombre": "Snacks Rex KESITAS Sabor Queso 125g",
+  "list": 2496.99,
+  "promo": null
+ },
+ "tomate-cubeteado": {
+  "precio": 1819.0,
+  "avail": true,
+  "nombre": "Tomate Cubeteado ARCOR Pelado Lata 400 Gr",
+  "list": 1819.0,
+  "promo": null
+ },
+ "semillas-mix": {
+  "precio": 4099.0,
+  "avail": true,
+  "nombre": "Semillas Mix Ensaladas Kos Food 250g",
+  "list": 4099.0,
+  "promo": null
+ },
+ "arroz-parboil": {
+  "precio": 1040.0,
+  "avail": true,
+  "nombre": "Arroz Parboil No Se Pasa Dos Hnos Paq 500 Grm",
+  "list": 1040.0,
+  "promo": null
+ },
+ "aceite-coco": {
+  "precio": 7699.0,
+  "avail": true,
+  "nombre": "Aceite De Coco Neutro Entrenuts 200g",
+  "list": 7699.0,
+  "promo": null
+ },
+ "fideos-soperos": {
+  "precio": 1750.0,
+  "avail": true,
+  "nombre": "Fideos soperos de sémola estrellas LUCCHETTI 500g",
+  "list": 1750.0,
+  "promo": null
+ },
+ "azucar-rubio": {
+  "precio": 2618.0,
+  "avail": true,
+  "nombre": "Azúcar Rubio Mascabo LEDESMA 800g",
+  "list": 2618.0,
+  "promo": null
+ },
+ "pure-papas-instantaneo": {
+  "precio": 1490.0,
+  "avail": true,
+  "nombre": "Pure De Papas Instantáneo Coto 100gr",
+  "list": 1490.0,
+  "promo": null
+ },
+ "salsa-lista": {
+  "precio": 1250.0,
+  "avail": true,
+  "nombre": "Salsa a base de Tomate Alco Pomarola Lista para Servir 340g",
+  "list": 1250.0,
+  "promo": null
+ },
+ "fideos-largos": {
+  "precio": 1999.0,
+  "avail": true,
+  "nombre": "Banana Cavendish X Kg",
+  "list": 1999.0,
+  "promo": null
+ },
+ "fideos-tirabuzon": {
+  "precio": 2300.0,
+  "avail": true,
+  "nombre": "Fideos Al Huevo Tirabuzon N°34 Lucchetti 500g",
+  "list": 2300.0,
+  "promo": null
+ },
+ "fideos-coditos": {
+  "precio": 1160.0,
+  "avail": true,
+  "nombre": "Fideos Guiseros Semola FAVORITA Coditos 500 Grm",
+  "list": 1160.0,
+  "promo": null
+ },
+ "fideos-dedalitos": {
+  "precio": 1350.0,
+  "avail": true,
+  "nombre": "Dedalitos CIUDAD DEL LAGO Paquete 500 Gr",
+  "list": 1350.0,
+  "promo": null
+ },
+ "aceite-de-girasol-alto-omega-carrefour-c": {
+  "precio": 6980.0,
+  "avail": true,
+  "nombre": "Aceite Girasol  PUREZA   Botella 1.5 L",
+  "list": 6980.0,
+  "promo": null
+ },
+ "aceite-de-oliva-carrefour-classic-virgen": {
+  "precio": 33358.0,
+  "avail": true,
+  "nombre": "Aceite De Oliva Extra Virgen Clásico Lira 1l",
+  "list": 33358.0,
+  "promo": null
+ },
+ "aceite-cocinero-mezcla-soja-girasol-1-5-": {
+  "precio": 5495.0,
+  "avail": true,
+  "nombre": "Aceite Mezcla Soja/Girasol Cocinero 1.5 Ltr",
+  "list": 5495.0,
+  "promo": null
+ },
+ "aceite-en-aerosol-carrefour-classic-gira": {
+  "precio": 4912.99,
+  "avail": true,
+  "nombre": "Desodorante Antitranspirante NIVEA Men Dry Impact En Aerosol X 150 Ml",
+  "list": 4912.99,
+  "promo": "25%Dto"
+ },
+ "aceite-en-aerosol-canuelas-de-girasol-18": {
+  "precio": 4399.0,
+  "avail": true,
+  "nombre": "Aceite Rocío Vegetal  Cañuelas Girasol Aerosol 187 Ml",
+  "list": 4399.0,
+  "promo": null
+ },
+ "jugo-de-limon-bulnez-en-botella-500-cc": {
+  "precio": 3730.99,
+  "avail": true,
+  "nombre": "Detergente Ultra Limón Ala Bot 500 Ml",
+  "list": 3730.99,
+  "promo": null
+ },
+ "aceto-balsamico-favinco-pet-500-cc": {
+  "precio": 6720.0,
+  "avail": true,
+  "nombre": "Aceto Espeso Favinco Pet 500 Ml",
+  "list": 6720.0,
+  "promo": null
+ },
+ "fideos-al-huevo-don-felipe-spaghetti-550": {
+  "precio": 3950.0,
+  "avail": true,
+  "nombre": "Fideos Caserito Con Huevo Don Vicente 500g",
+  "list": 3950.0,
+  "promo": null
+ },
+ "lasagna-precocida-matarazzo-250-g": {
+  "precio": 2620.0,
+  "avail": true,
+  "nombre": "Lasagna Lista En 3 Pasos Matarazzo 250g",
+  "list": 2620.0,
+  "promo": null
+ },
+ "lentejones-olinto-bolsa-400-g": {
+  "precio": 2216.0,
+  "avail": true,
+  "nombre": "Lentejon COTO Bolsa 400 Gr",
+  "list": 2216.0,
+  "promo": null
+ },
+ "maiz-pisingallo-500-g": {
+  "precio": 999.0,
+  "avail": true,
+  "nombre": "Maíz Pisingallo Cosecha Criolla 500g",
+  "list": 999.0,
+  "promo": null
+ },
+ "semillas-de-lino-enteras-sturla-250-g": {
+  "precio": 3199.0,
+  "avail": true,
+  "nombre": "Semillas De Sésamo Sturla 250gr",
+  "list": 3199.0,
+  "promo": null
+ },
+ "mix-de-semillas-genser-multisemillas-120": {
+  "precio": 3918.0,
+  "avail": true,
+  "nombre": "Mezcla de Semillas For Good Mix Wok Sésamo Negro e Integral Tostado y Girasol Tostado 120g",
+  "list": 3918.0,
+  "promo": "35%Dto"
+ },
+ "quinoa-facil-con-vegetales-gallo-240-grs": {
+  "precio": 8000.0,
+  "avail": true,
+  "nombre": "Quinoa Gallo Quinoa Fácil con Vegetales 240g",
+  "list": 8000.0,
+  "promo": null
+ },
+ "premezcla-para-pizza-gourmet-pureza-550-": {
+  "precio": 2670.0,
+  "avail": true,
+  "nombre": "Premezcla Para Pizza Gourmet Masa Madre Pureza 550g",
+  "list": 2670.0,
+  "promo": null
+ },
+ "premezcla-universal-dicomere-sin-gluten-": {
+  "precio": 3199.0,
+  "avail": true,
+  "nombre": "Premezcla Universal Dicomere 450g",
+  "list": 3199.0,
+  "promo": null
+ },
+ "polenta-presto-pronta-vegetales-250-grs": {
+  "precio": 1683.0,
+  "avail": true,
+  "nombre": "Polenta 4 quesos PRESTO PRONTA 250g",
+  "list": 1683.0,
+  "promo": null
+ },
+ "avena-con-arandanos-menu-box-en-sobre-59": {
+  "precio": 2372.0,
+  "avail": true,
+  "nombre": "Avena Con Manzana Y Canela Menu Box 59g",
+  "list": 2372.0,
+  "promo": null
+ },
+ "fecula-de-papa-dicomere-paquete-450-g": {
+  "precio": 4649.0,
+  "avail": true,
+  "nombre": "Fécula De Papa Dicomere 450g",
+  "list": 4649.0,
+  "promo": null
+ },
+ "rebozador-preferido-crunch-450-g": {
+  "precio": 3255.0,
+  "avail": true,
+  "nombre": "Rebozador Crunch Preferido 450g",
+  "list": 3255.0,
+  "promo": null
+ },
+ "rebozador-carrefour-classic-1-kg": {
+  "precio": 3800.0,
+  "avail": true,
+  "nombre": "Rebozador Con Harina Preferido 1kg",
+  "list": 3800.0,
+  "promo": null
+ },
+ "rebozador-panko-mama-cocina-400-g": {
+  "precio": 2770.0,
+  "avail": true,
+  "nombre": "Rebozador Tipo Panko Mamá Cocina 400g",
+  "list": 2770.0,
+  "promo": null
+ },
+ "pan-rallado-smams-bolsa-350-g": {
+  "precio": 4287.0,
+  "avail": true,
+  "nombre": "Pan Rallado Sin Gluten Mama Cocina 350g",
+  "list": 4287.0,
+  "promo": null
+ },
+ "rebozador-carrefour-classic-500-g": {
+  "precio": 2468.0,
+  "avail": true,
+  "nombre": "Rebozador Para Horno Preferido 500g",
+  "list": 2468.0,
+  "promo": null
+ },
+ "lomito-de-atun-al-natural-carrefour-clas": {
+  "precio": 3249.0,
+  "avail": true,
+  "nombre": "Lomitos De Atún En Aceite CIUDAD DEL LAGO 170g",
+  "list": 3249.0,
+  "promo": null
+ },
+ "lomo-de-atun-en-aceite-sabor-ahumado-la-": {
+  "precio": 3049.0,
+  "avail": true,
+  "nombre": "Atun En Aceite CIUDAD DEL LAGO En Trozos Lata 170 Gr",
+  "list": 3049.0,
+  "promo": null
+ },
+ "tomate-triturado-carrefour-classic-970-g": {
+  "precio": 2725.0,
+  "avail": true,
+  "nombre": "Tomate Triturado Cialpil 970g",
+  "list": 2725.0,
+  "promo": null
+ },
+ "salsa-filetto-arcor-doy-pack-340-g": {
+  "precio": 1677.0,
+  "avail": true,
+  "nombre": "Salsa Filetto LA CAMPAGNOLA 340g",
+  "list": 1677.0,
+  "promo": null
+ },
+ "pulpa-de-tomate-carrefour-classic-tetra-": {
+  "precio": 999.0,
+  "avail": true,
+  "nombre": "Pure Tomate CORPER 520 Gr",
+  "list": 999.0,
+  "promo": null
+ },
+ "arvejas-secas-remojadas-dona-pupa-tetra-": {
+  "precio": 839.0,
+  "avail": true,
+  "nombre": "Arvejas Secas Remojadas Sabores Del Valle 340g",
+  "list": 839.0,
+  "promo": "35%Dto"
+ },
+ "lentejas-secas-remojadas-carrefour-class-2": {
+  "precio": 839.0,
+  "avail": true,
+  "nombre": "Arvejas Secas Remojadas Sabores Del Valle 340g",
+  "list": 839.0,
+  "promo": "35%Dto"
+ },
+ "arvejas-secas-inca-remojadas-lata-350-g": {
+  "precio": 839.0,
+  "avail": true,
+  "nombre": "Arvejas Secas Remojadas Sabores Del Valle 340g",
+  "list": 839.0,
+  "promo": "35%Dto"
+ },
+ "aceitunas-verdes-nucete-dp-220-grs": {
+  "precio": 1876.0,
+  "avail": true,
+  "nombre": "Aceitunas Verdes En Rodajas Nucete 220g",
+  "list": 1876.0,
+  "promo": null
+ },
+ "aceitunas-verdes-nucete-frasco-200-g": {
+  "precio": 1876.0,
+  "avail": true,
+  "nombre": "Aceitunas Verdes En Rodajas Nucete 220g",
+  "list": 1876.0,
+  "promo": null
+ },
+ "duraznos-amarillos-en-mitades-carrefour-": {
+  "precio": 3090.0,
+  "avail": true,
+  "nombre": "Durazno CIUDAD DEL LAGO Lata 820 Gr",
+  "list": 3090.0,
+  "promo": null
+ },
+ "sal-fina-carrefour-classic-100-grs": {
+  "precio": 2257.99,
+  "avail": true,
+  "nombre": "Galleta De Arroz Sin Sal Risky Dit 100g",
+  "list": 2257.99,
+  "promo": null
+ },
+ "molinillo-carrefour-extra-sal-marina-120": {
+  "precio": 5165.0,
+  "avail": true,
+  "nombre": "Molinillo Sal Y Pimienta 1854 110g",
+  "list": 5165.0,
+  "promo": null
+ },
+ "ketchup-la-campagnola-250-g": {
+  "precio": 1886.0,
+  "avail": true,
+  "nombre": "Ketchup Estilo Americano La Campagnola 250g\r\n",
+  "list": 1886.0,
+  "promo": null
+ },
+ "mayonesa-liviana-hellmanns-doypack-950-g": {
+  "precio": 5897.0,
+  "avail": true,
+  "nombre": "Mayonesa Clásica HELLMANNS 950g",
+  "list": 5897.0,
+  "promo": null
+ },
+ "mostaza-natura-500-g": {
+  "precio": 1855.0,
+  "avail": true,
+  "nombre": "Yerba Mate Con Hierbas Serranas Natura 500g",
+  "list": 1855.0,
+  "promo": null
+ },
+ "mayonesa-cada-dia-liviana-237-g": {
+  "precio": 844.0,
+  "avail": true,
+  "nombre": "Mayonesa Liviana Cada Dia 237g",
+  "list": 844.0,
+  "promo": null
+ },
+ "salsa-de-soja-la-parmesana-300-g": {
+  "precio": 8596.0,
+  "avail": true,
+  "nombre": "Salsa Sriracha PAMPAGOURMET 300g",
+  "list": 8596.0,
+  "promo": null
+ },
+ "salsa-barbacoa-natura-500-grs": {
+  "precio": 3699.0,
+  "avail": true,
+  "nombre": "Salsa De Tomate Passata Inca 500g",
+  "list": 3699.0,
+  "promo": null
+ },
+ "mayonesa-hellmanns-ajo-doypack-250-g": {
+  "precio": 3426.0,
+  "avail": true,
+  "nombre": "Mayonesa Picante Hellmanns 250g",
+  "list": 3426.0,
+  "promo": null
+ },
+ "ajo-en-polvo-la-parmesana-15-g": {
+  "precio": 392.0,
+  "avail": true,
+  "nombre": "Jugo En Polvo Ananá Arcor 15g\r\n",
+  "list": 392.0,
+  "promo": null
+ },
+ "pimenton-la-parmesana-35-grs": {
+  "precio": 1655.0,
+  "avail": true,
+  "nombre": "Provenzal La Parmesana 35g",
+  "list": 1655.0,
+  "promo": null
+ },
+ "canela-molida-carrefour-classic-en-sobre": {
+  "precio": 2708.0,
+  "avail": true,
+  "nombre": "Pimienta Blanca Molida DOS ANCLAS Sobre 25 Gr",
+  "list": 2708.0,
+  "promo": null
+ },
+ "oregano-dos-anclas-25-g": {
+  "precio": 1105.0,
+  "avail": true,
+  "nombre": "Aji Molido DOS ANCLAS   Sobre 25 Gr",
+  "list": 1105.0,
+  "promo": null
+ },
+ "jengibre-molido-la-parmesana-en-sobre-15": {
+  "precio": 790.0,
+  "avail": true,
+  "nombre": "Jengibre Molido La Parmesana 15g",
+  "list": 790.0,
+  "promo": null
+ },
+ "sopa-de-letras-knorr-con-vegetales-107-5": {
+  "precio": 2745.0,
+  "avail": true,
+  "nombre": "Sopa De Vegetales KNORR Con Caracolitos 107.5 G",
+  "list": 2745.0,
+  "promo": null
+ },
+ "pure-de-papas-original-125-grs": {
+  "precio": 2105.0,
+  "avail": true,
+  "nombre": "Pure De Papas MORIXE 125g",
+  "list": 2105.0,
+  "promo": null
+ },
+ "polvo-para-hornear-royal-100-g": {
+  "precio": 2860.0,
+  "avail": true,
+  "nombre": "Polvo De Hornear ROYAL 100 G",
+  "list": 2860.0,
+  "promo": null
+ },
+ "polvo-crema-chantilly-carrefour-classic-": {
+  "precio": 16230.99,
+  "avail": true,
+  "nombre": "Crema corporal Cicatricure 10% Urea 250 g\r\n",
+  "list": 16230.99,
+  "promo": null
+ },
+ "tapas-de-merengue-x6-120-grs": {
+  "precio": 3890.0,
+  "avail": true,
+  "nombre": "Merengues Tapa Cristal 120g",
+  "list": 3890.0,
+  "promo": null
+ },
+ "papas-fritas-carrefour-classic-de-provol": {
+  "precio": 4612.99,
+  "avail": true,
+  "nombre": "Papas Fritas En Tubo CIUDAD DEL LAGO Barbacoa 140gr",
+  "list": 4612.99,
+  "promo": "60%Dto"
+ },
+ "papas-fritas-lays-clasicas-134-g": {
+  "precio": 5850.0,
+  "avail": true,
+  "nombre": "Papas Fritas Clásicas Lays 134g",
+  "list": 5850.0,
+  "promo": null
+ },
+ "chizitos-de-maiz-pehuamar-maicitos-125-g": {
+  "precio": 3950.0,
+  "avail": true,
+  "nombre": "Chizitos De Maíz PEHUAMAR Maicitos X 125 G",
+  "list": 3950.0,
+  "promo": null
+ },
+ "papas-fritas-corte-americano-krachitos-1": {
+  "precio": 4529.99,
+  "avail": true,
+  "nombre": "Papas Fritas Corte Americano Krachitos 165g",
+  "list": 4529.99,
+  "promo": null
+ },
+ "papas-fritas-tradicional-krachitos-275-g": {
+  "precio": 7110.99,
+  "avail": true,
+  "nombre": "Papas Fritas Tradicionales Krachitos 275g",
+  "list": 7110.99,
+  "promo": null
+ },
+ "papas-fritas-pringles-de-crema-y-cebolla": {
+  "precio": 5624.0,
+  "avail": true,
+  "nombre": "Papas Fritas Crema Y Cebolla Pringles 109g",
+  "list": 5624.0,
+  "promo": null
+ },
+ "papas-fritas-lays-clasicas-85-g": {
+  "precio": 4200.0,
+  "avail": true,
+  "nombre": "Papas Fritas Clásicas Lays 85g",
+  "list": 4200.0,
+  "promo": null
+ },
+ "takis-intense-nacho-140-grs": {
+  "precio": 4988.99,
+  "avail": true,
+  "nombre": "TAKIS Original 140g",
+  "list": 4988.99,
+  "promo": null
+ },
+ "mani-tostado-sin-sal-mani-king-100-g": {
+  "precio": 1319.99,
+  "avail": true,
+  "nombre": "Maní Frito Salado Mani King 100g",
+  "list": 1319.99,
+  "promo": null
+ },
+ "snacks-de-arroz-dos-hermanos-asado-80-g": {
+  "precio": 1590.0,
+  "avail": true,
+  "nombre": "Snacks De Arroz Finas Hierbas Don Marcos 80g",
+  "list": 1590.0,
+  "promo": null
+ },
+ "baguetin-carrefour-classic-sabor-origina": {
+  "precio": 1724.0,
+  "avail": true,
+  "nombre": "Sopa Ramen Arcor Sabor Pollo 70g\r\n",
+  "list": 1724.0,
+  "promo": null
+ },
+ "mini-tostaditas-twistos-de-jamon-40-grs": {
+  "precio": 2300.0,
+  "avail": true,
+  "nombre": "Mini Tostaditas Jamón Ibérico Twistos 40g",
+  "list": 2300.0,
+  "promo": null
+ },
+ "pochoclos-gallo-snacks-con-sal-marina-60": {
+  "precio": 3105.0,
+  "avail": true,
+  "nombre": "Pochoclos Sal Marina Gallo Snack 60g",
+  "list": 3105.0,
+  "promo": null
+ },
+ "fideos-ramen-arcor-sabor-carne-70-grs": {
+  "precio": 1724.0,
+  "avail": true,
+  "nombre": "Sopa Ramen Arcor Sabor Pollo 70g\r\n",
+  "list": 1724.0,
+  "promo": null
+ },
+ "risotto-champiniones-gallo-en-caja-240-g": {
+  "precio": 4500.0,
+  "avail": true,
+  "nombre": "Risotto Pronto Primavera Gallo 240g",
+  "list": 4500.0,
+  "promo": null
+ },
+ "leche": {
+  "precio": 2899.0,
+  "avail": true,
+  "nombre": "Leche Larga Vida Entera CONAPROLE 1l",
+  "list": 2899.0,
+  "promo": null
+ },
+ "pan-lactal": {
+  "precio": 3613.0,
+  "avail": true,
+  "nombre": "Pan Blanco LACTAL 315g",
+  "list": 3613.0,
+  "promo": null
+ },
+ "mermelada": {
+  "precio": 3278.0,
+  "avail": true,
+  "nombre": "Mermelada Light Sabor Pera Caroyense 390 Grm",
+  "list": 3278.0,
+  "promo": null
+ },
+ "nesquik": {
+  "precio": 5770.0,
+  "avail": true,
+  "nombre": "NESQUIK® Original Cacao en Polvo x 360gr\r\n",
+  "list": 5770.0,
+  "promo": null
+ },
+ "cafe": {
+  "precio": 12901.0,
+  "avail": true,
+  "nombre": "Café Molido COTO Paquete 500 Gr",
+  "list": 12901.0,
+  "promo": null
+ },
+ "galletitas": {
+  "precio": 871.0,
+  "avail": true,
+  "nombre": "Galletitas dulces chips confites KUKINAS 80g",
+  "list": 871.0,
+  "promo": null
+ },
+ "rapiditas": {
+  "precio": 4384.0,
+  "avail": true,
+  "nombre": "Tortillas Integrales Rapiditas 275g",
+  "list": 4384.0,
+  "promo": null
+ },
+ "leche-descremada": {
+  "precio": 2199.0,
+  "avail": true,
+  "nombre": "Leche Larga Vida Parcialmente Descremada CIUDAD DEL LAGO 1l",
+  "list": 2199.0,
+  "promo": null
+ },
+ "te-saquitos": {
+  "precio": 1009.0,
+  "avail": true,
+  "nombre": "Té Clásico X25 Saquitos PAJARO AZUL Caja 50g",
+  "list": 1009.0,
+  "promo": null
+ },
+ "mate-cocido": {
+  "precio": 959.0,
+  "avail": true,
+  "nombre": "Mate Cocido X25 Saquitos Natura 75g",
+  "list": 959.0,
+  "promo": null
+ },
+ "cereal-almohaditas": {
+  "precio": 2060.0,
+  "avail": true,
+  "nombre": "Cereales Almohaditas Rellenas Frutilla Snuks 90g",
+  "list": 2060.0,
+  "promo": null
+ },
+ "pan-semillas": {
+  "precio": 4517.0,
+  "avail": true,
+  "nombre": "Pan Con Semillas LACTAL 330g",
+  "list": 4517.0,
+  "promo": null
+ },
+ "magdalenas": {
+  "precio": 3356.99,
+  "avail": true,
+  "nombre": "Magdalenas Rellenas Con Dulce De Leche POZO 250g",
+  "list": 3356.99,
+  "promo": null
+ },
+ "cafe-capsulas": {
+  "precio": 9254.0,
+  "avail": true,
+  "nombre": "Café En Capsulas Espresso Cabrales 60g",
+  "list": 9254.0,
+  "promo": null
+ },
+ "cafe-instantaneo": {
+  "precio": 20964.0,
+  "avail": true,
+  "nombre": "NESCAFÉ® Gold Café en Grano x250gr\r\n",
+  "list": 20964.0,
+  "promo": null
+ },
+ "galletitas-crackers": {
+  "precio": 2187.99,
+  "avail": true,
+  "nombre": "Galletitas Crackers CEREALITAS Clásicas 212g",
+  "list": 2187.99,
+  "promo": null
+ },
+ "bebida-almendras": {
+  "precio": 4300.0,
+  "avail": true,
+  "nombre": "Bebida A Base De Almendra Biba 1l",
+  "list": 4300.0,
+  "promo": null
+ },
+ "galletitas-oreo": {
+  "precio": 1150.0,
+  "avail": true,
+  "nombre": "Galletitas OREO Mini Rellenas Con Crema Sabor Original 50g",
+  "list": 1150.0,
+  "promo": null
+ },
+ "galletitas-sonrisas": {
+  "precio": 4854.99,
+  "avail": true,
+  "nombre": "Galletitas Rellenas Sabor Frambuesa Sonrisas 324g",
+  "list": 4854.99,
+  "promo": null
+ },
+ "galletitas-pepitos": {
+  "precio": 1150.0,
+  "avail": true,
+  "nombre": "Galletitas Mini PEPITOS Con Chips De Chocolate 50g.",
+  "list": 1150.0,
+  "promo": null
+ },
+ "garoto-bombones-surtidos-caja-250-grs": {
+  "precio": 8751.99,
+  "avail": true,
+  "nombre": "Bombones Surtidos GAROTO 250g",
+  "list": 8751.99,
+  "promo": null
+ },
+ "chocolate-cadbury-relleno-yoghurt-frutil": {
+  "precio": 2660.0,
+  "avail": true,
+  "nombre": "Chocolate CADBURY Relleno Yoghurt Frutilla 29g.",
+  "list": 2660.0,
+  "promo": null
+ },
+ "oblea-tita-chocolate-19-g": {
+  "precio": 1140.0,
+  "avail": true,
+  "nombre": "Oblea TITA Chocolate 19g",
+  "list": 1140.0,
+  "promo": null
+ },
+ "oblea-kitkat-white-4-fingers-41-5-grs": {
+  "precio": 2787.99,
+  "avail": true,
+  "nombre": "Oblea Kitkat® White 4 Fingers X 41.5gr",
+  "list": 2787.99,
+  "promo": null
+ },
+ "oblea-rhodesia-clasica-22-g": {
+  "precio": 1300.0,
+  "avail": true,
+  "nombre": "Oblea RHODESIA Clásica 22g",
+  "list": 1300.0,
+  "promo": null
+ },
+ "alfajor-tofi-negro-6-u": {
+  "precio": 6411.99,
+  "avail": true,
+  "nombre": "Alfajor De Chocolate TOFI 45g 6u",
+  "list": 6411.99,
+  "promo": null
+ },
+ "alfajor-terrabusi-blanco-glaseado-pack-6": {
+  "precio": 7108.99,
+  "avail": true,
+  "nombre": "Alfajor TERRABUSI 38g Blanco Glaseado 6u",
+  "list": 7108.99,
+  "promo": null
+ },
+ "alfajor-triple-blanco-terrabusi-70-grs": {
+  "precio": 2120.0,
+  "avail": true,
+  "nombre": "Alfajor TERRABUSI Triple Clásico 70g",
+  "list": 2120.0,
+  "promo": null
+ },
+ "alfajor-triple-milka-oreo-61-g": {
+  "precio": 2120.0,
+  "avail": true,
+  "nombre": "Alfajor Triple MILKA Oreo 61g",
+  "list": 2120.0,
+  "promo": null
+ },
+ "alfajor-pepitos-triple-57-g": {
+  "precio": 2150.0,
+  "avail": true,
+  "nombre": "Alfajor PEPITOS Triple 57g",
+  "list": 2150.0,
+  "promo": null
+ },
+ "gomitas-frutal-mogul-extreme-oso-80-grs": {
+  "precio": 1809.99,
+  "avail": true,
+  "nombre": "Gomitas Acidas Dulces Mogul Extreme 80g",
+  "list": 1809.99,
+  "promo": null
+ },
+ "caramelos-halls-menthol-9-uni": {
+  "precio": 898.99,
+  "avail": true,
+  "nombre": "Caramelos Menthol Mentho Plus Paq 30.6 Grm",
+  "list": 898.99,
+  "promo": null
+ },
+ "chicle-topline-sandia-14-g": {
+  "precio": 1473.99,
+  "avail": true,
+  "nombre": "Chicles TopLine Seven Violet Cherry 14g",
+  "list": 1473.99,
+  "promo": "3x2"
+ },
+ "chicles-beldent-sandia-dulce-6-uni": {
+  "precio": 1540.0,
+  "avail": true,
+  "nombre": "Chicle Confite Beldent Sandía-Citrus Confitado y Relleno 17.5g",
+  "list": 1540.0,
+  "promo": null
+ },
+ "chicles-beldent-infinit-mentol-13-3-g": {
+  "precio": 1350.0,
+  "avail": true,
+  "nombre": "Chicles BELDENT INFINIT Mentol 13,3g",
+  "list": 1350.0,
+  "promo": null
+ },
+ "chicles-beldent-infinit-blueberry-26-6-g": {
+  "precio": 3050.0,
+  "avail": true,
+  "nombre": "Chicles BELDENT INFINIT Blueberry 26,6g",
+  "list": 3050.0,
+  "promo": null
+ },
+ "chicle-confitado-relleno-beldent-sandia-": {
+  "precio": 1540.0,
+  "avail": true,
+  "nombre": "Chicle Beldent Frutos Rojos Confitado y Relleno 17.5g",
+  "list": 1540.0,
+  "promo": null
+ },
+ "nestle-bananita-dolca-30-grs": {
+  "precio": 1766.99,
+  "avail": true,
+  "nombre": "Chocolate Nestle Bananita Dolca 30g",
+  "list": 1766.99,
+  "promo": null
+ },
+ "confites-rellenos-choco-rockets-mundial-": {
+  "precio": 1274.99,
+  "avail": true,
+  "nombre": "Confites de Chocolate Arcor Rocklets Mundial 20g",
+  "list": 1274.99,
+  "promo": null
+ },
+ "galletitas-dulce-rellenas-de-vainilla-am": {
+  "precio": 4229.99,
+  "avail": true,
+  "nombre": "Galletitas Dulces Rellenas MELBA 360g",
+  "list": 4229.99,
+  "promo": null
+ },
+ "galletitas-chocolina-de-chocolate-250-g": {
+  "precio": 2919.99,
+  "avail": true,
+  "nombre": "Galletitas Dulces Sabor Chocolate Chocolinas 250g",
+  "list": 2919.99,
+  "promo": null
+ },
+ "galletitas-dulce-melba-rellenas-360-g": {
+  "precio": 4229.99,
+  "avail": true,
+  "nombre": "Galletitas Dulces Rellenas MELBA 360g",
+  "list": 4229.99,
+  "promo": null
+ },
+ "galletitas-surtidas-terrabusi-variedad-3": {
+  "precio": 3893.0,
+  "avail": true,
+  "nombre": "Galletitas Dulces Variedad TERRABUSI  Mix Tamaño Familiar 390g.",
+  "list": 3893.0,
+  "promo": null
+ },
+ "galletitas-frambuesa-rellenas-sonrisas-x": {
+  "precio": 4854.99,
+  "avail": true,
+  "nombre": "Galletitas Rellenas Sabor Frambuesa Sonrisas 324g",
+  "list": 4854.99,
+  "promo": null
+ },
+ "galletitas-pepas-carrefour-classic-170-g": {
+  "precio": 1139.0,
+  "avail": true,
+  "nombre": "Galletitas Pepas Membrillo Jungla 170g",
+  "list": 1139.0,
+  "promo": null
+ },
+ "bizcochos-de-arroz-dulce-gallo-snacks-to": {
+  "precio": 3800.0,
+  "avail": true,
+  "nombre": "Bizcochos Dulces Gallo Snack 100gr",
+  "list": 3800.0,
+  "promo": null
+ },
+ "galletas-de-arroz-cerealitas-160-g": {
+  "precio": 3387.99,
+  "avail": true,
+  "nombre": "Galletas De Arroz CEREALITAS 160g",
+  "list": 3387.99,
+  "promo": null
+ },
+ "tostaditas-de-arroz-dos-hermanos-sin-sal": {
+  "precio": 1459.0,
+  "avail": true,
+  "nombre": "Tostaditas De Arroz Con Sal DOS HERMANOS 120g",
+  "list": 1459.0,
+  "promo": null
+ },
+ "galletas-de-arroz-dulce-carrefour-classi": {
+  "precio": 2257.99,
+  "avail": true,
+  "nombre": "Galleta De Arroz Sin Sal Risky Dit 100g",
+  "list": 2257.99,
+  "promo": null
+ },
+ "tostadas-de-arroz-carrefour-classic-aire": {
+  "precio": 2319.0,
+  "avail": true,
+  "nombre": "Tostadas De Arroz Sin Sal Paseo 120g",
+  "list": 2319.0,
+  "promo": null
+ },
+ "tostadas-de-arroz-tia-maruca-sin-sal-120": {
+  "precio": 2319.0,
+  "avail": true,
+  "nombre": "Tostadas De Arroz Sin Sal Paseo 120g",
+  "list": 2319.0,
+  "promo": null
+ },
+ "tostadas-carrefour-classic-clasicas-sin-": {
+  "precio": 2205.99,
+  "avail": true,
+  "nombre": "Tostadas Clásicas Firenze 180g",
+  "list": 2205.99,
+  "promo": null
+ },
+ "budin-carrefour-classic-marmolado-220-g": {
+  "precio": 2139.99,
+  "avail": true,
+  "nombre": "Budín Ingles Bon-Mase 220g",
+  "list": 2139.99,
+  "promo": null
+ },
+ "budin-europeo-marmolado-carrefour-extra-": {
+  "precio": 3949.99,
+  "avail": true,
+  "nombre": "Budín Sabor Chocolate Y Avellanas LA CUMBRE 250g",
+  "list": 3949.99,
+  "promo": null
+ },
+ "pudding-con-semillas-el-mercado-200-g": {
+  "precio": 5899.0,
+  "avail": true,
+  "nombre": "Pudding Deubel Chocolate 200g",
+  "list": 5899.0,
+  "promo": null
+ },
+ "yerba-mate-la-tranquera-liviana-1-kg": {
+  "precio": 6700.0,
+  "avail": true,
+  "nombre": "Yerba Mate La Merced  Con Palo  Paquete 1 Kg",
+  "list": 6700.0,
+  "promo": null
+ },
+ "yerba-mate-cbse-con-hierbas-serranas-550": {
+  "precio": 1855.0,
+  "avail": true,
+  "nombre": "Yerba Mate Con Hierbas Serranas Natura 500g",
+  "list": 1855.0,
+  "promo": null
+ },
+ "cafe-molido-torrado-carrefour-classic-25": {
+  "precio": 13899.0,
+  "avail": true,
+  "nombre": "Café Tostado Molido Suave Los 5 Hispanos 250g",
+  "list": 13899.0,
+  "promo": null
+ },
+ "cafe-molido-house-blend-seattles-best-17": {
+  "precio": 14120.0,
+  "avail": true,
+  "nombre": "Café Molido Seattle's Best Coffee House Blend 170g",
+  "list": 14120.0,
+  "promo": "35%Dto"
+ },
+ "cafe-molido-morenita-clasico-paquete-1-k": {
+  "precio": 27509.0,
+  "avail": true,
+  "nombre": "Café Torrado Molido BONAFIDE Intenso Paquete 1 Kg",
+  "list": 27509.0,
+  "promo": null
+ },
+ "cafe-instantaneo-dolca-origenes-dp-160-g": {
+  "precio": 13282.0,
+  "avail": true,
+  "nombre": "Café Nescafé Dolca Suave 160g",
+  "list": 13282.0,
+  "promo": null
+ },
+ "nescafe-tradicion-doypack-100-grs": {
+  "precio": 9960.0,
+  "avail": true,
+  "nombre": "NESCAFÉ® Dolca Suave x 100gr\r\n",
+  "list": 9960.0,
+  "promo": null
+ },
+ "nescafe-dolca-suave-doypack-100-grs": {
+  "precio": 9960.0,
+  "avail": true,
+  "nombre": "NESCAFÉ® Dolca Suave x 100gr\r\n",
+  "list": 9960.0,
+  "promo": null
+ },
+ "nescafe-gold-95-grs": {
+  "precio": 26594.0,
+  "avail": true,
+  "nombre": "NESCAFÉ® Gold Alta Rica x 100gr",
+  "list": 26594.0,
+  "promo": null
+ },
+ "nescafe-gold-doypack-100-grs": {
+  "precio": 26594.0,
+  "avail": true,
+  "nombre": "NESCAFÉ® Gold Alta Rica x 100gr",
+  "list": 26594.0,
+  "promo": null
+ },
+ "cafe-en-saquitos-carrefour-classic-caja-": {
+  "precio": 6429.0,
+  "avail": true,
+  "nombre": "Cafe En Saquitos Torrado Equilibrado La Virginia Cja 100 Grm",
+  "list": 6429.0,
+  "promo": null
+ },
+ "cafe-en-saquitos-la-virginia-caja-x-20-u": {
+  "precio": 4134.0,
+  "avail": true,
+  "nombre": "Cafe Cortado La Virginia Pou 125 Grm",
+  "list": 4134.0,
+  "promo": null
+ },
+ "te-negro-la-virginia-en-saquitos-x-25-un": {
+  "precio": 1765.0,
+  "avail": true,
+  "nombre": "Te Menta Peperina X25 Saquitos LA VIRGINIA Caja 25 Grm",
+  "list": 1765.0,
+  "promo": null
+ },
+ "te-de-manzanilla-en-saquitos-cachamai-20": {
+  "precio": 2819.0,
+  "avail": true,
+  "nombre": "Te De Tilo 20 Saquitos TARAGUI Caja 20 Grm",
+  "list": 2819.0,
+  "promo": null
+ },
+ "te-en-saquitos-inti-zen-mix-8-blends-15-": {
+  "precio": 5900.0,
+  "avail": true,
+  "nombre": "Te Herbal Mix 15 Saquitos INTI ZEN Caja 30 Grm",
+  "list": 5900.0,
+  "promo": null
+ },
+ "cacao-en-polvo-arcor-en-bolsa-180-g": {
+  "precio": 2149.0,
+  "avail": true,
+  "nombre": "Cacao En Polvo Original Toddy 180gr",
+  "list": 2149.0,
+  "promo": null
+ },
+ "cacao-en-polvo-carrefour-classic-pouch-8": {
+  "precio": 8765.0,
+  "avail": true,
+  "nombre": "Cacao En Polvo Extremo Toddy 800gr",
+  "list": 8765.0,
+  "promo": null
+ },
+ "mate-cocido-bulnez-en-saquitos-25-uni": {
+  "precio": 1149.0,
+  "avail": true,
+  "nombre": "Mate Cocido En Saquitos Pajaro Azul 25u.",
+  "list": 1149.0,
+  "promo": null
+ },
+ "mate-cocido-en-saquitos-nobleza-gaucha-x": {
+  "precio": 1149.0,
+  "avail": true,
+  "nombre": "Mate Cocido En Saquitos Pajaro Azul 25u.",
+  "list": 1149.0,
+  "promo": null
+ },
+ "mate-cocido-en-saquitos-ensobrados-tarag": {
+  "precio": 1229.0,
+  "avail": true,
+  "nombre": "Mate Cocido Tradicional X25 Saquitos La Tranquera 62.5g",
+  "list": 1229.0,
+  "promo": null
+ },
+ "edulcorante-liquido-con-stevia-carrefour": {
+  "precio": 5336.0,
+  "avail": true,
+  "nombre": "Edulcorante Liquido Clásico Dulkre 500ml",
+  "list": 5336.0,
+  "promo": null
+ },
+ "edulcorante-sucralosa-carrefour-classic-": {
+  "precio": 4037.0,
+  "avail": true,
+  "nombre": "Edulcorante EQUALSWEET    Sucralosa 0 Calorias Caja Sobres X 50",
+  "list": 4037.0,
+  "promo": null
+ },
+ "edulcorante-en-sobres-ledesma-con-sucral": {
+  "precio": 3208.0,
+  "avail": true,
+  "nombre": "Edulcorante Liv Clasico X100 Sobres Cabrales 80g",
+  "list": 3208.0,
+  "promo": null
+ },
+ "edulcorante-en-sobres-ledesma-con-sucral-2": {
+  "precio": 4037.0,
+  "avail": true,
+  "nombre": "Edulcorante EQUALSWEET    Sucralosa 0 Calorias Caja Sobres X 50",
+  "list": 4037.0,
+  "promo": null
+ },
+ "edulcorante-liquido-mate-a-hileret-200-c": {
+  "precio": 3790.0,
+  "avail": true,
+  "nombre": "Edulcorante HILERET Zucra Botella 200 Cc",
+  "list": 3790.0,
+  "promo": null
+ },
+ "edulcorante-liquido-hileret-sweet-400-cc": {
+  "precio": 5301.0,
+  "avail": true,
+  "nombre": "Edulcorante HILERET Sweet Botella 400 Cc",
+  "list": 5301.0,
+  "promo": null
+ },
+ "miel-liquida-carrefour-pradera-500-grs": {
+  "precio": 8451.0,
+  "avail": true,
+  "nombre": "Miel cremosa ENTRENUTS 500g",
+  "list": 8451.0,
+  "promo": null
+ },
+ "dulce-de-leche-clasico-milkaut-1-kg": {
+  "precio": 9355.0,
+  "avail": true,
+  "nombre": "Dulce De Leche MILKAUT Repostero Pote 1 Kg",
+  "list": 9355.0,
+  "promo": null
+ },
+ "dulce-de-leche-light-san-ignacio-en-pote": {
+  "precio": 3789.0,
+  "avail": true,
+  "nombre": "Dulce De Leche SAN IGNACIO Tradición Pote 400 Gr",
+  "list": 3789.0,
+  "promo": null
+ },
+ "dulce-de-leche-san-ignacio-diet-en-frasc": {
+  "precio": 3789.0,
+  "avail": true,
+  "nombre": "Dulce De Leche SAN IGNACIO Tradición Pote 400 Gr",
+  "list": 3789.0,
+  "promo": null
+ },
+ "mermelada-de-ciruela-carrefour-classic-4": {
+  "precio": 3985.0,
+  "avail": true,
+  "nombre": "Mermelada Ciruela EMETH    Frasco 454 Gr",
+  "list": 3985.0,
+  "promo": null
+ },
+ "mermelada-emeth-de-ciruela-pote-420-g": {
+  "precio": 1975.0,
+  "avail": true,
+  "nombre": "Mermelada Ciruela EMETH   Light Pote 420 Gr",
+  "list": 1975.0,
+  "promo": null
+ },
+ "pasta-de-mani-stevia-carrefour-classic-3": {
+  "precio": 4399.99,
+  "avail": true,
+  "nombre": "Pasta De Maní Con Stevia Entrenuts 370g",
+  "list": 4399.99,
+  "promo": null
+ },
+ "copos-de-maiz-carrefour-classic-400-g": {
+  "precio": 1399.0,
+  "avail": true,
+  "nombre": "Maiz Pisingallo LA EGIPCIANA 400g",
+  "list": 1399.0,
+  "promo": null
+ },
+ "trix-cereal-230-grs": {
+  "precio": 6691.99,
+  "avail": true,
+  "nombre": "TRIX Cereal X 230gr",
+  "list": 6691.99,
+  "promo": null
+ },
+ "barra-de-cereal-brava-mundial-castanas-d": {
+  "precio": 1200.0,
+  "avail": true,
+  "nombre": "Barra de cereales dark choco BENEVIA 45g",
+  "list": 1200.0,
+  "promo": null
+ },
+ "barra-de-cereal-cereal-mix-23-g": {
+  "precio": 1009.99,
+  "avail": true,
+  "nombre": "Barra Cereal Puro Cacao Flow 24g",
+  "list": 1009.99,
+  "promo": null
+ },
+ "barras-de-frutos-secos-caju-y-semillas-d": {
+  "precio": 840.0,
+  "avail": true,
+  "nombre": "Barra Frutos Secos Avellanas Arándanos Con Miel Flow 30gr",
+  "list": 840.0,
+  "promo": null
+ },
+ "barra-de-chocolate-integra-sin-tacc-38-g": {
+  "precio": 1900.0,
+  "avail": true,
+  "nombre": "Barra De Semillas Arándanos Íntegra 38g",
+  "list": 1900.0,
+  "promo": null
+ },
+ "barra-de-cereal-frutty-de-frutilla-con-y": {
+  "precio": 1009.99,
+  "avail": true,
+  "nombre": "Barra Cereal Puro Cacao Flow 24g",
+  "list": 1009.99,
+  "promo": null
+ },
+ "granola-carrefour-classic-mix-de-cereale": {
+  "precio": 6012.99,
+  "avail": true,
+  "nombre": "Granola 5 Semillas Flow 320g",
+  "list": 6012.99,
+  "promo": null
+ },
+ "granola-integra-choco-350-grs": {
+  "precio": 9500.0,
+  "avail": true,
+  "nombre": "Granola Almendra Cajú Arándanos Íntegra 350g",
+  "list": 9500.0,
+  "promo": null
+ },
+ "pan-blanco-lactal-460-grs": {
+  "precio": 5264.0,
+  "avail": true,
+  "nombre": "Pan Blanco LACTAL 460g",
+  "list": 5264.0,
+  "promo": null
+ },
+ "pan-salvado-lactal-560-grs": {
+  "precio": 6074.0,
+  "avail": true,
+  "nombre": "Pan Salvado LACTAL 560g",
+  "list": 6074.0,
+  "promo": null
+ },
+ "pan-blanco-bimbo-580-grs": {
+  "precio": 8098.0,
+  "avail": true,
+  "nombre": "Pan Blanco Bimbo 580g\r\n",
+  "list": 8098.0,
+  "promo": null
+ },
+ "pan-de-mesa-multicereal-mimago-chico-390": {
+  "precio": 3400.0,
+  "avail": true,
+  "nombre": "Pan De Mesa Multicereal Mimago 390g",
+  "list": 3400.0,
+  "promo": null
+ },
+ "pan-salvado-lactal-330-grs": {
+  "precio": 4599.0,
+  "avail": true,
+  "nombre": "Pan Con Semillas BRIOSH 330g",
+  "list": 4599.0,
+  "promo": null
+ },
+ "pan-para-panchos-la-perla-6-uni": {
+  "precio": 2566.0,
+  "avail": true,
+  "nombre": "Pan Para Pancho X6 La Perla Paq 220g",
+  "list": 2566.0,
+  "promo": null
+ },
+ "pan-de-papa-para-hamburguesa-bimbo-artes": {
+  "precio": 4361.0,
+  "avail": true,
+  "nombre": "Pan Hamburguesa Papa Artesano 160g\r\n",
+  "list": 4361.0,
+  "promo": null
+ },
+ "pan-para-hamburguesa-la-perla-con-sesamo": {
+  "precio": 2737.0,
+  "avail": true,
+  "nombre": "Pan Hamburguesa Con Sesamo X4 La Perla 200g",
+  "list": 2737.0,
+  "promo": null
+ },
+ "pan-para-hamburguesas-bulnez-210-grs": {
+  "precio": 2737.0,
+  "avail": true,
+  "nombre": "Pan Hamburguesa Con Sesamo X4 La Perla 200g",
+  "list": 2737.0,
+  "promo": null
+ },
+ "fajitas-lucchetti-10-uni": {
+  "precio": 3465.0,
+  "avail": true,
+  "nombre": "Pan Fajitas Lucchetti Bsa 280 Grm",
+  "list": 3465.0,
+  "promo": null
+ },
+ "burrera-tia-rosa-8-uni": {
+  "precio": 7891.0,
+  "avail": true,
+  "nombre": "Burrera Tía Rosa 8u",
+  "list": 7891.0,
+  "promo": null
+ },
+ "maiz-inflado-azucarado-80-g": {
+  "precio": 1399.0,
+  "avail": true,
+  "nombre": "Maiz Inflado Caramelizado Egran 80gr",
+  "list": 1399.0,
+  "promo": null
+ },
+ "gaseosa": {
+  "precio": 5100.0,
+  "avail": true,
+  "nombre": "Coca-Cola Sabor Liviano 2,25 Lt",
+  "list": 5100.0,
+  "promo": null
+ },
+ "agua-bidon": {
+  "precio": 4000.0,
+  "avail": true,
+  "nombre": "Agua Mineral Natural De Manantial Alvura Bidón 6 L\r\n",
+  "list": 4000.0,
+  "promo": null
+ },
+ "jugo-polvo": {
+  "precio": 599.0,
+  "avail": true,
+  "nombre": "Jugo En Polvo TANG Naranja Mango 15g",
+  "list": 599.0,
+  "promo": null
+ },
+ "cerveza": {
+  "precio": 16152.0,
+  "avail": true,
+  "nombre": "Cerveza  QUILMES Cristal Pack Latas 473 Cc 6 Unidades",
+  "list": 16152.0,
+  "promo": null
+ },
+ "gaseosa-coca-15": {
+  "precio": 2650.0,
+  "avail": true,
+  "nombre": "Agua Mineral SMARTWATER Sin Gas 1,5l",
+  "list": 2650.0,
+  "promo": null
+ },
+ "gaseosa-coca-zero-225": {
+  "precio": 3790.0,
+  "avail": true,
+  "nombre": "Coca-Cola Zero Retornable 2 Lt",
+  "list": 3790.0,
+  "promo": null
+ },
+ "gaseosa-coca-zero-15": {
+  "precio": 3790.0,
+  "avail": true,
+  "nombre": "Coca-Cola Zero Retornable 2 Lt",
+  "list": 3790.0,
+  "promo": null
+ },
+ "gaseosa-coca-lata": {
+  "precio": 2700.0,
+  "avail": true,
+  "nombre": "Gaseosa Coca-Cola Sabor Original 354 Ml",
+  "list": 2700.0,
+  "promo": "6x4"
+ },
+ "gaseosa-sprite-225": {
+  "precio": 6000.0,
+  "avail": true,
+  "nombre": "Gaseosa SPRITE Lima-Limón  2,25 Lt",
+  "list": 6000.0,
+  "promo": "50% 2da"
+ },
+ "gaseosa-sprite-zero": {
+  "precio": 6000.0,
+  "avail": true,
+  "nombre": "SPRITE Zero Lima-Limón 2,25 Lt",
+  "list": 6000.0,
+  "promo": "50% 2da"
+ },
+ "gaseosa-fanta-225": {
+  "precio": 4290.0,
+  "avail": true,
+  "nombre": "Gaseosa FANTA Zero Naranja 2,25 Lt",
+  "list": 4290.0,
+  "promo": null
+ },
+ "agua-con-gas": {
+  "precio": 1750.0,
+  "avail": true,
+  "nombre": "Agua Mineralizada Artificialmente Con Gas Bajo En Sodio Cellier 2 L\r\n",
+  "list": 1750.0,
+  "promo": null
+ },
+ "soda": {
+  "precio": 1715.0,
+  "avail": true,
+  "nombre": "Soda Sifón Secco Sif 2 Ltr",
+  "list": 1715.0,
+  "promo": null
+ },
+ "jugo-listo": {
+  "precio": 1940.0,
+  "avail": true,
+  "nombre": "Jugo Durazno TUTTI Ttb 1 Ltr",
+  "list": 1940.0,
+  "promo": "50% 2da"
+ },
+ "vino-tinto": {
+  "precio": 4680.0,
+  "avail": true,
+  "nombre": "Vino Tinto Malbec Cuatro D/Co Bot 750 Ml",
+  "list": 4680.0,
+  "promo": "25%Dto"
+ },
+ "fernet": {
+  "precio": 18900.0,
+  "avail": true,
+  "nombre": "Fernet mundial 2026 BRANCA 750ml",
+  "list": 18900.0,
+  "promo": null
+ },
+ "cerveza-patagonia": {
+  "precio": 3150.0,
+  "avail": true,
+  "nombre": "Cerveza Ipa PAMPA BREWING CO   Lata 473 Cc",
+  "list": 3150.0,
+  "promo": null
+ },
+ "gaseosa-coca-500": {
+  "precio": 1900.0,
+  "avail": true,
+  "nombre": "Coca-Cola Sabor Liviano 500 Ml",
+  "list": 1900.0,
+  "promo": null
+ },
+ "gaseosa-coca-600": {
+  "precio": 2700.0,
+  "avail": true,
+  "nombre": "Gaseosa Coca-Cola Sabor Liviano 600 Ml",
+  "list": 2700.0,
+  "promo": "6x5"
+ },
+ "cerveza-vera-ipa-patagonia-730-ml": {
+  "precio": 7296.0,
+  "avail": true,
+  "nombre": "Cerveza Lager Del Sur Patagonia 730cc",
+  "list": 7296.0,
+  "promo": null
+ },
+ "vino-blanco-chenin-dulce-santa-julia-en-": {
+  "precio": 3258.0,
+  "avail": true,
+  "nombre": "Vino Chenin Dulce Natural SANTA JULIA 269ml",
+  "list": 3258.0,
+  "promo": null
+ },
+ "gaseosa-cola-pepsi-black-pet-500-ml": {
+  "precio": 1900.0,
+  "avail": true,
+  "nombre": "Gaseosa Cola Pepsi Black 500ml",
+  "list": 1900.0,
+  "promo": null
+ },
+ "agua-de-mesa-sin-gas-nestle-1-5-lts": {
+  "precio": 3325.0,
+  "avail": true,
+  "nombre": "Agua Mineralizada Artificialmente Con Gas Glaciar 1.5 L\r\n",
+  "list": 3325.0,
+  "promo": null
+ },
+ "agua-mineral-sin-gas-eco-de-los-andes-50": {
+  "precio": 2095.0,
+  "avail": true,
+  "nombre": "Agua Mineral Natural De Manantial Con Gas Eco De Los Andes 500 Ml\r\n",
+  "list": 2095.0,
+  "promo": null
+ },
+ "bebida-energizante-rockstar-en-botella-5": {
+  "precio": 2250.0,
+  "avail": true,
+  "nombre": "Bebida Isotónica GATORADE Manzana Botella 500 Cc",
+  "list": 2250.0,
+  "promo": null
+ },
+ "bebida-energizante-red-bull-355-ml": {
+  "precio": 4640.0,
+  "avail": true,
+  "nombre": "Energizante RED BULL 355 Ml",
+  "list": 4640.0,
+  "promo": null
+ },
+ "bebida-isotonica-gatorade-cool-blue-1-25": {
+  "precio": 2750.0,
+  "avail": true,
+  "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 1,25 L",
+  "list": 2750.0,
+  "promo": null
+ },
+ "bebida-hidratante-suerox-manzana-630-ml": {
+  "precio": 2900.0,
+  "avail": true,
+  "nombre": "Bebida hidratante Suerox manzana 630 ml\r\n",
+  "list": 2900.0,
+  "promo": null
+ },
+ "isotonica-full-sport-fresh-blue-pet-500-": {
+  "precio": 2250.0,
+  "avail": true,
+  "nombre": "Bebida Isotónica GATORADE Cool Blue     500 Cc",
+  "list": 2250.0,
+  "promo": null
+ },
+ "ariel": {
+  "precio": 16109.99,
+  "avail": true,
+  "nombre": "Jabón Líquido Para Ropa ARIEL Delicados Doypack 3lt",
+  "list": 16109.99,
+  "promo": null
+ },
+ "suavizante": {
+  "precio": 8489.99,
+  "avail": true,
+  "nombre": "Suavizante Para Ropa Lirios Y Ylang Ecovita 3l",
+  "list": 8489.99,
+  "promo": "25%Dto"
+ },
+ "cif": {
+  "err": "HTTP Error 302: The HTTP server returned a redirect error th"
+ },
+ "yerba": {
+  "precio": 3186.0,
+  "avail": true,
+  "nombre": "Yerba Mate PLAYADITO Hierbas Naturales Con Palo Paquete 500 Gr",
+  "list": 3186.0,
+  "promo": null
+ },
+ "papel-higienico": {
+  "precio": 10352.99,
+  "avail": true,
+  "nombre": "Papel Higiénico ELITE Ultra Suave Doble Hoja 50 M 4 Un",
+  "list": 10352.99,
+  "promo": null
+ },
+ "rollo-cocina": {
+  "precio": 3070.99,
+  "avail": true,
+  "nombre": "Rollo De Cocina Felpita   Paquete 1 Unidad",
+  "list": 3070.99,
+  "promo": "30%Dto"
+ },
+ "detergente": {
+  "precio": 3129.99,
+  "avail": true,
+  "nombre": "Detergente MAGISTRAL Ultra Marina Botella 300ml",
+  "list": 3129.99,
+  "promo": null
+ },
+ "lavandina": {
+  "precio": 1453.99,
+  "avail": true,
+  "nombre": "Lavandina Liquida AYUDÍN      Botella 1 L",
+  "list": 1453.99,
+  "promo": null
+ },
+ "esponjas": {
+  "precio": 1566.99,
+  "avail": true,
+  "nombre": "Esponja Go! Ultra Ideal Cocina\r\n",
+  "list": 1566.99,
+  "promo": null
+ },
+ "bolsas-residuo": {
+  "err": "HTTP Error 404: Not Found"
+ },
+ "jabon-polvo": {
+  "precio": 11522.99,
+  "avail": true,
+  "nombre": "Jabón en polvo Matic con bicarbonato ALA 3Kg",
+  "list": 11522.99,
+  "promo": null
+ },
+ "desodorante-ambiente": {
+  "precio": 4507.99,
+  "avail": true,
+  "nombre": "Desodorante De Ambiente POETT Frescura De Lavanda (Aerosol) 360ml",
+  "list": 4507.99,
+  "promo": null
+ },
+ "limpiador-pisos": {
+  "precio": 4484.99,
+  "avail": true,
+  "nombre": "Limpiador Líquido Desinfectante Concentrado Para Pisos LYSOFORM Lavanda Botella 800ml",
+  "list": 4484.99,
+  "promo": null
+ },
+ "lustramuebles": {
+  "precio": 6414.99,
+  "avail": true,
+  "nombre": "Lustramuebles BLEM Acero Inoxidable Y Metal Limón En Aerosol 360cc",
+  "list": 6414.99,
+  "promo": null
+ },
+ "insecticida": {
+  "precio": 2715.99,
+  "avail": true,
+  "nombre": "Insecticida RAID Repele Mosquitos En Espiral 12un",
+  "list": 2715.99,
+  "promo": null
+ },
+ "film-cocina": {
+  "precio": 2971.99,
+  "avail": true,
+  "nombre": "Rollo Film Adherente SEPARATA 15 Metros Paquete 1 Unidad",
+  "list": 2971.99,
+  "promo": null
+ },
+ "papel-aluminio": {
+  "precio": 4568.99,
+  "avail": true,
+  "nombre": "Rollo Papel Aluminio SEPARATA 5 Metros Paquete 1 Unidad",
+  "list": 4568.99,
+  "promo": null
+ },
+ "servilletas": {
+  "precio": 1452.99,
+  "avail": true,
+  "nombre": "Servilletas FELPITA De Mesa 33x30 Paquete 40 Unidades",
+  "list": 1452.99,
+  "promo": null
+ },
+ "panuelos-descartables": {
+  "precio": 2324.99,
+  "avail": true,
+  "nombre": "Pañuelos Descartables Infinity Felpita 75u",
+  "list": 2324.99,
+  "promo": null
+ },
+ "lysoform": {
+  "precio": 3775.99,
+  "avail": true,
+  "nombre": "Desinfectante Elimina Olores LYSOFORM Original Aerosol Para Llevar 55ml",
+  "list": 3775.99,
+  "promo": null
+ },
+ "limpiador-antigrasa": {
+  "precio": 3419.99,
+  "avail": true,
+  "nombre": "Procenex Limpiador Antigrasa Repuesto 820ml\r\n",
+  "list": 3419.99,
+  "promo": null
+ },
+ "limpiador-bano": {
+  "precio": 2506.99,
+  "avail": true,
+  "nombre": "Limpiador Liquido Baño Expert Cif 450ml",
+  "list": 2506.99,
+  "promo": null
+ },
+ "jabon-liquido-concentrado-para-diluir-gr": {
+  "precio": 10259.99,
+  "avail": true,
+  "nombre": "Jabón Concentrado ACE Clásico Botella 500ml",
+  "list": 10259.99,
+  "promo": "35%Dto"
+ },
+ "jabon-liquido-ala-camellito-ropa-delicad": {
+  "precio": 7238.99,
+  "avail": true,
+  "nombre": "Jabon Liquido Ropa Fina Matic Camellito 900ml",
+  "list": 7238.99,
+  "promo": null
+ },
+ "quitamanchas-ayudin-blancos-intensos-flo": {
+  "precio": 2582.99,
+  "avail": true,
+  "nombre": "Quitamanchas AYUDÍN Blancos Intensos Floral 1 L",
+  "list": 2582.99,
+  "promo": null
+ },
+ "quitamanchas-ayudin-blancos-intensos-flo-2": {
+  "precio": 4827.99,
+  "avail": true,
+  "nombre": "Quitamanchas AYUDÍN Blancos Intensos Floral 2 L",
+  "list": 4827.99,
+  "promo": null
+ },
+ "suavizante-para-ropa-carrefour-classic-e": {
+  "precio": 3821.99,
+  "avail": true,
+  "nombre": "Suavizante P/Ropa Exp.Floral Vivere Doy 900 Ml",
+  "list": 3821.99,
+  "promo": null
+ },
+ "suavizante-concentrado-comfort-brisa-ele": {
+  "precio": 9062.99,
+  "avail": true,
+  "nombre": "Suavizante Para Ropa Concentrado brisa elegante Comfort 500 Ml",
+  "list": 9062.99,
+  "promo": null
+ },
+ "suavizante-concentrado-comfort-brisa-ele-2": {
+  "precio": 17246.99,
+  "avail": true,
+  "nombre": "Enjuague Concentrado Perfume Brisa Suave Downy 1l",
+  "list": 17246.99,
+  "promo": null
+ },
+ "aromatizante-de-tela-algabo-suave-brisa-": {
+  "precio": 4863.99,
+  "avail": true,
+  "nombre": "Aromatizante De Tela POETT Fraganza Sedosa Primavera Doy Pack 250 Ml",
+  "list": 4863.99,
+  "promo": null
+ },
+ "repuesto-aromatizante-de-tela-poett-huel": {
+  "precio": 4863.99,
+  "avail": true,
+  "nombre": "Aromatizante De Tela POETT Fraganza Sedosa Primavera Doy Pack 250 Ml",
+  "list": 4863.99,
+  "promo": null
+ },
+ "limpiador-liquido-aromatizante-poett-ale": {
+  "precio": 4547.99,
+  "avail": true,
+  "nombre": "Limpiador Líquido Piso Tropical Procenex 1.8l",
+  "list": 4547.99,
+  "promo": null
+ },
+ "limpiador-liquido-procenex-gardenia-900-": {
+  "precio": 1449.99,
+  "avail": true,
+  "nombre": "Limpiador Liquido Campos De Lavanda Heroe 900cc",
+  "list": 1449.99,
+  "promo": null
+ },
+ "limpiador-liquido-carrefour-essential-ma": {
+  "precio": 5379.99,
+  "avail": true,
+  "nombre": "Limpiador Liquido Pino Silvestre HEROE 4l",
+  "list": 5379.99,
+  "promo": null
+ },
+ "limpiador-liquido-cif-pisos-plastificado": {
+  "precio": 2506.99,
+  "avail": true,
+  "nombre": "Limpiador Antigrasa Expert CIF 450ml",
+  "list": 2506.99,
+  "promo": null
+ },
+ "cera-liquida-para-madera-suiza-roble-cla": {
+  "precio": 11328.99,
+  "avail": true,
+  "nombre": "Cera Pisos Suiza Natural Bot 850 Ml",
+  "list": 11328.99,
+  "promo": "25%Dto"
+ },
+ "lustramuebles-multisuperficies-ceramicol": {
+  "precio": 5225.99,
+  "avail": true,
+  "nombre": "Lustramuebles Multisuperficies CERAMICOL Naranja Aerosol 360 Ml",
+  "list": 5225.99,
+  "promo": null
+ },
+ "lustramuebles-en-aerosol-carrefour-exper": {
+  "precio": 5225.99,
+  "avail": true,
+  "nombre": "Lustramuebles Multisuperficies CERAMICOL Naranja Aerosol 360 Ml",
+  "list": 5225.99,
+  "promo": null
+ },
+ "insecticida-carrefour-expert-mata-moscas": {
+  "precio": 7410.99,
+  "avail": true,
+  "nombre": "Insecticida RAID Mata Polillas Y Larvas En Aerosol 360cc",
+  "list": 7410.99,
+  "promo": null
+ },
+ "insecticida-carrefour-expert-mata-moscas-2": {
+  "precio": 7410.99,
+  "avail": true,
+  "nombre": "Insecticida RAID Mata Polillas Y Larvas En Aerosol 360cc",
+  "list": 7410.99,
+  "promo": null
+ },
+ "insecticida-raid-mata-cucarachas-cebos-6": {
+  "precio": 8129.99,
+  "avail": true,
+  "nombre": "Insecticida RAID Mata Cucarachas Jeringa 3gr",
+  "list": 8129.99,
+  "promo": null
+ },
+ "insecticida-raid-mata-hormigas-en-aeroso": {
+  "precio": 7410.99,
+  "avail": true,
+  "nombre": "Insecticida RAID Mata Polillas Y Larvas En Aerosol 360cc",
+  "list": 7410.99,
+  "promo": null
+ },
+ "mata-cucarachas-y-aranas-baygon-en-aeros": {
+  "precio": 4760.99,
+  "avail": true,
+  "nombre": "Insecticida Mata Cucarachas Y Arañas BAYGON En Aerosol 300ml",
+  "list": 4760.99,
+  "promo": null
+ },
+ "pano-rejilla-esponja-essential-1-uni": {
+  "precio": 2532.99,
+  "avail": true,
+  "nombre": "Rejilla Paño Esponja Mister Trapo X1 U.",
+  "list": 2532.99,
+  "promo": null
+ },
+ "insecticida-raid-moscas-y-mosquitos-liqu": {
+  "precio": 10774.99,
+  "avail": true,
+  "nombre": "Insecticida RAID Contra Mosquitos Líquido Eléctrico Floral Repuesto 45 Noches 32.9ml",
+  "list": 10774.99,
+  "promo": null
+ },
+ "detergente-cif-bioactive-lima-botella-50": {
+  "precio": 5484.99,
+  "avail": true,
+  "nombre": "Detergente Concentrado  CIF  Active Gel Original  500 ml",
+  "list": 5484.99,
+  "promo": "40%Dto"
+ },
+ "detergente-cif-bioactive-lima-doypack-45": {
+  "precio": 3864.99,
+  "avail": true,
+  "nombre": "Detergente Bioactive Lima CIF 450ml",
+  "list": 3864.99,
+  "promo": null
+ },
+ "detergente-cif-bioactive-lima-botella-30": {
+  "precio": 2710.99,
+  "avail": true,
+  "nombre": "Detergente Bio Active Lima Cif 300 Ml",
+  "list": 2710.99,
+  "promo": null
+ },
+ "detergente-concentrado-cif-active-gel-or": {
+  "precio": 4289.99,
+  "avail": true,
+  "nombre": "Detergente Concentrado   CIF  Active Gel Original  400 ml\r\n",
+  "list": 4289.99,
+  "promo": "40%Dto"
+ },
+ "abrillantador-para-lavavajillas-finish-4": {
+  "precio": 13204.99,
+  "avail": true,
+  "nombre": "FINISH Abrillantador Para Lavavajillas 400ml",
+  "list": 13204.99,
+  "promo": null
+ },
+ "detergente-finish-tabletas-dp-15-uni": {
+  "precio": 16007.99,
+  "avail": true,
+  "nombre": "Detergente Para Lavavajillas FINISH Tabletas Quantum 15un",
+  "list": 16007.99,
+  "promo": null
+ },
+ "fosforos-ranchera-x-220-uni": {
+  "precio": 1511.99,
+  "avail": true,
+  "nombre": "Fósforos Tradicionales Ranchera 200u",
+  "list": 1511.99,
+  "promo": null
+ },
+ "fosforos-gran-fragata-x-400-uni": {
+  "precio": 2320.99,
+  "avail": true,
+  "nombre": "Fósforos Tradicionales Gran Fragata 400u",
+  "list": 2320.99,
+  "promo": null
+ },
+ "lavandina-clasica-desinfectante-ayudin-2": {
+  "precio": 3859.99,
+  "avail": true,
+  "nombre": "Lavandina AYUDÍN Triple Poder Lavanda 2 L",
+  "list": 3859.99,
+  "promo": null
+ },
+ "lavandina-original-odex-4-l": {
+  "precio": 3899.99,
+  "avail": true,
+  "nombre": "Lavandina Odex 4l",
+  "list": 3899.99,
+  "promo": "20%Dto"
+ },
+ "lavandina-en-gel-carrefour-700-cc": {
+  "precio": 2999.99,
+  "avail": true,
+  "nombre": "Lavandina En Gel Original Odex Bot 700 Ml",
+  "list": 2999.99,
+  "promo": null
+ },
+ "toallitas-desinfectante-ayudin-aroma-fre": {
+  "precio": 12702.99,
+  "avail": true,
+  "nombre": "Limpiador Desinfectante Ayudín Lavanda 4 L",
+  "list": 12702.99,
+  "promo": null
+ },
+ "rollo-de-cocina-sussex-clasico-50-panos-": {
+  "precio": 3237.99,
+  "avail": true,
+  "nombre": "Rollo Cocina SUSSEX Clásico 50 Paños 3 Un",
+  "list": 3237.99,
+  "promo": null
+ },
+ "rollo-de-cocina-familiar-felpita-maxirol": {
+  "precio": 7410.99,
+  "avail": true,
+  "nombre": "P.Higienico S/H X 12 Rollo Felpita Paq 36 M2",
+  "list": 7410.99,
+  "promo": null
+ },
+ "rollos-de-cocina-carrefour-essential-x3-": {
+  "precio": 3237.99,
+  "avail": true,
+  "nombre": "Rollo Cocina SUSSEX Clásico 50 Paños 3 Un",
+  "list": 3237.99,
+  "promo": null
+ },
+ "papel-higienico-higienol-fresh-hoja-simp": {
+  "precio": 2725.99,
+  "avail": true,
+  "nombre": "Papel Higiénico HIGIENOL Fresh Hoja Simple 30 M 4 Un",
+  "list": 2725.99,
+  "promo": null
+ },
+ "papel-higienico-hoja-simple-carrefour-es": {
+  "precio": 2511.99,
+  "avail": true,
+  "nombre": "Papel Higiénico CAMPANITA Soft Simple Hoja Paquete 4 Unidades",
+  "list": 2511.99,
+  "promo": null
+ },
+ "papel-higienico-hoja-simple-carrefour-es-2": {
+  "precio": 2511.99,
+  "avail": true,
+  "nombre": "Papel Higiénico CAMPANITA Soft Simple Hoja Paquete 4 Unidades",
+  "list": 2511.99,
+  "promo": null
+ },
+ "papel-higienico-elegante-hoja-simple-30-": {
+  "precio": 2511.99,
+  "avail": true,
+  "nombre": "Papel Higiénico CAMPANITA Soft Simple Hoja Paquete 4 Unidades",
+  "list": 2511.99,
+  "promo": null
+ },
+ "papel-higienico-bulnez-hoja-simple-x12-3": {
+  "precio": 2511.99,
+  "avail": true,
+  "nombre": "Papel Higiénico CAMPANITA Soft Simple Hoja Paquete 4 Unidades",
+  "list": 2511.99,
+  "promo": null
+ },
+ "gel-limpiador-desinfectante-para-inodoro": {
+  "precio": 5134.99,
+  "avail": true,
+  "nombre": "Limpiador Desinfectante De Baños HARPIC Sarro Y Mugre Gatillo 495ml",
+  "list": 5134.99,
+  "promo": null
+ },
+ "pastilla-para-inodoro-vim-oceano-100-grs": {
+  "precio": 6055.99,
+  "avail": true,
+  "nombre": "Pastilla W.C. Para Mochila Oceano Vim 100g",
+  "list": 6055.99,
+  "promo": null
+ },
+ "pastilla-para-inodoro-harpic-pino-20-g": {
+  "precio": 1921.99,
+  "avail": true,
+  "nombre": "Desodorante Inodoro Pastilla Lavanda Harpic 20g",
+  "list": 1921.99,
+  "promo": null
+ },
+ "pastilla-para-inodoro-poett-con-red-bris": {
+  "precio": 1921.99,
+  "avail": true,
+  "nombre": "HARPIC Pastilla Para Inodoros Pino 20g",
+  "list": 1921.99,
+  "promo": null
+ },
+ "aromatizante-de-ambiente-carrefour-essen": {
+  "precio": 8499.99,
+  "avail": true,
+  "nombre": "Aromatizante De Ambiente Y Tela Baby Seven Scents 250ml",
+  "list": 8499.99,
+  "promo": null
+ },
+ "desinfectante-de-ambientes-y-superficies": {
+  "precio": 5084.99,
+  "avail": true,
+  "nombre": "Desinfectante De Ambientes Y Elimina Olores LYSOFORM Bebé En Aerosol 360ml",
+  "list": 5084.99,
+  "promo": null
+ },
+ "desinfectante-de-ambientes-y-elimina-olo": {
+  "precio": 6152.99,
+  "avail": true,
+  "nombre": "Desinfectante De Ambientes Y Elimina Olores LYSOFORM Original En Aerosol 495ml",
+  "list": 6152.99,
+  "promo": null
+ },
+ "desinfectante-en-aerosol-carrefour-exper": {
+  "precio": 5084.99,
+  "avail": true,
+  "nombre": "Desinfectante De Ambientes Y Elimina Olores LYSOFORM Bebé En Aerosol 360ml",
+  "list": 5084.99,
+  "promo": null
+ },
+ "aerosol-desinfectante-de-ambientes-y-sup": {
+  "precio": 4507.99,
+  "avail": true,
+  "nombre": "Desodorante De Ambiente POETT Frescura De Lavanda (Aerosol) 360ml",
+  "list": 4507.99,
+  "promo": null
+ },
+ "desinfectante-ayudin-expert-frescura-mat": {
+  "precio": 4298.99,
+  "avail": true,
+  "nombre": "Aerosol Desinfectante Ayudin Expert Frescura Matinal 332 Ml",
+  "list": 4298.99,
+  "promo": null
+ },
+ "aromatizante-de-ambientes-glade-paraiso-": {
+  "precio": 4131.99,
+  "avail": true,
+  "nombre": "Aromatizante De Ambientes GLADE Paraíso Azul En Aerosol 360ml",
+  "list": 4131.99,
+  "promo": null
+ },
+ "bolsa-de-residuos-bulnez-50x70-cm-plana-": {
+  "precio": 4482.99,
+  "avail": true,
+  "nombre": "Bolsa Residuo 50x70 Cristal Del Lago X 20 Uni",
+  "list": 4482.99,
+  "promo": null
+ },
+ "bolsa-de-residuos-bulnez-60x90-cm-plana-": {
+  "precio": 11009.99,
+  "avail": true,
+  "nombre": "Bolsas De Residuos TRASH 80 X 110 Cm 10 U. Multiuso",
+  "list": 11009.99,
+  "promo": null
+ },
+ "bolsa-residuos-asurin-rollo-banderola-ci": {
+  "precio": 7987.99,
+  "avail": true,
+  "nombre": "Bolsas De Residuos ASURIN 50 X 65 Cm 20 U. Fuertes",
+  "list": 7987.99,
+  "promo": null
+ },
+ "bolsas-para-residuos-asurin-cocina-28x30": {
+  "precio": 4048.99,
+  "avail": true,
+  "nombre": "Bolsas De Residuos ASURIN 28 X 30 Cm 50 U. Para Cocina",
+  "list": 4048.99,
+  "promo": null
+ },
+ "bolsa-para-residuos-mortimer-normal-45x5": {
+  "precio": 4500.99,
+  "avail": true,
+  "nombre": "Bolsa De Residuos 45x55 Cierre Fácil Task 20u",
+  "list": 4500.99,
+  "promo": null
+ },
+ "trapo-de-piso-bulnez-gris": {
+  "precio": 3344.99,
+  "avail": true,
+  "nombre": "Trapo Para Piso Reforzado Capullo 1 Uni",
+  "list": 3344.99,
+  "promo": null
+ },
+ "toallitas-desinfectantes-lysol-frescura-": {
+  "precio": 4965.99,
+  "avail": true,
+  "nombre": "LYSOL Toallitas Desinfectantes Frescura Marina 36 Unid.",
+  "list": 4965.99,
+  "promo": null
+ },
+ "pano-absorbente-mortimer-multiuso-3-u": {
+  "precio": 4719.99,
+  "avail": true,
+  "nombre": "Paño Absorbente Media Naranja 3uni",
+  "list": 4719.99,
+  "promo": null
+ },
+ "toallitas-desinfectantes-ayudin-aroma-fr": {
+  "precio": 12702.99,
+  "avail": true,
+  "nombre": "Limpiador Desinfectante Ayudín Lavanda 4 L",
+  "list": 12702.99,
+  "promo": null
+ },
+ "esponja-bijou-rectangular-grande": {
+  "precio": 851.99,
+  "avail": true,
+  "nombre": "Esponja De Baño BIJOU Rectangular Color Bsa 1 Uni",
+  "list": 851.99,
+  "promo": null
+ },
+ "esponja-de-acero-carrefour-2-u": {
+  "precio": 5457.99,
+  "avail": true,
+  "nombre": "Esponja Super Acero VILEDA",
+  "list": 5457.99,
+  "promo": null
+ },
+ "esponja-scotch-brite-limpieza-pesada-x-4": {
+  "precio": 4840.0,
+  "avail": true,
+  "nombre": "Esponja Scotch-Brite Limpieza Pesada 4 unidades",
+  "list": 4840.0,
+  "promo": null
+ },
+ "esponja-scotch-brite-cero-rayas-naranja-": {
+  "precio": 2574.99,
+  "avail": true,
+  "nombre": "Esponja Cero Rayas Nar Scotch Brit X 1 Uni",
+  "list": 2574.99,
+  "promo": null
+ },
+ "guante-exfoliante-bijou-x-1-uni-modelos-": {
+  "precio": 2282.0,
+  "avail": true,
+  "nombre": "Esponja De Baño BIJOU Exfoliante Pompom Bsa 1 Uni",
+  "list": 2282.0,
+  "promo": null
+ },
+ "guante-carrefour-essential-mediano": {
+  "precio": 4329.99,
+  "avail": true,
+  "nombre": "Guante Mediano Multiuso Virulana Par 1u",
+  "list": 4329.99,
+  "promo": null
+ },
+ "shampoo": {
+  "precio": 4274.99,
+  "avail": true,
+  "nombre": "Shampoo Sedal Mega Crecimiento 190ml",
+  "list": 4274.99,
+  "promo": null
+ },
+ "jabon-tocador": {
+  "precio": 2510.99,
+  "avail": true,
+  "nombre": "Jabón En Barra Baby DOVE Humectación Sensible 75 G",
+  "list": 2510.99,
+  "promo": null
+ },
+ "pasta-dental": {
+  "precio": 3315.99,
+  "avail": true,
+  "nombre": "Pasta Dental Colgate Ultra Blanco 90 G",
+  "list": 3315.99,
+  "promo": null
+ },
+ "acondicionador": {
+  "precio": 4274.99,
+  "avail": true,
+  "nombre": "Acondicionador Sedal Mega Crecimiento 190ml",
+  "list": 4274.99,
+  "promo": null
+ },
+ "desodorante": {
+  "precio": 3187.99,
+  "avail": true,
+  "nombre": "Desodorante Antitranspirante Rexona Invisible Roll-On 50 Ml\r\n",
+  "list": 3187.99,
+  "promo": null
+ },
+ "afeitadoras": {
+  "precio": 2324.99,
+  "avail": true,
+  "nombre": "Pañuelos Descartables Infinity Felpita 75u",
+  "list": 2324.99,
+  "promo": null
+ },
+ "protector-solar": {
+  "precio": 17415.99,
+  "avail": true,
+  "nombre": "Protector Solar Fps 50+ Protección Alta Zono 90ml",
+  "list": 17415.99,
+  "promo": "35%Dto"
+ },
+ "algodon": {
+  "precio": 2480.99,
+  "avail": true,
+  "nombre": "Algodon Hidr. Doncella Paq 140 Grm",
+  "list": 2480.99,
+  "promo": null
+ },
+ "repelente": {
+  "precio": 4769.99,
+  "avail": true,
+  "nombre": "Repelente De Insectos Insect Free 150ml",
+  "list": 4769.99,
+  "promo": null
+ },
+ "cepillo-dientes": {
+  "precio": 6901.99,
+  "avail": true,
+  "nombre": "Cepillo Dental PARODONTAX Suave Blister 1 Unidad",
+  "list": 6901.99,
+  "promo": "25%Dto"
+ },
+ "pasta-dental-infantil": {
+  "precio": 11300.99,
+  "avail": true,
+  "nombre": "Pasta Dental COLGATE Luminous White Brilliant 140g",
+  "list": 11300.99,
+  "promo": "35%Dto"
+ },
+ "shampoo-ninos": {
+  "precio": 8090.99,
+  "avail": true,
+  "nombre": "Shampoo Humectación  BABY DOVE  Enriquecida Sin Lágrimas 200 Ml",
+  "list": 8090.99,
+  "promo": null
+ },
+ "toallitas-femeninas": {
+  "precio": 3369.99,
+  "avail": true,
+  "nombre": "Toallitas femeninas SIEMPRE LIBRE Confort Normal Suave c/ Alas x8 un",
+  "list": 3369.99,
+  "promo": "25%Dto"
+ },
+ "jabon-liquido-manos": {
+  "precio": 3086.99,
+  "avail": true,
+  "nombre": "Jabón Liquido Para Manos LUX Botanic Orquidea Negra Doypack 220 Ml",
+  "list": 3086.99,
+  "promo": null
+ },
+ "shampoo-dove-nutricion-tri-oleos-400-ml": {
+  "precio": 11084.99,
+  "avail": true,
+  "nombre": "Shampoo 3en1 Sports Dove Bot 400 Ml",
+  "list": 11084.99,
+  "promo": null
+ },
+ "plusbelle-esencia-shampoo-control-frizz-": {
+  "precio": 6289.99,
+  "avail": true,
+  "nombre": "PLUSBELLE Esencia Shampoo Control Frizz 970ml",
+  "list": 6289.99,
+  "promo": "35%Dto"
+ },
+ "shampoo-goodbye-danos-oil-control-350-ml": {
+  "precio": 8990.99,
+  "avail": true,
+  "nombre": "Shampoo Fructis Goodbye Daños 350ml",
+  "list": 8990.99,
+  "promo": null
+ },
+ "shampoo-sedal-luminous-uv-650-ml": {
+  "precio": 10252.99,
+  "avail": true,
+  "nombre": "Shampoo SEDAL Crema Balance Toque De Seda 650 Ml",
+  "list": 10252.99,
+  "promo": null
+ },
+ "shampoo-head-shoulders-control-caspa-ant": {
+  "precio": 13830.99,
+  "avail": true,
+  "nombre": "HEAD & SHOULDERS Manzana Fresh Shampoo Control Caspa 375 Ml",
+  "list": 13830.99,
+  "promo": null
+ },
+ "shampoo-tresemme-keratina-antifrizz-880-": {
+  "precio": 18864.99,
+  "avail": true,
+  "nombre": "Shampoo Keratina Antifrizz Tresemme 880ml",
+  "list": 18864.99,
+  "promo": null
+ },
+ "shampoo-sedal-caspa-control-340-ml": {
+  "precio": 6383.99,
+  "avail": true,
+  "nombre": "Shampoo Caspa Control Sedal 340 Ml",
+  "list": 6383.99,
+  "promo": null
+ },
+ "shampoo-anti-comezon-head-shoulders-180-": {
+  "precio": 8237.99,
+  "avail": true,
+  "nombre": "Shampoo Anti Comezón Head & Shoulders 180ml",
+  "list": 8237.99,
+  "promo": null
+ },
+ "acondicionador-dove-nutricion-tri-oleo-4": {
+  "precio": 11078.99,
+  "avail": true,
+  "nombre": "Acondicionador Ritual De Reparación DOVE 400 Ml",
+  "list": 11078.99,
+  "promo": null
+ },
+ "acondicionador-tresemme-keratina-antifri": {
+  "precio": 11882.99,
+  "avail": true,
+  "nombre": "Acondicionador TRESEMME Keratina Antifrizz 500 Ml",
+  "list": 11882.99,
+  "promo": null
+ },
+ "acondicionador-tresemme-keratina-antifri-2": {
+  "precio": 18864.99,
+  "avail": true,
+  "nombre": "Acondicionador Keratina Antifrizz Tresemme 880ml",
+  "list": 18864.99,
+  "promo": null
+ },
+ "acondicionador-goodbye-danos-oil-control": {
+  "precio": 8990.99,
+  "avail": true,
+  "nombre": "Acondicionador Fructis Goodbye Daños 350ml",
+  "list": 8990.99,
+  "promo": null
+ },
+ "acondicionador-dove-bond-repair-peptido-": {
+  "precio": 10492.99,
+  "avail": true,
+  "nombre": "Acondicionador DOVE Bond Intense Repair 250 Ml",
+  "list": 10492.99,
+  "promo": null
+ },
+ "acondicionador-sedal-crema-balance-340-c": {
+  "precio": 6383.99,
+  "avail": true,
+  "nombre": "Acondicionador Crema Balance Sedal 340 Ml",
+  "list": 6383.99,
+  "promo": null
+ },
+ "oleo-serum-dove-bond-repair-peptido-110-": {
+  "precio": 19644.99,
+  "avail": true,
+  "nombre": "Oleo + Serum  DOVE  Bond Intense Repair 110 Ml",
+  "list": 19644.99,
+  "promo": "40%Dto"
+ },
+ "spray-tresemme-protector-termico-antifri": {
+  "precio": 10786.99,
+  "avail": true,
+  "nombre": "Spray TRESEMME Protector Térmico Antifrizz 120 Ml",
+  "list": 10786.99,
+  "promo": "40%Dto"
+ },
+ "mascara-de-tratamiento-dove-bond-repair-": {
+  "precio": 19018.99,
+  "avail": true,
+  "nombre": "Máscara De Tratamiento DOVE Bond Intense Repair 250 G",
+  "list": 19018.99,
+  "promo": "40%Dto"
+ },
+ "oleo-argan-herbal-essences-100-ml": {
+  "precio": 28376.99,
+  "avail": true,
+  "nombre": "Oleo De Argan Aqua Oil Herbal Essences Cja 100 Ml",
+  "list": 28376.99,
+  "promo": null
+ },
+ "mascara-de-tratamiento-tresemme-hidratac": {
+  "precio": 9680.99,
+  "avail": true,
+  "nombre": "Máscara De Tratamiento TRESEMME Hidratación Pro Activa 300 Ml",
+  "list": 9680.99,
+  "promo": null
+ },
+ "tratamiento-leave-in-dove-nutricion-tri-": {
+  "precio": 19644.99,
+  "avail": true,
+  "nombre": "Tratamiento Leave In Dove Nutrición Tri-Óleos 110ml",
+  "list": 19644.99,
+  "promo": "40%Dto"
+ },
+ "pasta-dental-kolynos-white-protection-18": {
+  "precio": 5070.99,
+  "avail": true,
+  "nombre": "Pasta Dental KOLYNOS White Protection 180g",
+  "list": 5070.99,
+  "promo": null
+ },
+ "pasta-dental-colgate-smiles-barbie-100-g": {
+  "precio": 7040.99,
+  "avail": true,
+  "nombre": "Pasta Dental COLGATE Total Encías Saludables Con Flúor 90g",
+  "list": 7040.99,
+  "promo": "3x2"
+ },
+ "pasta-dental-colgate-luminous-white-colo": {
+  "precio": 8578.99,
+  "avail": true,
+  "nombre": "Pasta Dental Colgate Luminous White Instant 70 G\r\n",
+  "list": 8578.99,
+  "promo": null
+ },
+ "pasta-dental-colgate-sensitive-pro-alivi": {
+  "precio": 4955.99,
+  "avail": true,
+  "nombre": "Pasta Dental COLGATE Sensitive Pro Alivio Inmediato Original 60 G",
+  "list": 4955.99,
+  "promo": "35%Dto"
+ },
+ "crema-dental-dople-proteccion-odol-90-g": {
+  "precio": 2800.99,
+  "avail": true,
+  "nombre": "Crema Dental Kolynos Super Blanco Frescura Intensa 90g",
+  "list": 2800.99,
+  "promo": null
+ },
+ "enjuague-bucal-de-mentol-carrefour-soft-": {
+  "precio": 9739.99,
+  "avail": true,
+  "nombre": "Enjuague Bucal LISTERINE Cuidado Total Frescura Suave Sin Alcohol X 500 Ml.",
+  "list": 9739.99,
+  "promo": "25%Dto"
+ },
+ "enjuague-bucal-listerine-cool-mint-suave": {
+  "precio": 5680.99,
+  "avail": true,
+  "nombre": "Enjuague Bucal LISTERINE Cool Mint Frescura Intensa X 250 Ml.",
+  "list": 5680.99,
+  "promo": "25%Dto"
+ },
+ "listerine-antisarro-frescura-intensa-500": {
+  "precio": 8033.99,
+  "avail": true,
+  "nombre": "Enjuague Bucal Listerine Freshburst Frescura Intensa X500ml",
+  "list": 8033.99,
+  "promo": "25%Dto"
+ },
+ "enjuague-bucal-listerine-whitening-extre": {
+  "precio": 6692.99,
+  "avail": true,
+  "nombre": "Enjuague Bucal LISTERINE Whitening X 236 Ml.",
+  "list": 6692.99,
+  "promo": "25%Dto"
+ },
+ "cepillo-dental-merali-de-bambu-suave-1-u": {
+  "precio": 3850.0,
+  "avail": true,
+  "nombre": "Cepillo Dental De Bambú Duro Meraki 1u.",
+  "list": 3850.0,
+  "promo": "70% 2da"
+ },
+ "oral-b-sensitive-indicator-extra-soft-ce": {
+  "precio": 13171.99,
+  "avail": true,
+  "nombre": "Cepillos Dentales ORAL-B Sensitive Indicator Extra Soft 2 Un",
+  "list": 13171.99,
+  "promo": null
+ },
+ "cepillo-dental-indicator-clasico-oral-b-": {
+  "precio": 5326.99,
+  "avail": true,
+  "nombre": "Cepillo Dental Con Cerdas Indicadoras Oral-B Clean Indicator 1 Un",
+  "list": 5326.99,
+  "promo": null
+ },
+ "cepillo-inter-dental-gum-soft-picks-40-u": {
+  "precio": 7116.99,
+  "avail": true,
+  "nombre": "Cepillo Dental Para Niños Suave Gum 2u",
+  "list": 7116.99,
+  "promo": null
+ },
+ "hilo-dental-colgate-total-25-mts": {
+  "precio": 4600.99,
+  "avail": true,
+  "nombre": "Hilo Dental COLGATE Total 12 Fluor Y Menta 25m",
+  "list": 4600.99,
+  "promo": null
+ },
+ "flossers-hilo-dental-gum-menta-20-uni": {
+  "precio": 4413.99,
+  "avail": true,
+  "nombre": "Hilo Dental GUM Flossers Blister 20 Unidades",
+  "list": 4413.99,
+  "promo": null
+ },
+ "flossers-horqueta-con-hilo-dental-menta-": {
+  "precio": 4413.99,
+  "avail": true,
+  "nombre": "Hilo Dental GUM Flossers Blister 20 Unidades",
+  "list": 4413.99,
+  "promo": null
+ },
+ "jabon-liquido-para-manos-suave-jazmin-y-": {
+  "precio": 3086.99,
+  "avail": true,
+  "nombre": "Jabón Liquido Para Manos LUX Botanic Orquidea Negra Doypack 220 Ml",
+  "list": 3086.99,
+  "promo": null
+ },
+ "jabon-liquido-carrefour-soft-de-mora-y-l": {
+  "precio": 2150.99,
+  "avail": true,
+  "nombre": "Repuesto Jabón Líquido Cream 300ml Algabo",
+  "list": 2150.99,
+  "promo": null
+ },
+ "jabon-antibac-jazmin-carrefour-soft-dp-2": {
+  "precio": 6366.99,
+  "avail": true,
+  "nombre": "Jabón Líquido Karité Y DOVE Vainilla 250 Ml",
+  "list": 6366.99,
+  "promo": "25%Dto"
+ },
+ "jabon-de-tocador-lux-orquidea-negra-120-": {
+  "precio": 1129.99,
+  "avail": true,
+  "nombre": "Jabón de Tocador St. Tropez Brisa de Primavera 120g",
+  "list": 1129.99,
+  "promo": null
+ },
+ "repuesto-jabon-liquido-algabo-cream-300-": {
+  "precio": 2150.99,
+  "avail": true,
+  "nombre": "Repuesto Jabón Líquido Cream 300ml Algabo",
+  "list": 2150.99,
+  "promo": null
+ },
+ "jabon-de-tocador-palmolive-naturals-kari": {
+  "precio": 980.99,
+  "avail": true,
+  "nombre": "Jabón De Tocador Palmolive Naturals Karite 85 G",
+  "list": 980.99,
+  "promo": "35%Dto"
+ },
+ "toallas-con-alas-triplegadas-carrefour-s": {
+  "precio": 2423.99,
+  "avail": true,
+  "nombre": "Toallas Femeninas SIEMPRE LIBRE Especial Suave C/ Alas X8 Un",
+  "list": 2423.99,
+  "promo": "25%Dto"
+ },
+ "always-xtra-suave-toallas-nocturnas-8-un": {
+  "precio": 3611.99,
+  "avail": true,
+  "nombre": "ALWAYS Xtra Doble Protección Suave Toallas Femeninas 8u",
+  "list": 3611.99,
+  "promo": "40%Dto"
+ },
+ "protectores-diarios-carrefour-con-perfum": {
+  "precio": 4946.99,
+  "avail": true,
+  "nombre": "Protectores Diarios Normal Lina 60u",
+  "list": 4946.99,
+  "promo": "25%Dto"
+ },
+ "protector-diario-calipso-normal-20-uni": {
+  "precio": 3451.0,
+  "avail": true,
+  "nombre": "Protectores Diarios Normal CALIPSO 50 Uni",
+  "list": 3451.0,
+  "promo": null
+ },
+ "tampones-ob-siempre-libre-super-x-16-uni": {
+  "precio": 4428.99,
+  "avail": true,
+  "nombre": "Tampones Ob Siempre Libre Super X 8 Un.",
+  "list": 4428.99,
+  "promo": "25%Dto"
+ },
+ "tampones-carrefour-super-8-u": {
+  "precio": 4430.99,
+  "avail": true,
+  "nombre": "Tampones Ob Siempre Libre Mini X 8 Un.",
+  "list": 4430.99,
+  "promo": "25%Dto"
+ },
+ "serum-cellular-nivea-con-acido-hialuroni": {
+  "precio": 38616.99,
+  "avail": true,
+  "nombre": "Sérum Rellenador NIVEA Cellular Expert Filler con Ácido Hialurónico x 30 ml",
+  "list": 38616.99,
+  "promo": "35%Dto"
+ },
+ "recarga-crema-hidratante-facial-neutroge": {
+  "precio": 24253.99,
+  "avail": true,
+  "nombre": "Recarga Crema Hidratante Facial Neutrogena Hydro Boost 50 Gr",
+  "list": 24253.99,
+  "promo": "30%Dto"
+ },
+ "crema-facial-humectante-teatrical-v2-100": {
+  "precio": 4530.99,
+  "avail": true,
+  "nombre": "Crema facial Humectante Teatrical 100 gr v2\r\n",
+  "list": 4530.99,
+  "promo": "25%Dto"
+ },
+ "gel-exfoliante-facial-purificante-nivea-": {
+  "precio": 11226.99,
+  "avail": true,
+  "nombre": "Gel Exfoliante Facial Purificante NIVEA Para Todo Tipo De Piel X 75 Ml",
+  "list": 11226.99,
+  "promo": "30%Dto"
+ },
+ "gel-limpiador-facial-micelar-nivea-rose-": {
+  "precio": 15811.99,
+  "avail": true,
+  "nombre": "Gel limpiador facial micelar NIVEA Rose Care para todo tipo de piel x 150 ml",
+  "list": 15811.99,
+  "promo": "25%Dto"
+ },
+ "agua-micelar-neutrogena-hydro-boost-400-": {
+  "precio": 21030.99,
+  "avail": true,
+  "nombre": "Agua Micelar NEUTROGENA Hydro Boost 400 Ml",
+  "list": 21030.99,
+  "promo": "30%Dto"
+ },
+ "discos-desmaquillantes-q-soft-70-uni": {
+  "precio": 3253.99,
+  "avail": true,
+  "nombre": "Discos De Algodón Desmaquillantes 80u Algabo",
+  "list": 3253.99,
+  "promo": "25%Dto"
+ },
+ "desmaquillante-bifasico-de-ojos-nivea-ef": {
+  "precio": 15452.99,
+  "avail": true,
+  "nombre": "Desmaquillante bifásico de ojos NIVEA Efecto Dual para piel sensible x 125 ml",
+  "list": 15452.99,
+  "promo": "25%Dto"
+ },
+ "agua-micelar-humectante-teatrical-600-ml": {
+  "precio": 12450.99,
+  "avail": true,
+  "nombre": "Agua Micelar Humectante Teatrical 600 ml\r\n",
+  "list": 12450.99,
+  "promo": null
+ },
+ "crema-hidratante-intensiva-nivea-creme-e": {
+  "precio": 4324.99,
+  "avail": true,
+  "nombre": "Crema Hidratante Intensiva NIVEA Creme En Lata Para Todo Tipo De Piel X 60 Ml",
+  "list": 4324.99,
+  "promo": null
+ },
+ "crema-corporal-st-ives-avena-y-karite-53": {
+  "precio": 12455.99,
+  "avail": true,
+  "nombre": "Crema Corporal St. Ives Avena Y Karité 532 Ml\r\n",
+  "list": 12455.99,
+  "promo": null
+ },
+ "protector-labial-humectante-nivea-essent": {
+  "precio": 6474.99,
+  "avail": true,
+  "nombre": "Protector Labial Humectante NIVEA Med Repair Fps 20 Para Todo Tipo De Piel X 4,8 Gr",
+  "list": 6474.99,
+  "promo": null
+ },
+ "balsamo-labial-humectante-nivea-lip-glow": {
+  "precio": 9070.99,
+  "avail": true,
+  "nombre": "Bálsamo labial humectante NIVEA Lip Glow con Ácido Hialurónico x 4.8g",
+  "list": 9070.99,
+  "promo": null
+ },
+ "protector-solar-facial-nivea-sun-invisib": {
+  "precio": 34699.99,
+  "avail": true,
+  "nombre": "Protector solar facial NIVEA SUN Ultra Light Daily Fluid Tono Medio FPS 50+ para todo tipo de piel x 40 ml",
+  "list": 34699.99,
+  "promo": "40%Dto"
+ },
+ "protector-solar-dermaglos-f40-200-cc": {
+  "precio": 27743.99,
+  "avail": true,
+  "nombre": "Protector Solar Fps 30 Dermaglos Bot 200 Ml",
+  "list": 27743.99,
+  "promo": "25%Dto"
+ },
+ "desodorante-antitranspirante-nivea-men-b": {
+  "precio": 4912.99,
+  "avail": true,
+  "nombre": "Desodorante Antitranspirante NIVEA Men Dry Impact En Aerosol X 150 Ml",
+  "list": 4912.99,
+  "promo": "25%Dto"
+ },
+ "antitranspirante-rexona-bamboo-roll-on-5": {
+  "precio": 3187.99,
+  "avail": true,
+  "nombre": "Desodorante Antitranspirante Rexona Invisible Roll-On 50 Ml\r\n",
+  "list": 3187.99,
+  "promo": null
+ },
+ "desodorante-antitranspirante-rexona-v8-e-2": {
+  "precio": 7020.99,
+  "avail": true,
+  "nombre": "Desodorante en barra Rexona V8 Dry 53g",
+  "list": 7020.99,
+  "promo": null
+ },
+ "bandas-depilatorias-facial-veet-piel-sen": {
+  "precio": 7801.99,
+  "avail": true,
+  "nombre": "Bandas De Cera Depilatoria Facial Veet Caja 19u",
+  "list": 7801.99,
+  "promo": null
+ },
+ "bandas-depilatorias-rostro-depimiel-x-12": {
+  "precio": 8289.99,
+  "avail": true,
+  "nombre": "Bandas De Cera Depilatorias Veet Caja 19u",
+  "list": 8289.99,
+  "promo": null
+ },
+ "rasuradora-gillette-prestobarba-3-carbon": {
+  "precio": 17033.99,
+  "avail": true,
+  "nombre": "Máquinas Para Afeitar Gillette Prestobarba3 Sensitive 4 Unidades\r\n",
+  "list": 17033.99,
+  "promo": null
+ },
+ "gel-de-afeitar-nivea-men-sensitive-para-": {
+  "precio": 10456.99,
+  "avail": true,
+  "nombre": "Gel De Afeitar NIVEA Men Sensitive Para Piel Sensible X 200 Ml",
+  "list": 10456.99,
+  "promo": null
+ },
+ "espuma-para-afeitar-algabo-200-cc": {
+  "precio": 6450.99,
+  "avail": true,
+  "nombre": "Espuma de Baño Koreia Coco & Vainilla con Ácido Hialurónico 200ml",
+  "list": 6450.99,
+  "promo": "25%Dto"
+ },
+ "repelente-para-mosquitos-off-family-aero": {
+  "precio": 7779.99,
+  "avail": true,
+  "nombre": "Repelente Para Mosquitos Off! Family Aerosol 170cc",
+  "list": 7779.99,
+  "promo": "25%Dto"
+ },
+ "espirales-para-mosquitos-selton-protecci": {
+  "precio": 5063.99,
+  "avail": true,
+  "nombre": "Mata Moscas Y Mosquitos Selton Acción Instantánea 360 Cm 3",
+  "list": 5063.99,
+  "promo": null
+ },
+ "maquina-de-afeitar-gillette-prestobarba3": {
+  "precio": 9124.99,
+  "avail": true,
+  "nombre": "Máquina De Afeitar GILLETTE Prestobarba3 Fresh Con Eucalipto Y 3 Hojas, 2 Uds",
+  "list": 9124.99,
+  "promo": null
+ },
+ "maquina-de-afeitar-bic-flex3-2-uni": {
+  "precio": 5412.0,
+  "avail": true,
+  "nombre": "Maquina De Afeitar BIC Flex 3 Blister 2 Unidades",
+  "list": 5412.0,
+  "promo": "25%Dto"
+ },
+ "repuesto-para-maquina-de-afeitar-gillett": {
+  "precio": 12295.99,
+  "avail": true,
+  "nombre": "Repuesto Para Máquina De Afeitar GILLETTE Mach3 Carbono Con 3 Hojas, 2 Uds",
+  "list": 12295.99,
+  "promo": null
+ },
+ "repuestos-para-afeitar-bic-flex5-4-uni": {
+  "precio": 14303.0,
+  "avail": true,
+  "nombre": "Repuestos para Afeitadora BIC Flex 5 Sensitive Recargable 4 unidades",
+  "list": 14303.0,
+  "promo": "25%Dto"
+ },
+ "maquina-de-afeitar-bic-comfort-3-action-": {
+  "precio": 3685.99,
+  "avail": true,
+  "nombre": "Maquina De Afeitar BIC Comfort 3 Blister 2 Unidades",
+  "list": 3685.99,
+  "promo": null
+ },
+ "panales": {
+  "precio": 14349.0,
+  "avail": true,
+  "nombre": "Pañal HUGGIES Flexi Comfort G X20",
+  "list": 14349.0,
+  "promo": null
+ },
+ "toallitas-humedas": {
+  "precio": 8890.0,
+  "avail": true,
+  "nombre": "Toallitas Húmedas Para Bebé Johnson'S® Recién Nacido X 48 Un.",
+  "list": 8890.0,
+  "promo": "35%Dto"
+ },
+ "panales-xg": {
+  "precio": 20645.99,
+  "avail": true,
+  "nombre": "Pañales Desechables Huggies Protect Plus XG 30 unidades",
+  "list": 20645.99,
+  "promo": null
+ },
+ "oleo-calcareo": {
+  "precio": 4500.99,
+  "avail": true,
+  "nombre": "Oleo Calcareo Baby Life Quality 500 Ml",
+  "list": 4500.99,
+  "promo": null
+ },
+ "crema-paspaduras": {
+  "precio": 1150.0,
+  "avail": true,
+  "nombre": "Galletitas OREO Mini Rellenas Con Crema Sabor Original 50g",
+  "list": 1150.0,
+  "promo": null
+ },
+ "jabon-liquido-bebe": {
+  "precio": 4261.99,
+  "avail": true,
+  "nombre": "Jabón liquido bebe Hipoalergénico DOVE BABY 180ml",
+  "list": 4261.99,
+  "promo": null
+ },
+ "leche-crecimiento": {
+  "precio": 21541.0,
+  "avail": true,
+  "nombre": "NIDO® 4 PREBIO 3 Leche en Polvo x 800gr",
+  "list": 21541.0,
+  "promo": null
+ },
+ "panal-carrefour-baby-talle-xxg-hiperpack": {
+  "precio": 14679.99,
+  "avail": true,
+  "nombre": "Pañal Caricias De Algodón Estrella Baby Talle Xg Paq 36 Uni",
+  "list": 14679.99,
+  "promo": null
+ },
+ "panales-huggies-natural-care-rn-34-uni": {
+  "precio": 32621.99,
+  "avail": true,
+  "nombre": "Pañales HUGGIES Natural Care P X50",
+  "list": 32621.99,
+  "promo": null
+ },
+ "panal-carrefour-baby-talle-xg-hiperpack-": {
+  "precio": 14679.99,
+  "avail": true,
+  "nombre": "Pañal Caricias De Algodón Estrella Baby Talle Xg Paq 36 Uni",
+  "list": 14679.99,
+  "promo": null
+ },
+ "panal-carrefour-baby-talle-g-hiperpack-3": {
+  "precio": 14679.99,
+  "avail": true,
+  "nombre": "Pañal Caricias De Algodón Estrella Baby Talle Xg Paq 36 Uni",
+  "list": 14679.99,
+  "promo": null
+ },
+ "panal-talle-m-carrefour-baby-hiperpack-3": {
+  "precio": 14679.99,
+  "avail": true,
+  "nombre": "Pañal Caricias De Algodón Estrella Baby Talle Xg Paq 36 Uni",
+  "list": 14679.99,
+  "promo": null
+ },
+ "panal-carrefour-baby-talle-p-hiperpack-4": {
+  "precio": 14679.99,
+  "avail": true,
+  "nombre": "Pañal Caricias De Algodón Estrella Baby Talle Xg Paq 36 Uni",
+  "list": 14679.99,
+  "promo": null
+ },
+ "panales-estrella-talle-xxg-34-u": {
+  "precio": 43425.99,
+  "avail": true,
+  "nombre": "PAMPERS Babysan Hipoalergénico, Pañales Desechables Talle Xxg 54 Unidades",
+  "list": 43425.99,
+  "promo": null
+ },
+ "toallitas-humedas-pack-individual-algabo": {
+  "precio": 9779.99,
+  "avail": true,
+  "nombre": "Toallitas Húmedas Para Bebé Johnsons Hora Del Sueño X 48 Un.",
+  "list": 9779.99,
+  "promo": "35%Dto"
+ },
+ "toallitas-humedas-algabo-baby-48-u": {
+  "precio": 4285.99,
+  "avail": true,
+  "nombre": "Baby Toallitas Húmedas 48u Algabo",
+  "list": 4285.99,
+  "promo": "35%Dto"
+ },
+ "colonia-para-bebe-johnsons-baby-fresca-c": {
+  "precio": 4361.99,
+  "avail": true,
+  "nombre": "Johnson¿S Colonia Fresca Caricia X 100 Ml.",
+  "list": 4361.99,
+  "promo": "25%Dto"
+ },
+ "spray-para-peinar-johnson-s-baby-gotas-d": {
+  "precio": 7553.99,
+  "avail": true,
+  "nombre": "Spray Para Peinar Para Niños Johnson'S Gotas De Brillo X 200 Ml.",
+  "list": 7553.99,
+  "promo": "25%Dto"
+ },
+ "aceite-para-bebe-johnsons-baby-puro-100-": {
+  "precio": 6106.99,
+  "avail": true,
+  "nombre": "Aceite Para Bebé Johnson'S Puro X 100 Ml.",
+  "list": 6106.99,
+  "promo": "25%Dto"
+ },
+ "shampoo-algabo-baby-manzanilla-444-cc": {
+  "precio": 6015.99,
+  "avail": true,
+  "nombre": "Baby Shampoo Manzanilla 444ml Algabo",
+  "list": 6015.99,
+  "promo": null
+ },
+ "jabon-liquido-johson-baby-con-glicerina-": {
+  "precio": 4431.99,
+  "avail": true,
+  "nombre": "Jabón Líquido Baby Dove Humectación Sensible Repuesto 180ml",
+  "list": 4431.99,
+  "promo": "25%Dto"
+ },
+ "svelty-0-lactosa-350-grs": {
+  "precio": 11808.0,
+  "avail": true,
+  "nombre": "SVELTY® 0% Lactosa x 350gr\r\n",
+  "list": 11808.0,
+  "promo": null
+ }
+}
