@@ -982,7 +982,7 @@ const GROCERY_DATA = {"fecha": "07/10/2026", "stores": [{"key": "carrefour", "la
         vis.forEach(s => {
           const p = it.precios[s.key];
           const cc = costItem(it, qty, s.key);
-          if (cc == null) { html += '<td><span class="na">—</span></td>'; return; }
+          if (cc == null) { html += (p && p.agotado) ? '<td><span class="na" title="Sin stock online al ' + D.fecha + '">sin stock</span></td>' : '<td><span class="na">—</span></td>'; return; }
           const pv = prevPrice(it.id, s.key);
           const dl = (pv && Math.abs(p.precio - pv) / pv > 0.02)
             ? `<span class="delta ${p.precio > pv ? 'up' : 'down'}">${p.precio > pv ? '▲' : '▼'} ${Math.round(Math.abs(p.precio - pv) / pv * 100)}% vs ${D.historial.prev.fecha.slice(0, 5)}</span>` : '';
