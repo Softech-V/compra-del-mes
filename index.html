@@ -945,7 +945,7 @@ const GROCERY_DATA = {"fecha": "07/10/2026", "stores": [{"key": "carrefour", "la
       D.items.forEach(it => {
         const prevRow = h.prev.precios[it.id];
         if (!prevRow) return;
-        const pn = Object.values(it.precios).filter(Boolean).map(p => p.precio);
+        const pn = Object.values(it.precios).map(p => p && p.precio).filter(v => v != null);
         const pp = Object.values(prevRow).filter(v => v != null);
         if (!pn.length || !pp.length) return;
         const a = Math.min(...pp), b = Math.min(...pn);
