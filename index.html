@@ -700,7 +700,7 @@ const GROCERY_DATA = {"fecha": "11/10/2026", "stores": [{"key": "carrefour", "la
       stKeys.forEach(k => {
         let best = null;
         D.descuentos.forEach(x => {
-          if (x.comercio !== k || !x.dias || !x.dias.includes(d)) return;
+          if (x.comercio !== k || (x.dias && !x.dias.includes(d)) || (!x.dias && !x.pct)) return;
           if (!best || x.pct * (x.factor || 1) > best.pct * (best.factor || 1)) best = x;
         });
         if (best) { tot += best.pct * (best.factor || 1); det.push(storeLabel(k) + ' ' + best.pct + '% (' + best.programa.split(' (')[0] + ')'); }
