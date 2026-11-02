@@ -1,0 +1,202 @@
+{
+ "fideos-largos": {
+  "carrefour": {
+   "producto": "Fideos tallarin N5 Lucchetti 500 g.",
+   "presentacion": "500 g",
+   "precio": 1749,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.carrefour.com.ar/fideos-tallarin-n5-lucchetti-500-g-726311/p",
+   "sku": "157189",
+   "seller": "1"
+  },
+  "dia": {
+   "producto": "Fideos Spaghetti N3 Matarazzo 500 Gr.",
+   "presentacion": "500 g",
+   "precio": 1259,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://diaonline.supermercadosdia.com.ar/fideos-spaghetti-n3-matarazzo-500-gr-38576/p",
+   "sku": "38576",
+   "seller": "1"
+  },
+  "jumbo": {
+   "producto": "Fideos Spaghetti N°3 500 Grs Matarazzo",
+   "presentacion": "500 g",
+   "precio": 2200,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.jumbo.com.ar/fideos-matarazzo-spaghetti-n7-500gr/p",
+   "sku": "407198",
+   "seller": "1"
+  },
+  "coto": {
+   "producto": "Fideos Spaghetti MATARAZZO 500g",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-spaghetti-matarazzo-500g/_/A-00573911-00573911-200"
+  }
+ },
+ "fideos-tirabuzon": {
+  "carrefour": {
+   "producto": "Fideos tirabuzones N28 Matarazzo 500 g.",
+   "presentacion": "500 g",
+   "precio": 2099,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.carrefour.com.ar/fideos-tirabuzones-n28-matarazzo-500-g-729402/p",
+   "sku": "164382",
+   "seller": "1"
+  },
+  "dia": {
+   "producto": "Fideos Tirabuzon N28 Matarazzo 500 Gr.",
+   "presentacion": "500 g",
+   "precio": 1259,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-n28-matarazzo-500-gr-38574/p",
+   "sku": "38574",
+   "seller": "1"
+  },
+  "jumbo": {
+   "producto": "Fideos Tirabuzón N°28 500 Grs Matarazzo",
+   "presentacion": "500 g",
+   "precio": 2200,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.jumbo.com.ar/fideos-matarazzo-tirabuzon-n28-x500g-2/p",
+   "sku": "407211",
+   "seller": "1"
+  },
+  "coto": {
+   "producto": "Fideos Tirabuzon N° 28 Matarazzo 500g",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-tirabuzon-n-28-matarazzo-500g/_/A-00573921-00573921-200"
+  }
+ },
+ "fideos-coditos": {
+  "carrefour": {
+   "producto": "Fideos coditos rayados Matarazzo 500 g.",
+   "presentacion": "500 g",
+   "precio": 2099,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.carrefour.com.ar/fideos-coditos-rayados-matarazzo-500-g/p",
+   "sku": "4326",
+   "seller": "1"
+  },
+  "dia": {
+   "producto": "Mostachol N 52 Matarazzo 500 Gr.",
+   "presentacion": "500 g",
+   "precio": 1259,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://diaonline.supermercadosdia.com.ar/mostachol-n-52-matarazzo-500-gr-99941/p",
+   "sku": "99941",
+   "seller": "1"
+  },
+  "jumbo": {
+   "producto": "Fideos Coditos 500 Grs Matarazzo",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.jumbo.com.ar/fideos-codito-matarazzo-x500-gr-2/p",
+   "sku": "39602",
+   "seller": "1"
+  },
+  "coto": {
+   "producto": "Coditos MATARAZZO      500 Gr",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/coditos-matarazzo-500-gr/_/A-00263761-00263761-200"
+  }
+ },
+ "fideos-dedalitos": {
+  "carrefour": {
+   "producto": "Fideos dedalitos Matarazzo 500 g.",
+   "presentacion": "500 g",
+   "precio": 2099,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.carrefour.com.ar/fideos-dedalitos-matarazzo-500-g/p",
+   "sku": "7976",
+   "seller": "1"
+  },
+  "dia": {
+   "producto": "Fideos Lucchetti Dedalitos 500 Gr.",
+   "presentacion": "500 g",
+   "precio": 1750,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://diaonline.supermercadosdia.com.ar/fideos-lucchetti-dedalitos-500-gr-287522/p",
+   "sku": "287522",
+   "seller": "1"
+  },
+  "jumbo": {
+   "producto": "Fideos Dedalitos 500 Grs Matarazzo",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.jumbo.com.ar/fideos-dedalito-matarazzo-x500-gr-2/p",
+   "sku": "44851",
+   "seller": "1"
+  },
+  "coto": {
+   "producto": "Dedalitos MATARAZZO      500 Gr",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/dedalitos-matarazzo-500-gr/_/A-00264122-00264122-200"
+  }
+ },
+ "fideos-soperos": {
+  "carrefour": {
+   "producto": "Fideos municiones Matarazzo 500 g.",
+   "presentacion": "500 g",
+   "precio": 2099,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.carrefour.com.ar/fideos-municiones-matarazzo-500-g-29471/p",
+   "sku": "24111",
+   "seller": "1"
+  },
+  "dia": {
+   "producto": "Matarazzo Cabello de Angel N°89 15 x 500 Gr.",
+   "presentacion": "500 g",
+   "precio": 1860,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://diaonline.supermercadosdia.com.ar/matarazzo-cabello-de-angel-n°89-15-x-500-gr-304511/p",
+   "sku": "304511",
+   "seller": "1"
+  },
+  "jumbo": {
+   "producto": "Fideos Municiones 500 Grs Matarazzo",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.jumbo.com.ar/fideos-municiones-matarazzo-x500-gr-2/p",
+   "sku": "44697",
+   "seller": "1"
+  },
+  "coto": {
+   "producto": "Municiones MATARAZZO      500 Gr",
+   "presentacion": "500 g",
+   "precio": 2100,
+   "promo": null,
+   "size": 500.0,
+   "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/municiones-matarazzo-500-gr/_/A-00263800-00263800-200"
+  }
+ }
+}

@@ -1,0 +1,21 @@
+INICIO 14:07:15
+carrefour 1564 filas, 78 lotes
+   1554 resueltos en 2.5 s; 175 sin stock
+dia 669 filas, 32 lotes
+   656 resueltos en 1.1 s; 0 sin stock
+jumbo 856 filas, 41 lotes
+   851 resueltos en 14.5 s; 114 sin stock
+carrefour: comparables 1293, suben 128, bajan 132, saltos>40% 35
+dia: comparables 648, suben 11, bajan 13, saltos>40% 1
+jumbo: comparables 730, suben 46, bajan 30, saltos>40% 1
+reintentados ok: 50 | desaparecidos: 10 | sin stock: 5
+647 filas Coto
+coto: 647 en 29 s; errores 2, desaparecidos 2, sin stock 0
+coto: comparables 642, suben 33, bajan 18, saltos>40% 1
+647 filas Coto
+reintentos: 2
+ ronda 1 quedan 2 12 s
+ ronda 2 quedan 2 30 s
+ ronda 3 quedan 2 47 s
+errores finales: 2 | con precio: 643
+FIN 0 14:08:57

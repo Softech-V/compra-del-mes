@@ -5,7 +5,7 @@ import re, json, io, sys, os, shutil, datetime
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 BASE = "C:/Users/ncort/compra-del-mes"
 HTML = BASE + "/deploy/index.html"
-HOY = "07/10/2026"
+HOY = "02/11/2026"
 # filas cuyo SKU apunta a otro tipo de producto (detectado por nombre VTEX actual): sin precio hasta re-matchear
 NULL = {
     "dia": ["leche-crecimiento", "patitas", "panales", "panales-xg", "condimento-alicante-arroz-sobre-25-g", "ricota", "arroz-risotto"],

@@ -1,0 +1,10 @@
+carrefour 1564 filas, 78 lotes
+   1554 resueltos en 25.9 s; 175 sin stock
+dia 669 filas, 32 lotes
+   656 resueltos en 14.2 s; 0 sin stock
+jumbo 856 filas, 41 lotes
+   851 resueltos en 24.9 s; 114 sin stock
+carrefour: comparables 1293, suben 128, bajan 132, saltos>40% 35
+dia: comparables 648, suben 11, bajan 13, saltos>40% 1
+jumbo: comparables 730, suben 46, bajan 30, saltos>40% 1
+reintentados ok: 50 | desaparecidos: 10 | sin stock: 5

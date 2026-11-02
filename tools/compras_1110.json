@@ -1,0 +1,62 @@
+{
+ "fecha": "11/10/2026",
+ "dia": {
+  "orden": "1668087723308-01", "subtotal": 78328, "envio": 6899, "descuento": 14357.5, "total": 70869.5,
+  "cupones": {"2do al 80% PH DH 30M": 9120, "cupon ClubDIA": 2000, "25% queso hebras La Paulina": 2277.5, "40% pastas Matarazzo": 960},
+  "items": [
+   {"nombre": "Fideos Penne Rigate 3 Vegetales N45 Matarazzo 500 g", "marca": "Matarazzo", "tipo": "fideos penne", "size": 500, "unit": "g", "qty": 1, "lista": 2400, "pagado": 1396.34},
+   {"nombre": "Tapa para tartas hojaldre La Salteña 400 g", "marca": "La Salteña", "tipo": "tapas tarta", "size": 400, "unit": "g", "qty": 1, "lista": 2890, "pagado": 2094.52},
+   {"nombre": "Queso crema clásico Casancrem 290 g", "marca": "Casancrem", "tipo": "queso untable", "size": 290, "unit": "g", "qty": 2, "lista": 5995, "pagado": 3772.06},
+   {"nombre": "Crema de leche Milkaut 200 ml", "marca": "Milkaut", "tipo": "crema de leche", "size": 200, "unit": "ml", "qty": 2, "lista": 3639, "pagado": 3528.67},
+   {"nombre": "Queso en hebras italiano Equilibrio La Paulina 125 g", "marca": "La Paulina", "tipo": "queso en hebras", "size": 125, "unit": "g", "qty": 2, "lista": 4555, "pagado": 3312.68},
+   {"nombre": "Tapa de empanadas DIA hojaldre 450 g", "marca": "DIA", "tipo": "tapas empanadas", "size": 450, "unit": "g", "qty": 2, "lista": 2200, "pagado": 1551.49},
+   {"nombre": "Papel higiénico doble hoja 30 m 4 un (Dia)", "marca": "DIA", "tipo": "papel higienico", "size": 4, "unit": "un", "qty": 6, "lista": 3800, "pagado": 2210.88},
+   {"nombre": "Mega rollo de cocina Dia 200 paños", "marca": "DIA", "tipo": "rollo cocina", "size": 200, "unit": "paños", "qty": 8, "lista": 2950, "pagado": 2860.57}
+  ]
+ },
+ "coto": {
+  "subtotal": 240949.9, "descuentos": 39060.96, "envio": 3990, "total": 205878.94, "nota": "el resumen es SIN el jamón según el usuario",
+  "items": [
+   {"nombre": "Galletita rellena Opera 220 g", "marca": "Opera", "tipo": "galletitas", "size": 220, "unit": "g", "qty": 1},
+   {"nombre": "Arroz largo fino Molinos Ala 1 kg", "marca": "Molinos Ala", "tipo": "arroz", "size": 1000, "unit": "g", "qty": 1},
+   {"nombre": "Manteca Tonadita 200 g", "marca": "Tonadita", "tipo": "manteca", "size": 200, "unit": "g", "qty": 4},
+   {"nombre": "Leche larga vida entera Las Tres Niñas 1 l", "marca": "Las Tres Niñas", "tipo": "leche entera", "size": 1000, "unit": "ml", "qty": 8},
+   {"nombre": "Leche larga vida descremada Las Tres Niñas 1 l", "marca": "Las Tres Niñas", "tipo": "leche descremada", "size": 1000, "unit": "ml", "qty": 8},
+   {"nombre": "Procenex limpiador líquido pisos marina 5 l", "marca": "Procenex", "tipo": "limpiador pisos", "size": 5000, "unit": "ml", "qty": 1},
+   {"nombre": "Procenex limpiador pisos plastificados lavanda 900 ml", "marca": "Procenex", "tipo": "limpiador pisos", "size": 900, "unit": "ml", "qty": 1},
+   {"nombre": "Tomate perita Arcor lata 400 g", "marca": "Arcor", "tipo": "tomate perita", "size": 400, "unit": "g", "qty": 2},
+   {"nombre": "Queso tybo feteado La Paulina 180 g", "marca": "La Paulina", "tipo": "queso feteado", "size": 180, "unit": "g", "qty": 2},
+   {"nombre": "Queso rallado Reggianito La Serenísima 130 g", "marca": "La Serenísima", "tipo": "queso rallado", "size": 130, "unit": "g", "qty": 2},
+   {"nombre": "Jamón cocido feteado Paladini 200 g", "marca": "Paladini", "tipo": "jamon cocido", "size": 200, "unit": "g", "qty": 2, "fuera_del_resumen": true},
+   {"nombre": "Limpiador cremoso multiuso Cif 500 ml", "marca": "Cif", "tipo": "limpiador cremoso", "size": 500, "unit": "ml", "qty": 1},
+   {"nombre": "Nuggets crocantes de pollo Granja del Sol 900 g", "marca": "Granja del Sol", "tipo": "nuggets", "size": 900, "unit": "g", "qty": 1},
+   {"nombre": "Ravioles jamón y mozzarella La Salteña 450 g", "marca": "La Salteña", "tipo": "ravioles", "size": 450, "unit": "g", "qty": 2},
+   {"nombre": "Fideos mostachol N51 Lucchetti 500 g", "marca": "Lucchetti", "tipo": "fideos mostachol", "size": 500, "unit": "g", "qty": 1},
+   {"nombre": "Fideos spaghetti Matarazzo 500 g", "marca": "Matarazzo", "tipo": "fideos spaghetti", "size": 500, "unit": "g", "qty": 1},
+   {"nombre": "Fideos foratini Lucchetti 500 g", "marca": "Lucchetti", "tipo": "fideos foratini", "size": 500, "unit": "g", "qty": 1},
+   {"nombre": "Fideos tirabuzón N28 Matarazzo 500 g", "marca": "Matarazzo", "tipo": "fideos tirabuzon", "size": 500, "unit": "g", "qty": 1},
+   {"nombre": "Fideos caserito con huevo Don Vicente 500 g", "marca": "Don Vicente", "tipo": "fideos al huevo", "size": 500, "unit": "g", "qty": 1},
+   {"nombre": "Agua con gas mineral Villavicencio 1,5 l", "marca": "Villavicencio", "tipo": "agua con gas", "size": 1500, "unit": "ml", "qty": 4},
+   {"nombre": "Limpiador antigrasa Expert Cif 450 ml", "marca": "Cif", "tipo": "antigrasa", "size": 450, "unit": "ml", "qty": 1},
+   {"nombre": "Limpia vidrios y multiuso Cif 900 ml", "marca": "Cif", "tipo": "limpiavidrios", "size": 900, "unit": "ml", "qty": 1},
+   {"nombre": "Zorro Deluxe suavizante elegante 3 l", "marca": "Zorro", "tipo": "suavizante", "size": 3000, "unit": "ml", "qty": 2},
+   {"nombre": "Limpiador desinfectante de superficies Cif 380 ml", "marca": "Cif", "tipo": "desinfectante", "size": 380, "unit": "ml", "qty": 1},
+   {"nombre": "Salsa pomarola Balance Knorr 340 g", "marca": "Knorr", "tipo": "salsa lista", "size": 340, "unit": "g", "qty": 2},
+   {"nombre": "Lavandina original Ayudín 2 l", "marca": "Ayudín", "tipo": "lavandina", "size": 2000, "unit": "ml", "qty": 1},
+   {"nombre": "Aceite de coco neutro Entrenuts 360 g", "marca": "Entrenuts", "tipo": "aceite de coco", "size": 360, "unit": "ml", "qty": 2},
+   {"nombre": "Mermelada de frutos rojos La Campagnola 450 g", "marca": "La Campagnola", "tipo": "mermelada", "size": 450, "unit": "g", "qty": 1},
+   {"nombre": "Pan de molde brioche artesano 500 g", "marca": "Coto", "tipo": "pan lactal", "size": 500, "unit": "g", "qty": 1}
+  ]
+ },
+ "ml": {
+  "productos": 115509.38, "descuento": 32610.22, "envio": 0, "total": 82899.54,
+  "items": [
+   {"nombre": "Aceite oliva virgen extra Oliovita Mediterráneo pet 500 ml", "marca": "Oliovita", "tipo": "aceite de oliva", "size": 500, "unit": "ml", "qty": 2, "lista": 30602, "pagado": 20198},
+   {"nombre": "Mermelada en frasco frutilla La Campagnola 454 g", "marca": "La Campagnola", "tipo": "mermelada", "size": 454, "unit": "g", "qty": 1, "lista": 5531, "pagado": 4841.6},
+   {"nombre": "Tabletas para lavavajillas Finish doypack 30 un", "marca": "Finish", "tipo": "pastillas lavavajillas", "size": 30, "unit": "un", "qty": 1, "lista": 26458, "pagado": 20187},
+   {"nombre": "Sal para lavavajillas especial regeneradora 2 kg", "marca": "s/m", "tipo": "sal lavavajillas", "size": 2000, "unit": "g", "qty": 1, "lista": 8490, "pagado": 7641},
+   {"nombre": "Nesquik original cacao en polvo Nestlé 800 g", "marca": "Nesquik", "tipo": "cacao en polvo", "size": 800, "unit": "g", "qty": 1, "lista": null, "pagado": 9309.54},
+   {"nombre": "Detergente líquido Platinum bolsa 3 l Ariel", "marca": "Ariel", "tipo": "jabon liquido ropa", "size": 3000, "unit": "ml", "qty": 2, "lista": 35118, "pagado": 20722}
+  ]
+ }
+}

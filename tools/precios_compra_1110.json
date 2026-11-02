@@ -1,0 +1,1610 @@
+[
+ [
+  "dia",
+  "Fideos Penne Rigate 3 Vegetales N45 Matarazzo 500 g",
+  {
+   "coto": {
+    "producto": "Fideos Penne Rigate N48 Matarazzo 500g",
+    "precio": 2100,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-penne-rigate-n48-matarazzo-500g/_/A-00571995-00571995-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Fideos penne rigante Matarazzo 500 g.",
+    "precio": 2099,
+    "size": 500.0,
+    "url": "https://www.carrefour.com.ar/fideos-penne-rigante-matarazzo-500-g-726301/p",
+    "sku": "157212",
+    "seller": "1",
+    "list": 2099.0
+   },
+   "dia": {
+    "producto": "Fideos Spaghetti N3 Matarazzo 500 Gr.",
+    "precio": 1259,
+    "size": 500.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/fideos-spaghetti-n3-matarazzo-500-gr-38576/p",
+    "sku": "38576",
+    "seller": "1",
+    "list": 2099.0
+   },
+   "jumbo": {
+    "producto": "Fideos Penne Rigate N°48 500 Grs Matarazzo",
+    "precio": 2100,
+    "size": 500.0,
+    "url": "https://www.jumbo.com.ar/fideos-penne-x-500-gr-matarazzo/p",
+    "sku": "403594",
+    "seller": "1",
+    "list": 173554.0
+   }
+  }
+ ],
+ [
+  "dia",
+  "Tapa para tartas hojaldre La Salteña 400 g",
+  {
+   "coto": {
+    "producto": "Tapas para Tartas La Salteña Mix de Semillas Lino, Chía y Quinoa 400g",
+    "precio": 3799,
+    "size": 400.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/tapas-para-tartas-la-saltena-mix-de-semillas-lino-chia-y-quinoa-400g/_/A-00634717-00634717-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Tapas para empanada La Salteña hojaldradas x 22 uni",
+    "precio": 4399,
+    "size": null,
+    "url": "https://www.carrefour.com.ar/tapas-para-empanada-la-saltena-hojaldradas-x-22-uni-640162/p",
+    "sku": "40195",
+    "seller": "1",
+    "list": 4399.0
+   },
+   "dia": {
+    "producto": "Tapas Para Tarta Criolla La Salteña 400 Gr.",
+    "precio": 2160,
+    "size": 400.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/tapas-para-tarta-criolla-la-saltena-400-gr-49496/p",
+    "sku": "49496",
+    "seller": "1",
+    "list": 2890.0
+   },
+   "jumbo": {
+    "producto": "Tapas Para Tarta La Salteña Balance 400g",
+    "precio": 2841,
+    "size": 400.0,
+    "url": "https://www.jumbo.com.ar/tapas-para-tarta-la-saltena-balance-400g/p",
+    "sku": "409129",
+    "seller": "1",
+    "list": 234793.0
+   }
+  }
+ ],
+ [
+  "dia",
+  "Queso crema clásico Casancrem 290 g",
+  {
+   "coto": {
+    "producto": "Queso Blanco Balance CASANCREM 290gr",
+    "precio": 5995,
+    "size": 290.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/queso-blanco-balance-casancrem-290gr/_/A-00572015-00572015-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Queso crema clásico Casancrem 290 grs",
+    "precio": 5995,
+    "size": 290.0,
+    "url": "https://www.carrefour.com.ar/queso-crema-clasico-casancrem-290-grs-726373/p",
+    "sku": "157295",
+    "seller": "1",
+    "list": 5995.0
+   },
+   "dia": {
+    "producto": "Queso Crema Clásico Casancrem 290 Gr.",
+    "precio": 3890,
+    "size": 290.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/queso-crema-clasico-casancrem-290-gr-298788/p",
+    "sku": "298788",
+    "seller": "1",
+    "list": 5995.0
+   },
+   "jumbo": {
+    "producto": "Queso Light Sin Sal Agregada 290 Gr Casancrem",
+    "precio": 5995,
+    "size": 290.0,
+    "url": "https://www.jumbo.com.ar/queso-light-sin-sal-agregada-290-gr-casancrem-2/p",
+    "sku": "414198",
+    "seller": "1",
+    "list": 495455.0
+   }
+  }
+ ],
+ [
+  "dia",
+  "Crema de leche Milkaut 200 ml",
+  {
+   "coto": {
+    "producto": "Crema De Leche Milkaut 200cc",
+    "precio": 3639,
+    "size": 200.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/crema-de-leche-milkaut-200cc/_/A-00590373-00590373-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Dulce de leche familiar Milkaut pote 245 g",
+    "precio": 2895,
+    "size": 245.0,
+    "url": "https://www.carrefour.com.ar/dulce-de-leche-familiar-milkaut-pote-245-g/p",
+    "sku": "59517",
+    "seller": "1",
+    "list": 2895.0
+   },
+   "dia": {
+    "producto": "Crema de Leche Milkaut 200 Ml.",
+    "precio": 3639,
+    "size": 200.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/crema-de-leche-milkaut-200-ml-304094/p",
+    "sku": "304094",
+    "seller": "1",
+    "list": 3639.0
+   },
+   "jumbo": {
+    "producto": "Crema de leche 200 Cc Milkaut",
+    "precio": 3850,
+    "size": 200.0,
+    "url": "https://www.jumbo.com.ar/crema-simple-milkaut-200cc/p",
+    "sku": "1363868",
+    "seller": "1",
+    "list": 318182.0
+   }
+  }
+ ],
+ [
+  "dia",
+  "Queso en hebras italiano Equilibrio La Paulina 125 g",
+  {
+   "coto": {
+    "producto": "Queso En Hebras Italiano Equilibrio La Paulina 125g",
+    "precio": 4465,
+    "size": 125.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/queso-en-hebras-italiano-equilibrio-la-paulina-125g/_/A-00593749-00593749-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "La Paulina queso en hebras italiano 125 grs",
+    "precio": 4465,
+    "size": 125.0,
+    "url": "https://www.carrefour.com.ar/la-paulina-queso-en-hebras-italiano-125-grs-746354/p",
+    "sku": "202668",
+    "seller": "1",
+    "list": 4465.0
+   },
+   "dia": {
+    "producto": "Queso en Hebras Italiano La Paulina 125 Gr.",
+    "precio": 3416,
+    "size": 125.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/queso-en-hebras-italiano-la-paulina-125-gr-137533/p",
+    "sku": "137533",
+    "seller": "1",
+    "list": 4555.0
+   },
+   "jumbo": {
+    "producto": "Queso Cheddar en Hebras 125 Grs La Paulina",
+    "precio": 4700,
+    "size": 125.0,
+    "url": "https://www.jumbo.com.ar/queso-en-hebras-la-paulina-cheddar-x-125-gr-2/p",
+    "sku": "3088724",
+    "seller": "1",
+    "list": 388430.0
+   }
+  }
+ ],
+ [
+  "dia",
+  "Tapa de empanadas DIA hojaldre 450 g",
+  {
+   "coto": {
+    "producto": "Tap.Empanada Horno Mendia Bsa 390 Grm",
+    "precio": 1999,
+    "size": 390.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/tap-empanada-horno-mendia-bsa-390-grm/_/A-00191132-00191132-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Tapas para pascualina Manjar tin tacc 400 g.",
+    "precio": 5409,
+    "size": 400.0,
+    "url": "https://www.carrefour.com.ar/tapas-para-pascualina-manjar-tin-tacc-400-g-633792/p",
+    "sku": "138614",
+    "seller": "1",
+    "list": 5409.0
+   },
+   "dia": {
+    "producto": "Tapa de Empanadas DIA Criolla 450 Gr.",
+    "precio": 1600,
+    "size": 450.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/tapa-de-empanadas-dia-criolla-450-gr-127618/p",
+    "sku": "127618",
+    "seller": "1",
+    "list": 2200.0
+   },
+   "jumbo": {
+    "producto": "Tapas Empanadas Criollas 450 Grs x 18 Un Cuisine & Co",
+    "precio": 3050,
+    "size": 450.0,
+    "url": "https://www.jumbo.com.ar/tapas-criollas-450-grs-cuisine-co/p",
+    "sku": "315469",
+    "seller": "1",
+    "list": 252066.0
+   }
+  }
+ ],
+ [
+  "dia",
+  "Papel higiénico doble hoja 30 m 4 un (Dia)",
+  {
+   "coto": {
+    "producto": "Papel Higiénico CAMPANITA Soft Simple Hoja Paquete 4 Unidades",
+    "precio": 2512,
+    "size": 4.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/papel-higienico-campanita-soft-simple-hoja-paquete-4-unidades/_/A-00038051-00038051-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Papel higiénico ecológico Campanita 4 u. x 30 m.",
+    "precio": 2090,
+    "size": 4.0,
+    "url": "https://www.carrefour.com.ar/papel-higienico-ecologico-campanita-4-u-x-30-m/p",
+    "sku": "17453",
+    "seller": "1",
+    "list": 2090.0
+   },
+   "dia": {
+    "producto": "Papel Higiénico Simple Hoja Bio 30 Mts Suapel 4 Ud.",
+    "precio": 1790,
+    "size": 4.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/papel-higienico-simple-hoja-bio-30-mts-suapel-4-ud-47867/p",
+    "sku": "47867",
+    "seller": "1",
+    "list": 1790.0
+   },
+   "jumbo": {
+    "producto": "Papel Higiénico Campanita Hoja Simple 4 U",
+    "precio": 2450,
+    "size": 4.0,
+    "url": "https://www.jumbo.com.ar/papel-higienico-campanita-hoja-simple-4-u-3/p",
+    "sku": "5524",
+    "seller": "1",
+    "list": 202479.0
+   }
+  }
+ ],
+ [
+  "dia",
+  "Mega rollo de cocina Dia 200 paños",
+  {
+   "coto": {
+    "producto": "Rollo De Cocina Doble Hoja X3 CRISTAL DEL LAGO 150 Paños",
+    "precio": 2082,
+    "size": 150.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/rollo-de-cocina-doble-hoja-x3-cristal-del-lago-150-panos/_/A-00478117-00478117-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Rollo de cocina Bulnez doble hoja 200 paños",
+    "precio": 1990,
+    "size": 200.0,
+    "url": "https://www.carrefour.com.ar/rollo_de_cocina_doble_hoja_bulnez_x_200_panos_769301/p",
+    "sku": "266026",
+    "seller": "1",
+    "list": 1990.0
+   },
+   "dia": {
+    "producto": "Mega Rollo De Cocina Dia 200 Paños 1 Ud.",
+    "precio": 2950,
+    "size": 200.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/mega-rollo-de-cocina-dia-200-panos-1-ud-278565/p",
+    "sku": "278565",
+    "seller": "1",
+    "list": 2950.0
+   },
+   "jumbo": {
+    "producto": "Rollo de Cocina Doble Hoja 180 Un x 3 Un Felpita",
+    "precio": 2800,
+    "size": 180.0,
+    "url": "https://www.jumbo.com.ar/rollo-cocina-pano-blanco-x-3-un-felpita/p",
+    "sku": "3070534",
+    "seller": "1",
+    "list": 231405.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Galletita rellena Opera 220 g",
+  {
+   "coto": {
+    "producto": "Galletita Rellena OPERA 220g",
+    "precio": 2966,
+    "size": 220.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/galletita-rellena-opera-220g/_/A-00015889-00015889-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   }
+  }
+ ],
+ [
+  "coto",
+  "Arroz largo fino Molinos Ala 1 kg",
+  {
+   "coto": {
+    "producto": "Arroz Largo Fino MOLINOS ALA     Paquete 1 Kg",
+    "precio": 1950,
+    "size": 1000.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/arroz-largo-fino-molinos-ala-paquete-1-kg/_/A-00002270-00002270-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Arroz largo fino Molinos Ala 1 kg.",
+    "precio": 1950,
+    "size": 1000.0,
+    "url": "https://www.carrefour.com.ar/arroz-largo-fino-molinos-ala-1-kg/p",
+    "sku": "14192",
+    "seller": "1",
+    "list": 1950.0
+   },
+   "dia": {
+    "producto": "Arroz Largo Fino Ala 1 Kg.",
+    "precio": 2130,
+    "size": 1000.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/arroz-largo-fino-ala-1-kg-25417/p",
+    "sku": "25417",
+    "seller": "1",
+    "list": 2130.0
+   },
+   "jumbo": {
+    "producto": "Arroz Grano Largo Fino 1 Kg Molinos Ala",
+    "precio": 2260,
+    "size": 1000.0,
+    "url": "https://www.jumbo.com.ar/arroz-ala-grano-largo-fino-1-kg/p",
+    "sku": "2975",
+    "seller": "1",
+    "list": 186777.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Manteca Tonadita 200 g",
+  {
+   "coto": {
+    "producto": "Manteca TONADITA 200g",
+    "precio": 4399,
+    "size": 200.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/manteca-tonadita-200g/_/A-00228676-00228676-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Manteca Tonadita calidad extra 200 g.",
+    "precio": 4399,
+    "size": 200.0,
+    "url": "https://www.carrefour.com.ar/manteca-tonadita-calidad-extra-200-g/p",
+    "sku": "28722",
+    "seller": "1",
+    "list": 4398.67
+   },
+   "dia": {
+    "producto": "Manteca Tonadita Extra calidad 200 Gr.",
+    "precio": 3300,
+    "size": 200.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/manteca-tonadita-extra-calidad-200-gr-236478/p",
+    "sku": "236478",
+    "seller": "1",
+    "list": 4399.0
+   },
+   "jumbo": {
+    "producto": "Manteca Tonadita 200 Gr",
+    "precio": 4650,
+    "size": 200.0,
+    "url": "https://www.jumbo.com.ar/manteca-tonadita-x-200-gr/p",
+    "sku": "532",
+    "seller": "1",
+    "list": 384298.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Leche larga vida entera Las Tres Niñas 1 l",
+  {
+   "coto": {
+    "producto": "Leche Larga Vida Entera LAS TRES NIÑAS Ttb 1l",
+    "precio": 2860,
+    "size": 1000.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/leche-larga-vida-entera-las-tres-ninas-ttb-1l/_/A-00254550-00254550-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Leche entera larga vida Las tres niñas 1 l.",
+    "precio": 1999,
+    "size": 1000.0,
+    "url": "https://www.carrefour.com.ar/leche-entera-larga-vida-las-tres-ninas-1-l/p",
+    "sku": "9490",
+    "seller": "1",
+    "list": 2860.0
+   },
+   "dia": {
+    "producto": "Leche Entera Las 3 Niñas Larga Vida 1 Lt.",
+    "precio": 2860,
+    "size": 1000.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-las-3-ninas-larga-vida-1-lt-58463/p",
+    "sku": "58463",
+    "seller": "1",
+    "list": 2860.0
+   },
+   "jumbo": {
+    "producto": "Leche Entera Clásica 1 Lts Las Tres Niñas",
+    "precio": 2860,
+    "size": 1000.0,
+    "url": "https://www.jumbo.com.ar/leche-uat-entera-las-tres-ninas-1l/p",
+    "sku": "293175",
+    "seller": "1",
+    "list": 236364.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Leche larga vida descremada Las Tres Niñas 1 l",
+  {
+   "coto": {
+    "producto": "Leche Larga Vida Descremada LAS TRES NIÑAS 1l",
+    "precio": 2860,
+    "size": 1000.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/leche-larga-vida-descremada-las-tres-ninas-1l/_/A-00257444-00257444-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Leche descremada larga vida Las Tres Niñas 1 l.",
+    "precio": 1999,
+    "size": 1000.0,
+    "url": "https://www.carrefour.com.ar/leche-descremada-larga-vida-las-tres-ninas-1-l-13529/p",
+    "sku": "13529",
+    "seller": "1",
+    "list": 2860.0
+   },
+   "dia": {
+    "producto": "Leche Descremada Las 3 Niñas Larga Vida 1 Lt.",
+    "precio": 2860,
+    "size": 1000.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/leche-descremada-las-3-ninas-larga-vida-1-lt-58462/p",
+    "sku": "58462",
+    "seller": "1",
+    "list": 2860.0
+   },
+   "jumbo": {
+    "producto": "Leche Uat Descremada 1l Las Tres Niñas",
+    "precio": 2860,
+    "size": 1000.0,
+    "url": "https://www.jumbo.com.ar/leche-uat-descremada-1l-las-tres-ninas/p",
+    "sku": "293169",
+    "seller": "1",
+    "list": 286000.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Procenex limpiador líquido pisos marina 5 l",
+  {
+   "coto": {
+    "producto": "PROCENEX Limpiador Líquido Para Pisos Lavanda 5l",
+    "precio": 12727,
+    "size": 5000.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/procenex-limpiador-liquido-para-pisos-lavanda-5l/_/A-00264356-00264356-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "dia": {
+    "producto": "Limpiador de Suelo Lavanda Procenex 5 Lt.",
+    "precio": 12690,
+    "size": 5000.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/limpiador-de-suelo-lavanda-procenex-5-lt-6362/p",
+    "sku": "6362",
+    "seller": "1",
+    "list": 12690.0
+   },
+   "jumbo": {
+    "producto": "Limpiador de Pisos Lavanda 5 Lts Procenex",
+    "precio": 13250,
+    "size": 5000.0,
+    "url": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-5l/p",
+    "sku": "27665",
+    "seller": "1",
+    "list": 1095041.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Procenex limpiador pisos plastificados lavanda 900 ml",
+  {
+   "coto": {
+    "producto": "PROCENEX Limpiador Líquido Para Pisos Lavanda 900ml",
+    "precio": 2621,
+    "size": 900.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/procenex-limpiador-liquido-para-pisos-lavanda-900ml/_/A-00264341-00264341-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Limpiador líquido pisos Procenex flores de jardín 900 ml.",
+    "precio": 2620,
+    "size": 900.0,
+    "url": "https://www.carrefour.com.ar/limpiador-liquido-pisos-procenex-flores-de-jardin-900-ml-584257/p",
+    "sku": "6040",
+    "seller": "1",
+    "list": 2620.0
+   },
+   "dia": {
+    "producto": "Limpiador Líquido Pisos Procenex Lavanda 900 Ml.",
+    "precio": 2610,
+    "size": 900.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/limpiador-liquido-pisos-procenex-lavanda-900-ml-170054/p",
+    "sku": "170054",
+    "seller": "1",
+    "list": 2610.0
+   },
+   "jumbo": {
+    "producto": "Limpiador de Pisos Marina 900 Ml Procenex",
+    "precio": 2800,
+    "size": 900.0,
+    "url": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p",
+    "sku": "28024",
+    "seller": "1",
+    "list": 231405.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Tomate perita Arcor lata 400 g",
+  {
+   "coto": {
+    "producto": "Tomate Perita ARCOR   Lata 400 Gr",
+    "precio": 1582,
+    "size": 400.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/tomate-perita-arcor-lata-400-gr/_/A-00047153-00047153-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "dia": {
+    "producto": "Puré De Tomate Arcor 520 Gr.",
+    "precio": 915,
+    "size": 520.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/pure-de-tomate-arcor-520-gr-56121/p",
+    "sku": "56121",
+    "seller": "1",
+    "list": 1220.0
+   },
+   "jumbo": {
+    "producto": "Pulpa De Tomate Suave Arcor 530 Gr",
+    "precio": 1050,
+    "size": 530.0,
+    "url": "https://www.jumbo.com.ar/pulpa-de-tomate-suave-arcor-530-gr/p",
+    "sku": "40645",
+    "seller": "1",
+    "list": 86777.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Queso tybo feteado La Paulina 180 g",
+  {
+   "coto": {
+    "producto": "Queso Mozzarella Feteado LA PAULINA Paq 180 Grm",
+    "precio": 4299,
+    "size": 180.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/queso-mozzarella-feteado-la-paulina-paq-180-grm/_/A-00486799-00486799-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "La Paulina queso untable queso azul 190 grs",
+    "precio": 3215,
+    "size": 190.0,
+    "url": "https://www.carrefour.com.ar/la-paulina-queso-untable-queso-azul-190-grs-366945/p",
+    "sku": "9888",
+    "seller": "1",
+    "list": 3215.0
+   },
+   "dia": {
+    "producto": "Queso Untable La Paulina Jamón 190 Gr.",
+    "precio": 3215,
+    "size": 190.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/queso-untable-la-paulina-jamon-190-gr-11376/p",
+    "sku": "11376",
+    "seller": "1",
+    "list": 3215.0
+   },
+   "jumbo": {
+    "producto": "Queso Untable de Queso Azul x 190 Grs La Paulina",
+    "precio": 3350,
+    "size": 190.0,
+    "url": "https://www.jumbo.com.ar/queso-untable-la-paulina-fundido-azul-190-gr/p",
+    "sku": "3093526",
+    "seller": "1",
+    "list": 276860.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Queso rallado Reggianito La Serenísima 130 g",
+  {
+   "coto": {
+    "producto": "Cuatro Quesos Light En Hebras La Serenisima 130gr",
+    "precio": 4815,
+    "size": 130.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/cuatro-quesos-light-en-hebras-la-serenisima-130gr/_/A-00493127-00493127-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Queso cheddar La Serenísima feteado 150 g.",
+    "precio": 6105,
+    "size": 150.0,
+    "url": "https://www.carrefour.com.ar/queso-cheddar-la-serenisima-feteado-150-grs/p",
+    "sku": "27900",
+    "seller": "1",
+    "list": 6105.0
+   },
+   "dia": {
+    "producto": "Queso Reggianito rallado La Serenisima 130 Gr.",
+    "precio": 6584,
+    "size": 130.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/queso-reggianito-rallado-la-serenisima-130-gr-273230/p",
+    "sku": "273230",
+    "seller": "1",
+    "list": 6584.0
+   },
+   "jumbo": {
+    "producto": "Queso Cheddar Feteado La Serenisima 150gr",
+    "precio": 6150,
+    "size": 150.0,
+    "url": "https://www.jumbo.com.ar/queso-cheddar-feteado-la-serenisima-150gr/p",
+    "sku": "309874",
+    "seller": "1",
+    "list": 508264.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Jamón cocido feteado Paladini 200 g",
+  {
+   "coto": {
+    "producto": "Jamon Cocido PALADINI 150g",
+    "precio": 5719,
+    "size": 150.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/jamon-cocido-paladini-150g/_/A-00491179-00491179-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Jamón cocido Paladini 150 g.",
+    "precio": 4890,
+    "size": 150.0,
+    "url": "https://www.carrefour.com.ar/jamon-cocido-paladini-x-150-grs/p",
+    "sku": "10608",
+    "seller": "1",
+    "list": 5699.0
+   },
+   "dia": {
+    "producto": "Jamón Cocido Paladini Feteado Fino 200 Gr.",
+    "precio": 8039,
+    "size": 200.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/jamon-cocido-paladini-feteado-fino-200-gr-273198/p",
+    "sku": "273198",
+    "seller": "1",
+    "list": 8039.0
+   },
+   "jumbo": {
+    "producto": "Jamón Cocido Premium Feteado 150 Grs Paladini",
+    "precio": 6690,
+    "size": 150.0,
+    "url": "https://www.jumbo.com.ar/jamon-cocido-linea-permi-paladini-x-150-gr/p",
+    "sku": "301595",
+    "seller": "1",
+    "list": 552893.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Limpiador cremoso multiuso Cif 500 ml",
+  {
+   "coto": {
+    "producto": "Limpiador Cremoso Multiuso Original Cif 500 Ml",
+    "precio": 4582,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/limpiador-cremoso-multiuso-original-cif-500-ml/_/A-00559678-00559678-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Limpiador Cif Expert Antigrasa Doypack 450 ml",
+    "precio": 2509,
+    "size": 450.0,
+    "url": "https://www.carrefour.com.ar/limpiador-cif-expert-antigrasa-doypack-450-ml-730359/p",
+    "sku": "168740",
+    "seller": "1",
+    "list": 2509.0
+   },
+   "dia": {
+    "producto": "Limpiador CIF EXPERT Antigrasa Doypack 450 Ml.",
+    "precio": 1850,
+    "size": 450.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/limpiador-cif-expert-antigrasa-doypack-450-ml-64961/p",
+    "sku": "64961",
+    "seller": "1",
+    "list": 2490.0
+   },
+   "jumbo": {
+    "producto": "Limpiador Antigrasa Expert 450 Ml Cif",
+    "precio": 2700,
+    "size": 450.0,
+    "url": "https://www.jumbo.com.ar/limpiador-expert-cif-antigrasa-doypack-450-ml/p",
+    "sku": "408960",
+    "seller": "1",
+    "list": 223141.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Nuggets crocantes de pollo Granja del Sol 900 g",
+  {
+   "coto": {
+    "producto": "Nuggets Crocantes De Pollo Granja Del Sol 900 Grm",
+    "precio": 22269,
+    "size": 900.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/nuggets-crocantes-de-pollo-granja-del-sol-900-grm/_/A-00559861-00559861-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "dia": {
+    "producto": "Nuggets De Pollo Granja Del Sol 900 Gr.",
+    "precio": 14476,
+    "size": 900.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/nuggets-de-pollo-granja-del-sol-900-gr-309279/p",
+    "sku": "309279",
+    "seller": "1",
+    "list": 22270.0
+   },
+   "jumbo": {
+    "producto": "Nuggets de Pollo Crocantes 900 Grs Granja Del Sol",
+    "precio": 23000,
+    "size": 900.0,
+    "url": "https://www.jumbo.com.ar/nuggets-granja-del-sol-900-gr/p",
+    "sku": "389042",
+    "seller": "1",
+    "list": 1900826.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Ravioles jamón y mozzarella La Salteña 450 g",
+  {
+   "coto": {
+    "producto": "Ravioles Cuatro Quesos LA SALTEÑA 450g",
+    "precio": 4429,
+    "size": 450.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/ravioles-cuatro-quesos-la-saltena-450g/_/A-00565188-00565188-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Ravioles La salteña de espinaca y muzzarella 450 g.",
+    "precio": 4429,
+    "size": 450.0,
+    "url": "https://www.carrefour.com.ar/ravioles-la-saltena-de-espinaca-y-muzzarella-450-g-721928/p",
+    "sku": "148629",
+    "seller": "1",
+    "list": 4429.0
+   },
+   "dia": {
+    "producto": "Ravioles 4 Quesos La Salteña 450 Gr.",
+    "precio": 4430,
+    "size": 450.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/ravioles-4-quesos-la-saltena-450-gr-143116/p",
+    "sku": "143116",
+    "seller": "1",
+    "list": 4430.0
+   },
+   "jumbo": {
+    "producto": "Ravioles La Salteña Espinaca Mozzarella Y Parmesano 450g",
+    "precio": 4600,
+    "size": 450.0,
+    "url": "https://www.jumbo.com.ar/ravioles-la-saltena-espinaca-mozzarella-y-parmesano-450g/p",
+    "sku": "394592",
+    "seller": "1",
+    "list": 380165.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Fideos mostachol N51 Lucchetti 500 g",
+  {
+   "coto": {
+    "producto": "Fideos Mostachol N51 Lucchetti 500g",
+    "precio": 1750,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-mostachol-n51-lucchetti-500g/_/A-00572004-00572004-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Fideos mostacholes N52 Lucchetti rayado 500 g.",
+    "precio": 1749,
+    "size": 500.0,
+    "url": "https://www.carrefour.com.ar/fideos-mostacholes-n52-lucchetti-rayado-500-g-726309/p",
+    "sku": "157207",
+    "seller": "1",
+    "list": 1749.0
+   },
+   "dia": {
+    "producto": "Fideos Lucchetti Dedalitos 500 Gr.",
+    "precio": 1750,
+    "size": 500.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/fideos-lucchetti-dedalitos-500-gr-287522/p",
+    "sku": "287522",
+    "seller": "1",
+    "list": 1750.0
+   },
+   "jumbo": {
+    "producto": "Fideos Coditos 500 Grs Lucchetti",
+    "precio": 1850,
+    "size": 500.0,
+    "url": "https://www.jumbo.com.ar/fideos-guiseros-lucchetti-coditos-500gr/p",
+    "sku": "40184",
+    "seller": "1",
+    "list": 152893.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Fideos spaghetti Matarazzo 500 g",
+  {
+   "coto": {
+    "producto": "Fideos Spaghetti MATARAZZO 500g",
+    "precio": 2100,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-spaghetti-matarazzo-500g/_/A-00573911-00573911-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Fideos spaghetti N3 Matarazzo 500 g.",
+    "precio": 2099,
+    "size": 500.0,
+    "url": "https://www.carrefour.com.ar/fideos-spaghetti-n3-matarazzo-500-g-729399/p",
+    "sku": "164397",
+    "seller": "1",
+    "list": 2099.0
+   },
+   "dia": {
+    "producto": "Fideos Spaghetti N3 Matarazzo 500 Gr.",
+    "precio": 1259,
+    "size": 500.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/fideos-spaghetti-n3-matarazzo-500-gr-38576/p",
+    "sku": "38576",
+    "seller": "1",
+    "list": 2099.0
+   },
+   "jumbo": {
+    "producto": "Fideos Municiones 500 Grs Matarazzo",
+    "precio": 2100,
+    "size": 500.0,
+    "url": "https://www.jumbo.com.ar/fideos-municiones-matarazzo-x500-gr-2/p",
+    "sku": "44697",
+    "seller": "1",
+    "list": 173554.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Fideos foratini Lucchetti 500 g",
+  {
+   "coto": {
+    "producto": "Fideos Foratini Lucchetti 500g",
+    "precio": 1750,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-foratini-lucchetti-500g/_/A-00573916-00573916-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Fideos dedalitos Lucchetti 500 g.",
+    "precio": 1749,
+    "size": 500.0,
+    "url": "https://www.carrefour.com.ar/fideos-dedalitos-lucchetti-500-g/p",
+    "sku": "24225",
+    "seller": "1",
+    "list": 1749.0
+   },
+   "dia": {
+    "producto": "Fideos Lucchetti Dedalitos 500 Gr.",
+    "precio": 1750,
+    "size": 500.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/fideos-lucchetti-dedalitos-500-gr-287522/p",
+    "sku": "287522",
+    "seller": "1",
+    "list": 1750.0
+   },
+   "jumbo": {
+    "producto": "Fideos Foratini 500 Grs Lucchetti",
+    "precio": 1850,
+    "size": 500.0,
+    "url": "https://www.jumbo.com.ar/fideos-lucchetti-foratini-x500g/p",
+    "sku": "407187",
+    "seller": "1",
+    "list": 152893.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Fideos tirabuzón N28 Matarazzo 500 g",
+  {
+   "coto": {
+    "producto": "Fideos Tirabuzon N° 28 Matarazzo 500g",
+    "precio": 2100,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-tirabuzon-n-28-matarazzo-500g/_/A-00573921-00573921-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Fideos tirabuzones N28 Matarazzo 500 g.",
+    "precio": 2099,
+    "size": 500.0,
+    "url": "https://www.carrefour.com.ar/fideos-tirabuzones-n28-matarazzo-500-g-729402/p",
+    "sku": "164382",
+    "seller": "1",
+    "list": 2099.0
+   },
+   "dia": {
+    "producto": "Fideos Tirabuzon N28 Matarazzo 500 Gr.",
+    "precio": 1259,
+    "size": 500.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-n28-matarazzo-500-gr-38574/p",
+    "sku": "38574",
+    "seller": "1",
+    "list": 2099.0
+   },
+   "jumbo": {
+    "producto": "Fideos Municiones 500 Grs Matarazzo",
+    "precio": 2100,
+    "size": 500.0,
+    "url": "https://www.jumbo.com.ar/fideos-municiones-matarazzo-x500-gr-2/p",
+    "sku": "44697",
+    "seller": "1",
+    "list": 173554.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Fideos caserito con huevo Don Vicente 500 g",
+  {
+   "coto": {
+    "producto": "Fideos Caserito Con Huevo Don Vicente 500g",
+    "precio": 3950,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/fideos-caserito-con-huevo-don-vicente-500g/_/A-00573936-00573936-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Fideos cinta fetuccini Don Vicente 500 grs.",
+    "precio": 3946,
+    "size": 500.0,
+    "url": "https://www.carrefour.com.ar/fideos-cinta-fetuccini-don-vicente-500-grs-729407/p",
+    "sku": "164552",
+    "seller": "1",
+    "list": 3946.15
+   },
+   "dia": {
+    "producto": "Fideos Al Huevo Tirabuzón Don Vicente 500 Gr.",
+    "precio": 3950,
+    "size": 500.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/fideos-al-huevo-tirabuzon-don-vicente-500-gr-180338/p",
+    "sku": "180338",
+    "seller": "1",
+    "list": 3950.0
+   },
+   "jumbo": {
+    "producto": "Fideos Caserito al Huevo 500 Grs Don Vicente",
+    "precio": 3950,
+    "size": 500.0,
+    "url": "https://www.jumbo.com.ar/fideos-don-vicente-caserito-x500g-2/p",
+    "sku": "407213",
+    "seller": "1",
+    "list": 326446.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Agua con gas mineral Villavicencio 1,5 l",
+  {
+   "coto": {
+    "producto": "Agua Con Gas Mineral Villavicencio 500c",
+    "precio": 1950,
+    "size": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/agua-con-gas-mineral-villavicencio-500c/_/A-00574447-00574447-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   }
+  }
+ ],
+ [
+  "coto",
+  "Limpiador antigrasa Expert Cif 450 ml",
+  {
+   "coto": {
+    "producto": "Limpiador Antigrasa Expert CIF 450ml",
+    "precio": 2507,
+    "size": 450.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/limpiador-antigrasa-expert-cif-450ml/_/A-00574543-00574543-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Limpiador Cif Expert Antigrasa Doypack 450 ml",
+    "precio": 2509,
+    "size": 450.0,
+    "url": "https://www.carrefour.com.ar/limpiador-cif-expert-antigrasa-doypack-450-ml-730359/p",
+    "sku": "168740",
+    "seller": "1",
+    "list": 2509.0
+   },
+   "dia": {
+    "producto": "Limpiador CIF EXPERT Antigrasa Doypack 450 Ml.",
+    "precio": 1850,
+    "size": 450.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/limpiador-cif-expert-antigrasa-doypack-450-ml-64961/p",
+    "sku": "64961",
+    "seller": "1",
+    "list": 2490.0
+   },
+   "jumbo": {
+    "producto": "Limpiador Antigrasa Expert 450 Ml Cif",
+    "precio": 2700,
+    "size": 450.0,
+    "url": "https://www.jumbo.com.ar/limpiador-expert-cif-antigrasa-doypack-450-ml/p",
+    "sku": "408960",
+    "seller": "1",
+    "list": 223141.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Limpia vidrios y multiuso Cif 900 ml",
+  {
+   "coto": {
+    "producto": "Limpia Vidrios Y Multiuso Cif 900ml",
+    "precio": 4139,
+    "size": 900.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/limpia-vidrios-y-multiuso-cif-900ml/_/A-00574550-00574550-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Limpiador Vidrios y Mulitiuso Cif Expert Doypack 900 ml",
+    "precio": 4139,
+    "size": 900.0,
+    "url": "https://www.carrefour.com.ar/limpiador-vidrios-y-multiuso-cif-expert-doypack-900-ml-730367/p",
+    "sku": "168741",
+    "seller": "1",
+    "list": 4139.0
+   },
+   "jumbo": {
+    "producto": "Limpiavidrios Multiuso 900 Ml Cif",
+    "precio": 4450,
+    "size": 900.0,
+    "url": "https://www.jumbo.com.ar/limpiador-vidrios-y-mulitiuso-900-ml-doypack-cif-expert/p",
+    "sku": "408976",
+    "seller": "1",
+    "list": 367769.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Zorro Deluxe suavizante elegante 3 l",
+  {
+   "coto": {
+    "producto": "ZORRO Deluxe Suavizante Oriental 3lt",
+    "precio": 11447,
+    "size": 3000.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/zorro-deluxe-suavizante-oriental-3lt/_/A-00575931-00575931-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   }
+  }
+ ],
+ [
+  "coto",
+  "Limpiador desinfectante de superficies Cif 380 ml",
+  {
+   "coto": {
+    "producto": "Limpiador Desinfectante De Superficies Cif 380ml",
+    "precio": 2507,
+    "size": 380.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/limpiador-desinfectante-de-superficies-cif-380ml/_/A-00581348-00581348-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Limpiador Líquido Desinfectante de Superficies Cif Original 400 ml",
+    "precio": 4529,
+    "size": 400.0,
+    "url": "https://www.carrefour.com.ar/limpiador-liquido-desinfectante-de-superficies-cif-original-400-ml-738559/p",
+    "sku": "185978",
+    "seller": "1",
+    "list": 4529.0
+   },
+   "jumbo": {
+    "producto": "Limpiador Multiuso Desinfectante Original 380 Ml Cif",
+    "precio": 2700,
+    "size": 380.0,
+    "url": "https://www.jumbo.com.ar/limpiador-liquido-cif-desinfectante-superficies-original-380-ml/p",
+    "sku": "414673",
+    "seller": "1",
+    "list": 223141.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Salsa pomarola Balance Knorr 340 g",
+  {
+   "coto": {
+    "producto": "Salsa Guisos Y Arroces Knorr 340g",
+    "precio": 1590,
+    "size": 340.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/salsa-guisos-y-arroces-knorr-340g/_/A-00582158-00582158-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Salsa filetto Knorr 340 g.",
+    "precio": 1589,
+    "size": 340.0,
+    "url": "https://www.carrefour.com.ar/salsa-filetto-knorr-340-g-739355/p",
+    "sku": "187992",
+    "seller": "1",
+    "list": 1589.0
+   },
+   "dia": {
+    "producto": "Salsa Knorr Pizza 340 Gr.",
+    "precio": 1445,
+    "size": 340.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/salsa-knorr-pizza-340-gr-260452/p",
+    "sku": "260452",
+    "seller": "1",
+    "list": 1699.0
+   },
+   "jumbo": {
+    "producto": "Salsa de Tomate Pomarola 340 Grs Knorr",
+    "precio": 1700,
+    "size": 340.0,
+    "url": "https://www.jumbo.com.ar/salsa-knorr-pomarola-tradicional-340-gr/p",
+    "sku": "416261",
+    "seller": "1",
+    "list": 140496.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Lavandina original Ayudín 2 l",
+  {
+   "coto": {
+    "producto": "Lavandina Original Ayudin 2l",
+    "precio": 3130,
+    "size": 2000.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/lavandina-original-ayudin-2l/_/A-00591050-00591050-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Lavandina clásica desinfectante Ayudín 2 lts.",
+    "precio": 2925,
+    "size": 2000.0,
+    "url": "https://www.carrefour.com.ar/lavandina-clasica-desinfectante-ayudin-2-lts-745460/p",
+    "sku": "202044",
+    "seller": "1",
+    "list": 2925.0
+   },
+   "dia": {
+    "producto": "Lavandina Original Ayudin 2 Lt.",
+    "precio": 2190,
+    "size": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/lavandina-original-ayudin-2-lt-304521/p",
+    "sku": "304521",
+    "seller": "1",
+    "list": 2920.0
+   },
+   "jumbo": {
+    "producto": "Lavandina Líquida 2 Lts Ayudín",
+    "precio": 3224,
+    "size": 2000.0,
+    "url": "https://www.jumbo.com.ar/lavandina-ayudin-original-2-l/p",
+    "sku": "1366051",
+    "seller": "1",
+    "list": 266446.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Aceite de coco neutro Entrenuts 360 g",
+  {
+   "coto": {
+    "producto": "Aceite De Coco Neutro Entrenuts 360g",
+    "precio": 10199,
+    "size": 360.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/aceite-de-coco-neutro-entrenuts-360g/_/A-00604012-00604012-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "jumbo": {
+    "producto": "Aceite de Coco Neutro 360 Cc Entrenuts",
+    "precio": 11000,
+    "size": 360.0,
+    "url": "https://www.jumbo.com.ar/aceite-de-coco-neutro-100-natural-360-gr-entrenuts/p",
+    "sku": "407370",
+    "seller": "1",
+    "list": 909091.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Mermelada de frutos rojos La Campagnola 450 g",
+  {
+   "coto": {
+    "producto": "Mermelada Naranja La Campagnola Fra 454 Grm",
+    "precio": 4025,
+    "size": 454.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/mermelada-naranja-la-campagnola-fra-454-grm/_/A-00516588-00516588-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Mermelada BC La Campagnola de naranja 390 g.",
+    "precio": 3969,
+    "size": 390.0,
+    "url": "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-de-naranja-390-g-691479/p",
+    "sku": "84704",
+    "seller": "1",
+    "list": 3969.0
+   },
+   "dia": {
+    "producto": "Mermelada La Campagnola Durazno 454 Gr.",
+    "precio": 4020,
+    "size": 454.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/mermelada-la-campagnola-durazno-454-gr-14788/p",
+    "sku": "14788",
+    "seller": "1",
+    "list": 4020.0
+   },
+   "jumbo": {
+    "producto": "Mermelada Bc Sabor Naranja 390 Grs La Campagnola",
+    "precio": 3973,
+    "size": 390.0,
+    "url": "https://www.jumbo.com.ar/mermeladas-bc-naranja-390gr/p",
+    "sku": "344552",
+    "seller": "1",
+    "list": 328347.0
+   }
+  }
+ ],
+ [
+  "coto",
+  "Pan de molde brioche artesano 500 g",
+  {
+   "coto": {
+    "producto": "Pan Blanco LACTAL 460g",
+    "precio": 5264,
+    "size": 460.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/pan-blanco-lactal-460g/_/A-00558090-00558090-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Pan blanco en rodajas finas Lactal bolsa 550 grs",
+    "precio": 5264,
+    "size": 550.0,
+    "url": "https://www.carrefour.com.ar/pan-blanco-en-rojas-finas-lactal-bolsa-550-grs-786866/p",
+    "sku": "312176",
+    "seller": "1",
+    "list": 5263.7
+   },
+   "dia": {
+    "producto": "Pan Blanco Lactal 460 Gr.",
+    "precio": 3400,
+    "size": 460.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/pan-blanco-lactal-460-gr-245473/p",
+    "sku": "245473",
+    "seller": "1",
+    "list": 5265.0
+   },
+   "jumbo": {
+    "producto": "Pan de Molde Sabor blanco 460 Grs Lactal",
+    "precio": 5000,
+    "size": 460.0,
+    "url": "https://www.jumbo.com.ar/pan-blanco-460-grs-lactal/p",
+    "sku": "386816",
+    "seller": "1",
+    "list": 413223.0
+   }
+  }
+ ],
+ [
+  "ml",
+  "Aceite oliva virgen extra Oliovita Mediterráneo pet 500 ml",
+  {
+   "coto": {
+    "producto": "Aceite Oliva Virgen Extra OLIOVITA Mediterráneo  500 Ml",
+    "precio": 15700,
+    "size": 500.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/aceite-oliva-virgen-extra-oliovita-mediterraneo-500-ml/_/A-00245154-00245154-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Aceite de oliva Oliovita meditarráneo extra virgen 500 cc",
+    "precio": 13049,
+    "size": 500.0,
+    "url": "https://www.carrefour.com.ar/aceite-de-oliva-oliovita-meditarraneo-extra-virgen-500-cc/p",
+    "sku": "21453",
+    "seller": "1",
+    "list": 13049.0
+   },
+   "jumbo": {
+    "producto": "Aceite de Oliva 500 Ml Oliovita",
+    "precio": 15474,
+    "size": 500.0,
+    "url": "https://www.jumbo.com.ar/aceite-de-oliva-clasico-oliovita-500-ml/p",
+    "sku": "248000",
+    "seller": "1",
+    "list": 1278843.0
+   }
+  }
+ ],
+ [
+  "ml",
+  "Mermelada en frasco frutilla La Campagnola 454 g",
+  {
+   "coto": {
+    "producto": "Mermelada Naranja La Campagnola Fra 454 Grm",
+    "precio": 4025,
+    "size": 454.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/mermelada-naranja-la-campagnola-fra-454-grm/_/A-00516588-00516588-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Mermelada BC La Campagnola de naranja 390 g.",
+    "precio": 3969,
+    "size": 390.0,
+    "url": "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-de-naranja-390-g-691479/p",
+    "sku": "84704",
+    "seller": "1",
+    "list": 3969.0
+   },
+   "dia": {
+    "producto": "Mermelada La Campagnola Durazno 454 Gr.",
+    "precio": 4020,
+    "size": 454.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/mermelada-la-campagnola-durazno-454-gr-14788/p",
+    "sku": "14788",
+    "seller": "1",
+    "list": 4020.0
+   },
+   "jumbo": {
+    "producto": "Mermelada Bc Sabor Naranja 390 Grs La Campagnola",
+    "precio": 3973,
+    "size": 390.0,
+    "url": "https://www.jumbo.com.ar/mermeladas-bc-naranja-390gr/p",
+    "sku": "344552",
+    "seller": "1",
+    "list": 328347.0
+   }
+  }
+ ],
+ [
+  "ml",
+  "Tabletas para lavavajillas Finish doypack 30 un",
+  {
+   "carrefour": {
+    "producto": "Detergente para lavavajillas Finish tabletas x 30 uni",
+    "precio": 26275,
+    "size": null,
+    "url": "https://www.carrefour.com.ar/detergente-para-lavavajillas-finish-tabletas-x-30-uni-667861/p",
+    "sku": "18032",
+    "seller": "1",
+    "list": 26275.0
+   },
+   "jumbo": {
+    "producto": "Detergente para Lavavajillas Quantum x 26 Un Finish",
+    "precio": 27100,
+    "size": 26.0,
+    "url": "https://www.jumbo.com.ar/tabletas-lavavajillas-quantum-x-26-un-finish/p",
+    "sku": "3077577",
+    "seller": "1",
+    "list": 2239669.0
+   }
+  }
+ ],
+ [
+  "ml",
+  "Sal para lavavajillas especial regeneradora 2 kg",
+  {
+   "coto": {
+    "producto": "Sal Regeneradora Antisarro Sun 1 Kgm",
+    "precio": 10361,
+    "size": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/sal-regeneradora-antisarro-sun-1-kgm/_/A-00544073-00544073-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   }
+  }
+ ],
+ [
+  "ml",
+  "Nesquik original cacao en polvo Nestlé 800 g",
+  {
+   "coto": {
+    "producto": "Nesquik® Original Cacao En Polvo X 800gr",
+    "precio": 13812,
+    "size": 800.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/nesquik-original-cacao-en-polvo-x-800gr/_/A-00574309-00574309-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Nesquik original cacao en polvo 800 grs",
+    "precio": 9555,
+    "size": 800.0,
+    "url": "https://www.carrefour.com.ar/nesquik-original-cacao-en-polvo-800-grs-742403/p",
+    "sku": "197964",
+    "seller": "1",
+    "list": 13650.0
+   },
+   "dia": {
+    "producto": "Original Cacao En Polvo Nesquik X 800 Gr.",
+    "precio": 11000,
+    "size": 800.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/original-cacao-en-polvo-nesquik-x-800-gr-39743/p",
+    "sku": "39743",
+    "seller": "1",
+    "list": 13810.0
+   },
+   "jumbo": {
+    "producto": "Cacao en Polvo 800 Grs Nesquik",
+    "precio": 13650,
+    "size": 800.0,
+    "url": "https://www.jumbo.com.ar/cacao-polvo-sin-tacc-800-grs-nesquik/p",
+    "sku": "1360510",
+    "seller": "1",
+    "list": 1128099.0
+   }
+  }
+ ],
+ [
+  "ml",
+  "Detergente líquido Platinum bolsa 3 l Ariel",
+  {
+   "coto": {
+    "producto": "Jabón Líquido Para Ropa ARIEL Platinum Doypack 3lt",
+    "precio": 15940,
+    "size": 3000.0,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/productos/jabon-liquido-para-ropa-ariel-platinum-doypack-3lt/_/A-00588922-00588922-200",
+    "sku": null,
+    "seller": null,
+    "list": null
+   },
+   "carrefour": {
+    "producto": "Jabón líquido para ropa Ariel Platinum Doypack 3 lts",
+    "precio": 10361,
+    "size": 3000.0,
+    "url": "https://www.carrefour.com.ar/jabon-liquido-para-ropa-ariel-platinum-doypack-3-lts-745773/p",
+    "sku": "202178",
+    "seller": "1",
+    "list": 15940.0
+   },
+   "dia": {
+    "producto": "Jabon Liquido Para Ropa Ariel Platinum Doypack 3 Lt.",
+    "precio": 15940,
+    "size": 3000.0,
+    "url": "https://diaonline.supermercadosdia.com.ar/jabon-liquido-para-ropa-ariel-platinum-doypack-3-lt-309641/p",
+    "sku": "309641",
+    "seller": "1",
+    "list": 15940.0
+   },
+   "jumbo": {
+    "producto": "Jabón Líquido Concentrado Diluible Rinde 3 Lts Ariel",
+    "precio": 12850,
+    "size": 3000.0,
+    "url": "https://www.jumbo.com.ar/jabon-liquido-concentrado-diluible-rinde-3-lts-ariel/p",
+    "sku": "1367305",
+    "seller": "1",
+    "list": 1061983.0
+   }
+  }
+ ]
+]

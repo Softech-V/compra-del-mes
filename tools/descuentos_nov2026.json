@@ -1,0 +1,212 @@
+[
+ {
+  "programa": "Club La Nación",
+  "comercio": "carrefour",
+  "dia": "lunes",
+  "dias": [
+   1
+  ],
+  "pct": 15,
+  "tope": null,
+  "nota": "Confirmado 02/11 en carrefour.com.ar: 15% sin tope todos los lunes de noviembre con Club La Nación. No incluye electro ni carnicería",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Club La Nación",
+  "comercio": "carrefour",
+  "dia": "martes a domingo (entrega inmediata)",
+  "dias": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   0
+  ],
+  "pct": 10,
+  "tope": null,
+  "nota": "Confirmado 02/11 en carrefour.com.ar: 10% sin tope de martes a domingo, solo online con entrega inmediata (1 hora)",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Mi Carrefour (Banco Carrefour)",
+  "comercio": "carrefour",
+  "dia": "todos",
+  "dias": null,
+  "pct": 15,
+  "tope": null,
+  "nota": "Confirmado 02/11 en carrefour.com.ar: 15% sin tope lunes, miércoles, viernes, sábado y domingo con Tarjeta de Crédito Carrefour; viernes 15% sin tope con Cuenta Digital; sábado y domingo 10% con Cuenta Digital; jueves 20% online con TC o Cuenta Digital, tope $10.000 por semana. No incluye carnicería, huevos ni electro",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Mi Carrefour (Banco Carrefour)",
+  "comercio": "carrefour",
+  "dia": "martes",
+  "dias": [
+   2
+  ],
+  "pct": 20,
+  "tope": null,
+  "nota": "Confirmado 02/11 en carrefour.com.ar: martes 20% sin tope, en el acto, con Tarjeta de Crédito Carrefour (tienda y online). No incluye carnicería, huevos ni electro",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Carrefour jueves online (cualquier medio de pago)",
+  "comercio": "carrefour",
+  "dia": "jueves",
+  "dias": [
+   4
+  ],
+  "pct": 10,
+  "tope": 8000,
+  "nota": "Confirmado 02/11 en carrefour.com.ar: 10% comprando online con cualquier medio de pago, tope $8.000 por semana (en octubre era sin tope)",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "MODO (Santander, Galicia, BBVA, ICBC, Nación y +13 bancos)",
+  "comercio": "coto",
+  "dia": "martes",
+  "dias": [
+   2
+  ],
+  "pct": 25,
+  "tope": null,
+  "nota": "Confirmado 02/11 en modo.com.ar y coto.com.ar: 25% todos los martes de noviembre pagando con QR desde la app del banco o de MODO (crédito, débito o prepaga), SOLO presencial en sucursal, sin tope, en productos sin oferta. Aplican exclusiones (en octubre: carnes, aceite, azúcar, harina y gaseosas Coca-Cola; ver legales)",
+  "tipo": "banco"
+ },
+ {
+  "programa": "MODO (Santander, Galicia, BBVA, ICBC, Nación y +13 bancos)",
+  "comercio": "jumbo",
+  "dia": "martes y jueves",
+  "dias": [
+   2,
+   4
+  ],
+  "pct": 20,
+  "tope": 25000,
+  "nota": "Confirmado 02/11 en modo.com.ar y jumbo.com.ar: 20% martes y jueves hasta el 30/11 con QR de MODO, presencial y online (Jumbo, Disco y Vea); compra mínima $100.000; tope $25.000 por banco por mes. Acumulable con otras promos",
+  "tipo": "banco"
+ },
+ {
+  "programa": "MODO (Santander, Galicia, BBVA, ICBC, Nación y +13 bancos)",
+  "comercio": "dia",
+  "dia": "viernes y sábado",
+  "dias": [
+   5,
+   6
+  ],
+  "pct": 20,
+  "tope": 20000,
+  "nota": "Confirmado 02/11 en modo.com.ar: 20% viernes y sábado hasta el 31/12 con QR o NFC de MODO, presencial y online; compra mínima $35.000; tope $20.000 por banco por mes. Acumulable",
+  "tipo": "banco"
+ },
+ {
+  "programa": "ICBC",
+  "comercio": "coto",
+  "dia": "jueves (sucursal) y lunes (online)",
+  "dias": [
+   1,
+   4
+  ],
+  "pct": 20,
+  "tope": 15000,
+  "nota": "Confirmado 02/11 en coto.com.ar: jueves 20% con Visa Débito ICBC en sucursal, sin tope; lunes 20% online con crédito Visa/Mastercard o Visa Débito, tope $15.000 por transacción (30% y tope $20.000 con Plan Sueldo; jueves 5/11 25% Plan Sueldo en sucursal)",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Mercado Pago",
+  "comercio": "carrefour",
+  "dia": "jueves y viernes",
+  "dias": [
+   4,
+   5
+  ],
+  "pct": 15,
+  "tope": null,
+  "nota": "Leído en carrefour.com.ar (no se navegó Mercado Pago): jueves 15% sin tope con dinero en cuenta, compra mínima $20.000; viernes 10% sin tope con dinero en cuenta. SOLO el lunes 2/11: 20% online con dinero en cuenta, tope $15.000, una compra por usuario",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Mercado Pago",
+  "comercio": "coto",
+  "dia": "viernes",
+  "dias": [
+   5
+  ],
+  "pct": 25,
+  "tope": null,
+  "nota": "Leído en coto.com.ar (no se navegó Mercado Pago): viernes 25% exclusivo en sucursales pagando con la app de Mercado Pago, sin tope. Coto suele publicarlo semana a semana: confirmar en la app antes de ir",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Comunidad Coto",
+  "comercio": "coto",
+  "dia": "miércoles",
+  "dias": [
+   3
+  ],
+  "pct": 15,
+  "tope": null,
+  "factor": 0.5,
+  "nota": "Confirmado 02/11 en coto.com.ar: 15% los miércoles de noviembre para miembros (gratis, con DNI en caja), online y en sucursal, cualquier medio de pago, sin tope, no acumulable con bancos; aplica a productos seleccionados, por eso se estima sobre la mitad del changuito",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Cumpleaños de Caro (Comunidad Coto)",
+  "comercio": "coto",
+  "dia": "todo noviembre (cupón único)",
+  "dias": null,
+  "pct": 40,
+  "tope": null,
+  "factor": 0.3,
+  "nota": "Comunidad Coto manda un cupón de 40% para UNA compra en Coto Digital durante el mes de cumpleaños (Caro cumplió el 1/11). Visto en coto.com.ar/terminos-descuentos (Promo cumple 40, legal publicado para octubre, se repite cada mes) y en la selección Descuento del 40 por cumpleaños: 1.935 productos, casi todo bebidas y vinos, más frescos y algo de almacén; no acumulable con otras promos. Por eso se estima sobre el 30% del changuito. Caro tiene que recibir el cupón por mail o en la app con sus datos de Comunidad",
+  "tipo": "fidelidad",
+  "unico": true
+ },
+ {
+  "programa": "Cumpleaños de Caro (Mi Carrefour)",
+  "comercio": "carrefour",
+  "dia": "todo noviembre (cupón único)",
+  "dias": null,
+  "pct": 25,
+  "tope": 10000,
+  "nota": "Según prensa (Infobae, iProfesional, enero 2026): Carrefour da un cupón de 25% con tope $10.000 durante el mes de cumpleaños, se activa en la App Carrefour con la fecha de nacimiento cargada en Mi Carrefour. NO lo pude confirmar en la web: revisar en la app de Caro",
+  "tipo": "fidelidad",
+  "unico": true
+ },
+ {
+  "programa": "ClubDIA",
+  "comercio": "dia",
+  "dia": "todos",
+  "dias": null,
+  "pct": 15,
+  "tope": null,
+  "factor": 0.4,
+  "nota": "Precios socio y cupones en productos marcados (10-30%). Cumpleaños: ClubDIA da un cupón único durante el mes de cumpleaños, válido de miércoles a lunes, compra mínima $7.000 y tope de descuento $2.000 (legal de octubre en diaonline/legales; noviembre se publica igual). Requiere ClubDIA con fecha de nacimiento cargada y al menos una compra en el último año",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Jumbo Prime",
+  "comercio": "jumbo",
+  "dia": "todos",
+  "dias": null,
+  "pct": 35,
+  "tope": null,
+  "factor": 0.3,
+  "nota": "Suscripción paga; hasta 35% solo en categorías que rotan + envío gratis. Cumpleaños: los socios Prime tienen torta gratis en el mes de cumpleaños (según prensa). Cyber Monday 2 al 4/11: Jumbo, Disco y Vea con 2x1 y hasta 60% en productos seleccionados, ya reflejado en los precios de hoy",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Cencopay",
+  "comercio": "jumbo",
+  "dia": "jueves",
+  "dias": [
+   4
+  ],
+  "pct": 25,
+  "tope": null,
+  "factor": 0.3,
+  "nota": "Confirmado 02/11 en jumbo.com.ar: jueves 25% y 3 cuotas en galletitas, bebidas sin alcohol y más (por eso se estima sobre el 30% del changuito); lunes 25% de reintegro con Cencopay Cuenta, presencial, tope $15.000, hasta el 30/11",
+  "tipo": "fidelidad"
+ }
+]

@@ -1,0 +1,208 @@
+[
+ {
+  "programa": "Club La Nación",
+  "comercio": "coto",
+  "dia": "lunes y miércoles",
+  "dias": [
+   1,
+   3
+  ],
+  "pct": 15,
+  "tope": null,
+  "nota": "credencial en caja; no acumulable; renueva mensualmente",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Club La Nación",
+  "comercio": "carrefour",
+  "dia": "según beneficio",
+  "dias": null,
+  "pct": 15,
+  "tope": null,
+  "factor": 0.5,
+  "nota": "hasta 15% con credencial en beneficios seleccionados",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Santander",
+  "comercio": "carrefour",
+  "dia": "viernes",
+  "dias": [
+   5
+  ],
+  "pct": 25,
+  "tope": 20000,
+  "nota": "MODO desde app Santander, Visa; tope $20.000/mes; era de agosto, confirmar septiembre",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Santander",
+  "comercio": "jumbo",
+  "dia": "miércoles",
+  "dias": [
+   3
+  ],
+  "pct": 25,
+  "tope": 20000,
+  "nota": "solo plan sueldo Santander; Visa; tope $20.000/mes; confirmar septiembre",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Galicia",
+  "comercio": "jumbo",
+  "dia": "lunes",
+  "dias": [
+   1
+  ],
+  "pct": 20,
+  "tope": 25000,
+  "nota": "vía MODO; compra mínima $100.000; tope $25.000/mes",
+  "tipo": "banco"
+ },
+ {
+  "programa": "BBVA",
+  "comercio": "dia",
+  "dia": "sábados",
+  "dias": [
+   6
+  ],
+  "pct": 20,
+  "tope": 20000,
+  "nota": "pago total con MODO + tarjetas BBVA; tope $20.000/mes; confirmar renovación en septiembre",
+  "tipo": "banco"
+ },
+ {
+  "programa": "ICBC",
+  "comercio": "dia",
+  "dia": "viernes",
+  "dias": [
+   5
+  ],
+  "pct": 20,
+  "tope": 20000,
+  "nota": "Visa crédito 1 pago o débito NFC; tope $20.000/mes por tarjeta (hasta $40.000 con 2 del grupo familiar)",
+  "tipo": "banco"
+ },
+ {
+  "programa": "MODO (bancos adheridos)",
+  "comercio": "coto",
+  "dia": "martes",
+  "dias": [
+   2
+  ],
+  "pct": 20,
+  "tope": null,
+  "nota": "QR MODO con bancos adheridos, sin tope; vigente hasta 31/10 — cubre septiembre",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Mercado Pago",
+  "comercio": "coto",
+  "dia": "viernes",
+  "dias": [
+   5
+  ],
+  "pct": 25,
+  "tope": null,
+  "nota": "QR en caja; sin tope informado; grilla de agosto, MP renueva cada mes",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Mercado Pago",
+  "comercio": "coto",
+  "dia": "sábado y domingo",
+  "dias": [
+   6,
+   0
+  ],
+  "pct": 20,
+  "tope": null,
+  "nota": "QR; confirmar septiembre en la app",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Mercado Pago",
+  "comercio": "carrefour",
+  "dia": "jueves",
+  "dias": [
+   4
+  ],
+  "pct": 15,
+  "tope": null,
+  "nota": "QR, compra mínima $15.000; sáb-dom también 15% con tope $20.000/mes",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Mercado Pago",
+  "comercio": "dia",
+  "dia": "miércoles puntuales",
+  "dias": [
+   3
+  ],
+  "pct": 10,
+  "tope": null,
+  "nota": "solo algunos miércoles + 3 cuotas sin interés; ver fechas en la app",
+  "tipo": "banco"
+ },
+ {
+  "programa": "Comunidad Coto",
+  "comercio": "coto",
+  "dia": "martes a jueves",
+  "dias": [
+   2,
+   3,
+   4
+  ],
+  "pct": 15,
+  "tope": null,
+  "factor": 0.5,
+  "nota": "gratis con DNI en caja; 15% según semana/productos + puntos; estimado sobre la mitad del changuito",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Mi Carrefour",
+  "comercio": "carrefour",
+  "dia": "todos (cupones)",
+  "dias": null,
+  "pct": 20,
+  "tope": null,
+  "factor": 0.3,
+  "nota": "cupones personalizados y precios rebajados en seleccionados (10-30%); el 20% de los martes requiere Tarjeta Carrefour",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "ClubDIA",
+  "comercio": "dia",
+  "dia": "todos",
+  "dias": null,
+  "pct": 15,
+  "tope": null,
+  "factor": 0.4,
+  "nota": "precios socio y cupones en productos marcados (típico 10-30%)",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Jumbo Prime",
+  "comercio": "jumbo",
+  "dia": "todos",
+  "dias": null,
+  "pct": 35,
+  "tope": null,
+  "factor": 0.3,
+  "nota": "suscripción paga; hasta 35% solo en categorías que rotan semana a semana + envío gratis desde $60.000",
+  "tipo": "fidelidad"
+ },
+ {
+  "programa": "Cencopay",
+  "comercio": "jumbo",
+  "dia": "lunes y miércoles",
+  "dias": [
+   1,
+   3
+  ],
+  "pct": 25,
+  "tope": 3000,
+  "nota": "billetera Cencosud; tope $3.000 por transacción; confirmar septiembre",
+  "tipo": "fidelidad"
+ }
+]

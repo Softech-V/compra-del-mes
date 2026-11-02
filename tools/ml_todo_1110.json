@@ -1,0 +1,2264 @@
+[
+{
+"id": "huevos",
+"url": "https://www.mercadolibre.com.ar/huevos-frescos-blancos-maple-x-30-unid-num-1/p/MLA2093792526",
+"precio": 8900,
+"producto": "Huevos frescos blancos maple x 30 N°1"
+},
+{
+"id": "arroz",
+"url": "https://www.mercadolibre.com.ar/arroz-largo-fino-gallo-x-1-kg/p/MLA19936772",
+"precio": 3500,
+"producto": "Arroz largo fino Gallo 1 kg"
+},
+{
+"id": "arroz-risotto",
+"url": "https://www.mercadolibre.com.ar/p/MLA29570173",
+"precio": 3708,
+"producto": "Arroz Gallo Doble 1 kg"
+},
+{
+"id": "lentejas",
+"url": "https://www.mercadolibre.com.ar/lentejas-premium-1-kg/p/MLA62946216",
+"precio": 4155,
+"producto": "Lentejas premium 1 kg"
+},
+{
+"id": "polenta",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3935942538",
+"precio": 5299,
+"producto": "Polenta Presto Pronta 730 g"
+},
+{
+"id": "pure-tomate",
+"url": "https://www.mercadolibre.com.ar/p/MLA20027953",
+"precio": 1299,
+"producto": "Puré de tomate La Campagnola 530 g"
+},
+{
+"id": "pan-rallado",
+"url": "https://www.mercadolibre.com.ar/up/MLAU247381174",
+"precio": 4070,
+"producto": "Pan rallado Preferido fortificado 1 kg"
+},
+{
+"id": "lasagna",
+"url": "https://www.mercadolibre.com.ar/rina-matarazzo-lasagna-huevo-400g/p/MLA54065600",
+"precio": 5400,
+"producto": "Lasagna al huevo Rina Matarazzo 400 g"
+},
+{
+"id": "aceite",
+"url": "https://www.mercadolibre.com.ar/p/MLA16010049",
+"precio": 7447,
+"producto": "Aceite de girasol Natura 1,5 L"
+},
+{
+"id": "aceite-oliva",
+"url": "https://www.mercadolibre.com.ar/p/MLA19851328",
+"precio": 10099,
+"producto": "Aceite de oliva virgen extra Oliovita Mediterráneo PET 500 ml"
+},
+{
+"id": "avena",
+"url": "https://www.mercadolibre.com.ar/p/MLA28583687",
+"precio": 4521,
+"producto": "Avena integral Quaker instantánea 500 g"
+},
+{
+"id": "choclo-lata",
+"url": "https://www.mercadolibre.com.ar/p/MLA24202444",
+"precio": 2489,
+"producto": "Choclo amarillo en granos La Campagnola lata 300 g"
+},
+{
+"id": "duraznos",
+"url": "https://www.mercadolibre.com.ar/duraznos-en-mitades-de-la-familia-lata-820-grs/p/MLA46125211",
+"precio": 3600,
+"producto": "Duraznos en mitades De La Familia lata 820 g"
+},
+{
+"id": "cereales",
+"url": "https://www.mercadolibre.com.ar/p/MLA26913448",
+"precio": 2600,
+"producto": "Zucaritas copos de maíz azucarados 240 g"
+},
+{
+"id": "azucar",
+"url": "https://www.mercadolibre.com.ar/p/MLA19992609",
+"precio": 1815,
+"producto": "Azúcar Ledesma Clásica 1 kg"
+},
+{
+"id": "sal",
+"url": "https://www.mercadolibre.com.ar/p/MLA19940626",
+"precio": 1999,
+"producto": "Sal fina Celusal 500 g"
+},
+{
+"id": "harina",
+"url": "https://www.mercadolibre.com.ar/p/MLA20117683",
+"precio": 890,
+"producto": "Harina Morixe 000 1 kg"
+},
+{
+"id": "aceitunas",
+"url": "https://www.mercadolibre.com.ar/p/MLA25357200",
+"precio": 4806,
+"producto": "Aceitunas verdes descarozadas Laur 320 g"
+},
+{
+"id": "atun-lata",
+"url": "https://www.mercadolibre.com.ar/la-campagnola-del-mar-atun-desmenuzado-natural-170g-pack-x-3/p/MLA21640300",
+"precio": 3667,
+"producto": "Atún desmenuzado La Campagnola lata (precio indexado)"
+},
+{
+"id": "arvejas-lata",
+"url": "https://www.mercadolibre.com.ar/up/MLAU354741614",
+"precio": 1800,
+"producto": "Arvejas secas remojadas La Campagnola lata 300 g"
+},
+{
+"id": "mayonesa",
+"url": "https://www.mercadolibre.com.ar/p/MLA19663234",
+"precio": 2800,
+"producto": "Mayonesa clásica Hellmann's doypack 475 g"
+},
+{
+"id": "ketchup",
+"url": "https://www.mercadolibre.com.ar/p/MLA24893269",
+"precio": 4367,
+"producto": "Ketchup Hellmann's regular doypack 500 g"
+},
+{
+"id": "mostaza",
+"url": "https://www.mercadolibre.com.ar/p/MLA16595282",
+"precio": 2505,
+"producto": "Mostaza Savora original doypack 500 g"
+},
+{
+"id": "caldos",
+"url": "https://www.mercadolibre.com.ar/p/MLA24746986",
+"precio": 2799,
+"producto": "Caldo de verdura Knorr x 12 cubos"
+},
+{
+"id": "sopa-instantanea",
+"url": "https://www.mercadolibre.com.ar/p/MLA38124889",
+"precio": 2577,
+"producto": "Sopa instantánea Knorr Quick x 5 sobres"
+},
+{
+"id": "snacks-papas",
+"url": "https://www.mercadolibre.com.ar/p/MLA27965447",
+"precio": 5744,
+"producto": "Papas fritas Lay's clásicas 134 g"
+},
+{
+"id": "mani",
+"url": "https://www.mercadolibre.com.ar/p/MLA43385473",
+"precio": 4919,
+"producto": "Maní pelado tostado con sal El Portugués 1 kg"
+},
+{
+"id": "alfajores",
+"url": "https://www.mercadolibre.com.ar/p/MLA66588501",
+"precio": 12500,
+"producto": "Alfajor Guaymallén triple blanco 70 g caja x 24"
+},
+{
+"id": "cacao-amargo",
+"url": "https://www.mercadolibre.com.ar/p/MLA19957606",
+"precio": 4199,
+"producto": "Cacao amargo puro en polvo Dicomere 200 g"
+},
+{
+"id": "miel",
+"url": "https://www.mercadolibre.com.ar/p/MLA24336856",
+"precio": 4999,
+"producto": "Miel pura El Peoncito 500 g"
+},
+{
+"id": "levadura",
+"url": "https://www.mercadolibre.com.ar/p/MLA2097504181",
+"precio": 7390,
+"producto": "Levadura instantánea Levex 10 sobres x 10 g"
+},
+{
+"id": "polvo-hornear",
+"url": "https://www.mercadolibre.com.ar/up/MLAU342609716",
+"precio": 3727,
+"producto": "Polvo para hornear 100 g"
+},
+{
+"id": "premezcla-bizcochuelo",
+"url": "https://www.mercadolibre.com.ar/p/MLA34732344",
+"precio": 3499,
+"producto": "Premezcla para bizcochuelo Exquisita vainilla 540 g"
+},
+{
+"id": "gelatina",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4682580509",
+"precio": 16800,
+"producto": "Gelatina Exquisita frutilla 40 g x 8 sobres"
+},
+{
+"id": "arroz-integral",
+"url": "https://www.mercadolibre.com.ar/p/MLA29601061",
+"precio": 3799,
+"producto": "Arroz integral Dos Hermanos 1 kg"
+},
+{
+"id": "granola",
+"url": "https://www.mercadolibre.com.ar/p/MLA19978601",
+"precio": 9500,
+"producto": "Granola Kos energética 1 kg"
+},
+{
+"id": "tostadas",
+"url": "https://www.mercadolibre.com.ar/p/MLA19542079",
+"precio": 2499,
+"producto": "Tostadas de arroz clásicas Molinos Ala 150 g"
+},
+{
+"id": "budin",
+"url": "https://www.mercadolibre.com.ar/p/MLA21827117",
+"precio": 5500,
+"producto": "Budín marmolado Smams 250 g"
+},
+{
+"id": "maiz-blanco",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3796326006",
+"precio": 4928,
+"producto": "Maíz pisado blanco Elio 400 g pack x2"
+},
+{
+"id": "porotos",
+"url": "https://www.mercadolibre.com.ar/p/MLA47575013",
+"precio": 2002,
+"producto": "Porotos alubia Agromar 400 g"
+},
+{
+"id": "dulce-membrillo",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4003859271",
+"precio": 6299,
+"producto": "Dulce de membrillo Dulcor sachet 500 g"
+},
+{
+"id": "galletitas-chocolinas",
+"url": "https://www.mercadolibre.com.ar/p/MLA39234495",
+"precio": 2299,
+"producto": "Galletitas Chocolinas Bagley 250 g"
+},
+{
+"id": "galletitas-opera",
+"url": "https://www.mercadolibre.com.ar/p/MLA22511679",
+"precio": 2754,
+"producto": "Obleas Opera Bagley pack x4"
+},
+{
+"id": "vinagre-alcohol",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3115992447",
+"precio": 6850,
+"producto": "Vinagre de alcohol Marolio 5 L"
+},
+{
+"id": "kesitas",
+"url": "https://www.mercadolibre.com.ar/p/MLA37019085",
+"precio": 3239,
+"producto": "Galletitas saladas Kesitas Arcor sabor queso 125 g"
+},
+{
+"id": "tomate-cubeteado",
+"url": "https://www.mercadolibre.com.ar/p/MLA20027908",
+"precio": 1979,
+"producto": "Tomate cubeteado La Campagnola lata 400 g"
+},
+{
+"id": "semillas-mix",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3329032846",
+"precio": 4728,
+"producto": "Mix de semillas para ensaladas Natural Seed 250 g"
+},
+{
+"id": "arroz-parboil",
+"url": "https://www.mercadolibre.com.ar/p/MLA21029563",
+"precio": 2879,
+"producto": "Arroz Oro parboil Gallo bolsa 1 kg"
+},
+{
+"id": "aceite-coco",
+"url": "https://www.mercadolibre.com.ar/p/MLA19809974",
+"precio": 5133,
+"producto": "Aceite de coco neutro Entrenuts 360 ml"
+},
+{
+"id": "fideos-soperos",
+"url": "https://www.mercadolibre.com.ar/p/MLA19977068",
+"precio": 2999,
+"producto": "Fideos cabello de ángel Matarazzo 500 g"
+},
+{
+"id": "azucar-rubio",
+"url": "https://www.mercadolibre.com.ar/p/MLA19936260",
+"precio": 4165,
+"producto": "Azúcar Ledesma rubia mascabo 800 g"
+},
+{
+"id": "pure-papas-instantaneo",
+"url": "https://www.mercadolibre.com.ar/p/MLA24614510",
+"precio": 2932,
+"producto": "Puré de papas Maggi 200 g"
+},
+{
+"id": "salsa-lista",
+"url": "https://www.mercadolibre.com.ar/p/MLA40014995",
+"precio": 6050,
+"producto": "Salsa de tomate a la pomarola Rina Matarazzo 340 g"
+},
+{
+"id": "fideos-largos",
+"url": "https://www.mercadolibre.com.ar/p/MLA21089523",
+"precio": 3811,
+"producto": "Fideos fusilli Rina Matarazzo 500 g"
+},
+{
+"id": "fideos-tirabuzon",
+"url": "https://www.mercadolibre.com.ar/p/MLA19943667",
+"precio": 1899,
+"producto": "Fideos tirabuzón Matarazzo 500 g"
+},
+{
+"id": "fideos-coditos",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3670954314",
+"precio": 3699,
+"producto": "Fideos coditos Arcor 500 g x2"
+},
+{
+"id": "fideos-dedalitos",
+"url": "https://www.mercadolibre.com.ar/p/MLA19957809",
+"precio": 2290,
+"producto": "Fideos dedalitos Matarazzo 500 g"
+},
+{
+"id": "aceite-cocinero-mezcla-soja-girasol-1-5-",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3923933004",
+"precio": 7000,
+"producto": "Aceite Cocinero mezcla girasol y soja 1,5 L"
+},
+{
+"id": "aceite-de-coco-chiagraal-neutro-en-frasc",
+"url": "https://www.mercadolibre.com.ar/p/MLA22234414",
+"precio": 8916,
+"producto": "Aceite de coco Chía Graal neutro 360 ml"
+},
+{
+"id": "aceite-de-coco-neutro-chiagraal-en-frasc",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3841713419",
+"precio": 5409,
+"producto": "Aceite de coco Chía Graal neutro 180 ml"
+},
+{
+"id": "aceite-de-coco-prensado-en-frio-sri-sri-",
+"url": "https://www.mercadolibre.com.ar/p/MLA54005156",
+"precio": 14004,
+"producto": "Aceite de coco prensado en frío Sri Sri 300 ml"
+},
+{
+"id": "aceite-de-girasol-en-aerosol-fritolim-cl",
+"url": "https://www.mercadolibre.com.ar/p/MLA34724306",
+"precio": 6399,
+"producto": "Aceite Fritolim clásico Cocinero antiadherente 120 ml"
+},
+{
+"id": "aceto-balsamico-cocinero-modena-pet-250-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19957656",
+"precio": 3500,
+"producto": "Aceto balsámico tipo Módena Cocinero 250 ml"
+},
+{
+"id": "fideos-de-arroz-sin-tacc-wakas-fusilli-c",
+"url": "https://www.mercadolibre.com.ar/p/MLA53308273",
+"precio": 6896,
+"producto": "Pasta fusilli de legumbres alubia y quinoa Wakas 300 g"
+},
+{
+"id": "capelletini-tridicci-fortificado-giacomo",
+"url": "https://www.mercadolibre.com.ar/p/MLA19957818",
+"precio": 6311,
+"producto": "Capelettini Tridicci Giacomo fortificado 500 g"
+},
+{
+"id": "lucchettinis-lucchetti-espinaca-y-queso-",
+"url": "https://www.mercadolibre.com.ar/p/MLA21815941",
+"precio": 4929,
+"producto": "Capelettini Lucchettinis espinaca y queso 500 g"
+},
+{
+"id": "tapas-para-lasagna-de-maiz-teramo-sin-ta",
+"url": "https://www.mercadolibre.com.ar/p/MLA24746327",
+"precio": 7773,
+"producto": "Tapas para lasagna Teramo sin TACC de maíz"
+},
+{
+"id": "arroz-yamani-400-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA54276395",
+"precio": 3771,
+"producto": "Arroz yamaní integral Fuentess 500 g"
+},
+{
+"id": "lentejones-olinto-bolsa-400-g",
+"url": "https://www.mercadolibre.com.ar/up/MLAU128141161",
+"precio": 5970,
+"producto": "Lentejón 500 g"
+},
+{
+"id": "garbanzo-olinto-bolsa-400-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA57407161",
+"precio": 6650,
+"producto": "Garbanzos Schatzi 500 g"
+},
+{
+"id": "poroto-alubia-olinto-bolsa-400-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA47575013",
+"precio": 2002,
+"producto": "Porotos alubia Agromar 400 g"
+},
+{
+"id": "arvejas-partidas-olinto-bolsa-400-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA67990590",
+"precio": 4055,
+"producto": "Arvejas partidas premium 1 kg"
+},
+{
+"id": "soja-texturizada-dicomere-paquete-350-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA35576747",
+"precio": 3489,
+"producto": "Soja texturizada extra fina El Portugués 500 g"
+},
+{
+"id": "porotos-de-soja-don-elio-bolsa-500-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA2073490123",
+"precio": 3500,
+"producto": "Poroto de soja orgánico Yin Yang 500 g"
+},
+{
+"id": "maiz-pisingallo-500-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA53593932",
+"precio": 4442,
+"producto": "Maíz pisingallo 500 g"
+},
+{
+"id": "lentejones-secos-500-g",
+"url": "https://www.mercadolibre.com.ar/up/MLAU128141161",
+"precio": 5970,
+"producto": "Lentejón 500 g"
+},
+{
+"id": "lentejas-500-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA69277114",
+"precio": 6390,
+"producto": "Lentejas 500 g"
+},
+{
+"id": "quinoa-entera-sturla-250-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA44299049",
+"precio": 3793,
+"producto": "Semillas de quinoa Cumaná 250 g"
+},
+{
+"id": "mix-de-semillas-x-kg",
+"url": "https://www.mercadolibre.com.ar/p/MLA57263618",
+"precio": 6573,
+"producto": "Mix de semillas Fuentess 1 kg"
+},
+{
+"id": "semilla-de-chia-x-kg",
+"url": "https://www.mercadolibre.com.ar/p/MLA68388754",
+"precio": 5899,
+"producto": "Semillas de chía 1 kg"
+},
+{
+"id": "harina-integral-chacabuco-con-legumbres-",
+"url": "https://www.mercadolibre.com.ar/p/MLA40375151",
+"precio": 5400,
+"producto": "Blend de harinas con legumbres y semillas Chacabuco 750 g"
+},
+{
+"id": "premezcla-para-pizza-lucchetti-850-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA21818552",
+"precio": 3500,
+"producto": "Lucchetti premezcla para pizza 850 g"
+},
+{
+"id": "polenta-instantanea-molinos-ala-730-grs",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3935942538",
+"precio": 5299,
+"producto": "Polenta Presto Pronta 730 g"
+},
+{
+"id": "polenta-instantanea-presto-pronta-en-bol",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4054642427",
+"precio": 4886,
+"producto": "Polenta instantánea harina de maíz Presto Pronta"
+},
+{
+"id": "avena-tradicional-canuelas-400-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA65841683",
+"precio": 3745,
+"producto": "Avena tradicional Cañuelas 400 g pack x2"
+},
+{
+"id": "avena-integral-instantanea-morixe-en-caj",
+"url": "https://www.mercadolibre.com.ar/p/MLA78185626",
+"precio": 2275,
+"producto": "Avena integral tradicional Morixe caja 500 g"
+},
+{
+"id": "avena-extra-fina-morixe-caja-470-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA78185821",
+"precio": 2161,
+"producto": "Avena extra fina Morixe 470 g"
+},
+{
+"id": "semola-de-trigo-candeal-pureza-500-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA35627518",
+"precio": 3876,
+"producto": "Sémola Bonalma 500 g"
+},
+{
+"id": "almidon-de-maiz-maizena-clasica-sin-tacc",
+"url": "https://www.mercadolibre.com.ar/p/MLA20944645",
+"precio": 9166,
+"producto": "Maicena Maizena bolsa 1,1 kg"
+},
+{
+"id": "harina-de-quinoa-dicomere-200-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA26482437",
+"precio": 6406,
+"producto": "Harina de quinoa Dicomere 200 g"
+},
+{
+"id": "pan-rallado-preferido-libre-de-gluten-35",
+"url": "https://www.mercadolibre.com.ar/p/MLA47090294",
+"precio": 3899,
+"producto": "Pan rallado Preferido libre de gluten 350 g"
+},
+{
+"id": "pan-rallado-favorita-vitaminas-450-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA20728445",
+"precio": 2999,
+"producto": "Pan rallado fortificado Mamá Cocina 1 kg"
+},
+{
+"id": "pure-de-tomate-la-campagnola-tetra-530-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA20027953",
+"precio": 1299,
+"producto": "Puré de tomate La Campagnola 530 g"
+},
+{
+"id": "tomate-triturado-don-francisco-botella-9",
+"url": "https://www.mercadolibre.com.ar/up/MLAU2037735399",
+"precio": 9900,
+"producto": "Tomate triturado Don Francisco 950 g x4"
+},
+{
+"id": "salsa-filetto-arcor-doy-pack-340-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA36943382",
+"precio": 6050,
+"producto": "Salsa filetto Rina Matarazzo mediana"
+},
+{
+"id": "pure-de-tomate-rina-matarazzo-passata-50",
+"url": "https://www.mercadolibre.com.ar/p/MLA55912263",
+"precio": 5900,
+"producto": "Puré de tomate Rina Matarazzo Passata 500 g"
+},
+{
+"id": "extracto-doble-de-tomate-mutti-tubo-130-",
+"url": "https://www.mercadolibre.com.ar/up/MLAU268861496",
+"precio": 6526,
+"producto": "Concentrado de tomate Mutti tubo 130 g"
+},
+{
+"id": "sal-gruesa-dos-estrellas-1-kg",
+"url": "https://www.mercadolibre.com.ar/p/MLA19935043",
+"precio": 2899,
+"producto": "Sal gruesa Dos Anclas paquete 1 kg"
+},
+{
+"id": "sal-marina-gruesa-dicomere-450-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA22209530",
+"precio": 3682,
+"producto": "Sal marina gruesa Mayadevy 500 g"
+},
+{
+"id": "mayonesa-liviana-hellmanns-doypack-950-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA26088920",
+"precio": 6132,
+"producto": "Mayonesa Hellmann's liviana doypack 950 g"
+},
+{
+"id": "ketchup-hellmanns-regular-doypack-500-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA24893269",
+"precio": 4367,
+"producto": "Ketchup Hellmann's regular doypack 500 g"
+},
+{
+"id": "salsa-barbacoa-la-campagnola-250-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA70060354",
+"precio": 3999,
+"producto": "Salsa barbacoa La Campagnola 250 g pack x2"
+},
+{
+"id": "mayonesa-heinz-con-jugo-de-limon-350-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA19775244",
+"precio": 4200,
+"producto": "Mayonesa Heinz con jugo de limón 350 g"
+},
+{
+"id": "salsa-golf-natura-250-cc",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4879943574",
+"precio": 4564,
+"producto": "Salsa golf Natura doypack 250 g"
+},
+{
+"id": "salsa-de-soja-la-parmesana-300-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA32045404",
+"precio": 3900,
+"producto": "Salsa de soja reducción La Parmesana 300 ml"
+},
+{
+"id": "salsa-barbacoa-natura-500-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA75204757",
+"precio": 3999,
+"producto": "Salsa barbacoa Natura doypack 500 g"
+},
+{
+"id": "pimenton-dulce-alicante-sobre-200-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA21563740",
+"precio": 6693,
+"producto": "Pimentón seleccionado dulce Alicante 200 g"
+},
+{
+"id": "laurel-en-hojas-25-g",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3868203091",
+"precio": 3500,
+"producto": "Laurel en hojas 100 g"
+},
+{
+"id": "comino-molido-50-g",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3858780041",
+"precio": 3500,
+"producto": "Comino molido 100 g"
+},
+{
+"id": "bolsa-para-horno-maggi-mediterraneo-25-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA66527168",
+"precio": 1792,
+"producto": "Bolsa para horno Maggi Mediterráneo"
+},
+{
+"id": "bolsa-para-horno-maggi-finas-hierbas-24-",
+"url": "https://www.mercadolibre.com.ar/p/MLA66526696",
+"precio": 1792,
+"producto": "Bolsa para horno Maggi Finas Hierbas"
+},
+{
+"id": "sazonador-maggi-completisimo-180-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA66527113",
+"precio": 4205,
+"producto": "Sazonador Maggi Completísimo"
+},
+{
+"id": "caldo-de-pescado-hondashi-60-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA21824143",
+"precio": 3520,
+"producto": "Caldo de pescado Hondashi Ajinomoto 60 g"
+},
+{
+"id": "pure-de-papas-original-125-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA25457335",
+"precio": 4115,
+"producto": "Puré de papas original Maggi 125 g"
+},
+{
+"id": "nestle-leche-condensada-organica-395-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA29936813",
+"precio": 4832,
+"producto": "Leche condensada descremada orgánica Nestlé 395 g"
+},
+{
+"id": "relleno-untable-bon-o-bon-pote-290-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA21742996",
+"precio": 5703,
+"producto": "Relleno untable Bon o Bon Arcor 290 g"
+},
+{
+"id": "papas-fritas-lays-clasicas-230-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA28568053",
+"precio": 9361,
+"producto": "Papas fritas Lays clásicas 230 g"
+},
+{
+"id": "papas-fritas-lays-clasicas-134-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA27965447",
+"precio": 5744,
+"producto": "Papas fritas Lays clásicas 134 g"
+},
+{
+"id": "chizitos-de-maiz-pehuamar-maicitos-125-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA67503579",
+"precio": 3829,
+"producto": "Chizitos de maíz Pehuamar Maicitos 125 g"
+},
+{
+"id": "papas-fritas-tradicional-krachitos-275-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA44957724",
+"precio": 6934,
+"producto": "Papas fritas Krachitos corte tradicional 275 g"
+},
+{
+"id": "papas-fritas-pringles-de-crema-y-cebolla",
+"url": "https://www.mercadolibre.com.ar/p/MLA34014520",
+"precio": 3999,
+"producto": "Papas Pringles crema y cebolla 109 g"
+},
+{
+"id": "papas-fritas-lays-clasicas-85-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA28882020",
+"precio": 4095,
+"producto": "Papas fritas Lays clásicas 85 g"
+},
+{
+"id": "nachos-macritas-restaurant-style-250-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA20024203",
+"precio": 3999,
+"producto": "Nachos Macritas extra grandes sin TACC 250 g"
+},
+{
+"id": "mani-frito-salado-mani-king-dp-350-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA32637317",
+"precio": 3599,
+"producto": "Maní frito sin piel Maní King 350 g"
+},
+{
+"id": "mani-pelado-y-salado-en-bolsa-500-g",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3145810789",
+"precio": 3300,
+"producto": "Maní pelado salado 500 g"
+},
+{
+"id": "pochoclo-con-sal-marina-rakan-50-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA37329581",
+"precio": 3850,
+"producto": "Pochoclo con sal marina Rakan 50 g"
+},
+{
+"id": "pochoclo-caramel-rakan-150-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA35718269",
+"precio": 4850,
+"producto": "Pochoclos acaramelados Rakan Premium 150 g"
+},
+{
+"id": "ramen-nissin-pollo-85-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA2082431947",
+"precio": 5160,
+"producto": "Ramen Nissin sabor pollo 85 g"
+},
+{
+"id": "risotto-calabaza-knorr-200-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA69726620",
+"precio": 4150,
+"producto": "Risotto calabaza Knorr 200 g"
+},
+{
+"id": "arroz-preparado-gallo-vegetales-dp-240-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA19975777",
+"precio": 3299,
+"producto": "Arroz preparado Gallo mix vegetales 240 g"
+},
+{
+"id": "risotto-champiniones-gallo-en-caja-240-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA30273241",
+"precio": 4399,
+"producto": "Arroz Gallo Risotto Trattoria champignones 240 g"
+},
+{
+"id": "ramen-nissin-verduras-85-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA65953472",
+"precio": 5160,
+"producto": "Ramen Nissin sabor verdura 85 g"
+},
+{
+"id": "ramen-cup-noodles-pollo-69-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA20030990",
+"precio": 3490,
+"producto": "Fideos Cup Noodles Nissin pollo 69 g"
+},
+{
+"id": "leche",
+"url": "https://www.mercadolibre.com.ar/p/MLA51930083",
+"precio": 3496,
+"producto": "Leche La Serenísima Clásica 3% larga vida botella 1 L"
+},
+{
+"id": "mermelada",
+"url": "https://www.mercadolibre.com.ar/mermelada-de-duraznos-arcor-frasco-x-454-g/p/MLA19956966",
+"precio": 3299,
+"producto": "Mermelada de duraznos Arcor frasco 454 g"
+},
+{
+"id": "nesquik",
+"url": "https://www.mercadolibre.com.ar/p/MLA19957603",
+"precio": 4029,
+"producto": "Cacao en polvo Nesquik 360 g"
+},
+{
+"id": "cafe",
+"url": "https://www.mercadolibre.com.ar/p/MLA19958440",
+"precio": 12970,
+"producto": "Café molido La Virginia torrado equilibrado 500 g"
+},
+{
+"id": "galletitas",
+"url": "https://www.mercadolibre.com.ar/up/MLAU2466653123",
+"precio": 4160,
+"producto": "Galletitas Sonrisas Bagley frambuesa 324 g"
+},
+{
+"id": "leche-descremada",
+"url": "https://www.mercadolibre.com.ar/p/MLA29551212",
+"precio": 3500,
+"producto": "Leche La Serenísima Liviana 1% larga vida cartón 1 L"
+},
+{
+"id": "te-saquitos",
+"url": "https://www.mercadolibre.com.ar/p/MLA19566710",
+"precio": 4399,
+"producto": "Té negro Green Hills clásico en saquitos"
+},
+{
+"id": "mate-cocido",
+"url": "https://www.mercadolibre.com.ar/p/MLA29546257",
+"precio": 4163,
+"producto": "Mate cocido Taragüi x 50 saquitos"
+},
+{
+"id": "cafe-instantaneo",
+"url": "https://www.mercadolibre.com.ar/p/MLA37219649",
+"precio": 12852,
+"producto": "Café instantáneo Nescafé Gold doypack 100 g"
+},
+{
+"id": "bebida-almendras",
+"url": "https://www.mercadolibre.com.ar/p/MLA42865417",
+"precio": 4900,
+"producto": "Bebida de almendras sin azúcar Pampa Vida 1 L"
+},
+{
+"id": "galletitas-oreo",
+"url": "https://www.mercadolibre.com.ar/p/MLA24583573",
+"precio": 2468,
+"producto": "Galletitas Oreo 118 g"
+},
+{
+"id": "galletitas-pepitos",
+"url": "https://www.mercadolibre.com.ar/p/MLA19610929",
+"precio": 1999,
+"producto": "Galletitas Pepitos 119 g"
+},
+{
+"id": "chocolate-para-taza-aguila-semiamargo-15",
+"url": "https://www.mercadolibre.com.ar/p/MLA38284796",
+"precio": 6651,
+"producto": "Chocolate de taza familiar Águila 150 g"
+},
+{
+"id": "tableta-de-chocolate-leche-y-almendras-n",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4357865381",
+"precio": 4450,
+"producto": "Chocolate Nestlé con almendras 90 g"
+},
+{
+"id": "garoto-bombones-surtidos-caja-250-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA20028606",
+"precio": 6966,
+"producto": "Bombones Garoto surtidos 250 g"
+},
+{
+"id": "chocolate-para-taza-aguila-225-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA20055947",
+"precio": 10999,
+"producto": "Chocolate para taza Águila familiar 225 g"
+},
+{
+"id": "tableta-60-cacao-y-frambuesas-aguila-70-",
+"url": "https://www.mercadolibre.com.ar/p/MLA68446322",
+"precio": 4999,
+"producto": "Chocolate Águila frambuesa 60% cacao 70 g"
+},
+{
+"id": "chocolate-cofler-estilo-dubai-43-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA76721980",
+"precio": 4450,
+"producto": "Chocolate Cofler estilo Dubai 43 g"
+},
+{
+"id": "bombon-de-chocolate-y-avellanas-bon-o-bo",
+"url": "https://www.mercadolibre.com.ar/p/MLA65863951",
+"precio": 3500,
+"producto": "Bombón Bon o Bon Supreme 36 g"
+},
+{
+"id": "bombon-de-chocolate-y-avellanas-bon-o-bo-2",
+"url": "https://www.mercadolibre.com.ar/p/MLA65539710",
+"precio": 6337,
+"producto": "Bombón Bon o Bon Supreme 8 unidades 144 g"
+},
+{
+"id": "alfajor-terrabusi-blanco-glaseado-pack-6",
+"url": "https://www.mercadolibre.com.ar/p/MLA23811906",
+"precio": 8853,
+"producto": "Alfajor Terrabusi blanco glaseado pack 6 unidades"
+},
+{
+"id": "alfajor-mini-torta-aguila-69-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA20014152",
+"precio": 3500,
+"producto": "Alfajor triple Minitorta Águila dark 69 g"
+},
+{
+"id": "alfajor-triple-milka-oreo-61-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA20013029",
+"precio": 3529,
+"producto": "Alfajor Milka triple Oreo 61 g"
+},
+{
+"id": "caramelos-masticables-pico-dulce-150-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA23529570",
+"precio": 4799,
+"producto": "Caramelos masticables Pico Dulce 500 g"
+},
+{
+"id": "galletitas-chocolina-de-chocolate-250-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA39234495",
+"precio": 2299,
+"producto": "Galletitas Chocolinas Bagley 250 g"
+},
+{
+"id": "galletitas-dulce-melba-rellenas-360-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA16176160",
+"precio": 4257,
+"producto": "Galletitas Melba rellenas tripack 360 g"
+},
+{
+"id": "galletitas-surtidas-terrabusi-variedad-3",
+"url": "https://www.mercadolibre.com.ar/p/MLA19542066",
+"precio": 3399,
+"producto": "Galletitas Terrabusi Variedad 390 g"
+},
+{
+"id": "galletitas-surtido-diversion-en-bolsa-40",
+"url": "https://www.mercadolibre.com.ar/p/MLA64827234",
+"precio": 2843,
+"producto": "Galletitas surtido Diversión Arcor bolsa 400 g"
+},
+{
+"id": "galletitas-mana-de-vainilla-livianas-x3-",
+"url": "https://www.mercadolibre.com.ar/p/MLA20718954",
+"precio": 3150,
+"producto": "Galletitas Maná vainilla Arcor tripack 408 g"
+},
+{
+"id": "galletitas-frambuesa-rellenas-sonrisas-x",
+"url": "https://www.mercadolibre.com.ar/up/MLAU2466653123",
+"precio": 4160,
+"producto": "Galletitas Sonrisas Bagley frambuesa tripack 324 g"
+},
+{
+"id": "galletitas-crackers-traviata-rex-x3-288-",
+"url": "https://www.mercadolibre.com.ar/p/MLA44149195",
+"precio": 2500,
+"producto": "Galletitas Traviata Rex tripack 288 g"
+},
+{
+"id": "galletitas-crackers-cerealitas-clasicas-",
+"url": "https://www.mercadolibre.com.ar/p/MLA37771597",
+"precio": 6459,
+"producto": "Galletitas Cerealitas clásicas x3 636 g"
+},
+{
+"id": "galletitas-criollitas-crackers-x5-499-gr",
+"url": "https://www.mercadolibre.com.ar/p/MLA21780276",
+"precio": 2940,
+"producto": "Galletitas Criollitas Bagley pack x5 499 g"
+},
+{
+"id": "gaseosa",
+"url": "https://www.mercadolibre.com.ar/p/MLA19956264",
+"precio": 5486,
+"producto": "Coca-Cola Original 2,25 L"
+},
+{
+"id": "agua-bidon",
+"url": "https://www.mercadolibre.com.ar/p/MLA67690777",
+"precio": 3500,
+"producto": "Agua Artica bidón 6 L sin gas"
+},
+{
+"id": "jugo-polvo",
+"url": "https://www.mercadolibre.com.ar/p/MLA21616946",
+"precio": 8929,
+"producto": "Jugo en polvo Tang naranja caja x 20 sobres"
+},
+{
+"id": "cerveza",
+"url": "https://www.mercadolibre.com.ar/p/MLA17360530",
+"precio": 10593,
+"producto": "Cerveza Quilmes Clásica 473 ml pack x6"
+},
+{
+"id": "gaseosa-coca-15",
+"url": "https://www.mercadolibre.com.ar/p/MLA19940209",
+"precio": 5684,
+"producto": "Gaseosa Coca-Cola sabor original 1,5 L"
+},
+{
+"id": "gaseosa-coca-zero-225",
+"url": "https://www.mercadolibre.com.ar/p/MLA21014154",
+"precio": 6300,
+"producto": "Coca-Cola Zero 2,25 L"
+},
+{
+"id": "gaseosa-coca-zero-15",
+"url": "https://www.mercadolibre.com.ar/p/MLA75942671",
+"precio": 5404,
+"producto": "Coca-Cola Zero 1,5 L"
+},
+{
+"id": "gaseosa-coca-lata",
+"url": "https://www.mercadolibre.com.ar/p/MLA29551105",
+"precio": 10291,
+"producto": "Coca-Cola lata 354 ml pack x6"
+},
+{
+"id": "gaseosa-sprite-225",
+"url": "https://www.mercadolibre.com.ar/p/MLA60125651",
+"precio": 5634,
+"producto": "Sprite lima limón 2,25 L"
+},
+{
+"id": "agua-con-gas",
+"url": "https://www.mercadolibre.com.ar/p/MLA77863471",
+"precio": 3310,
+"producto": "Agua con gas Aqua Divina sifón 2 L"
+},
+{
+"id": "soda",
+"url": "https://www.mercadolibre.com.ar/p/MLA61669847",
+"precio": 5310,
+"producto": "Soda Saldán sifón 2 L"
+},
+{
+"id": "vino-tinto",
+"url": "https://www.mercadolibre.com.ar/p/MLA19876672",
+"precio": 6686,
+"producto": "Vino Alma Mora Malbec 750 ml"
+},
+{
+"id": "fernet",
+"url": "https://www.mercadolibre.com.ar/p/MLA69350640",
+"precio": 18000,
+"producto": "Fernet Branca 750 ml"
+},
+{
+"id": "cerveza-patagonia",
+"url": "https://www.mercadolibre.com.ar/p/MLA17360717",
+"precio": 17859,
+"producto": "Cerveza Patagonia Amber Lager 473 ml pack x6"
+},
+{
+"id": "gaseosa-coca-500",
+"url": "https://www.mercadolibre.com.ar/up/MLAU154396278",
+"precio": 23655,
+"producto": "Coca-Cola botella 500 ml pack x12"
+},
+{
+"id": "cerveza-light-michelob-ultra-porron-275-",
+"url": "https://www.mercadolibre.com.ar/p/MLA69618772",
+"precio": 5375,
+"producto": "Cerveza light Michelob Ultra porrón 275 ml"
+},
+{
+"id": "vino-blanco-dulce-tardio-de-putruele-en-",
+"url": "https://www.mercadolibre.com.ar/up/MLAU155479985",
+"precio": 6385,
+"producto": "Vino Putruele Tardío de Abril blanco chardonnay 500 ml"
+},
+{
+"id": "vino-blanco-malbec-killka-selentein-630-",
+"url": "https://www.mercadolibre.com.ar/p/MLA20021417",
+"precio": 9487,
+"producto": "Vino Killka Salentein malbec blanco 750 ml"
+},
+{
+"id": "gaseosa-cola-pepsi-black-pet-2-lts",
+"url": "https://www.mercadolibre.com.ar/p/MLA36437721",
+"precio": 4448,
+"producto": "Pepsi Black sin azúcar 2 L"
+},
+{
+"id": "gaseosa-cola-coca-cola-sabor-original-1--2",
+"url": "https://www.mercadolibre.com.ar/p/MLA20718820",
+"precio": 4903,
+"producto": "Gaseosa Coca-Cola 1,75 L"
+},
+{
+"id": "agua-de-mesa-sin-gas-nestle-bidon-6-40-l",
+"url": "https://www.mercadolibre.com.ar/p/MLA16247027",
+"precio": 7310,
+"producto": "Agua sin gas Nestlé Pureza Vital bidón 6,3 L"
+},
+{
+"id": "jugo-de-naranja-clasico-citric-tetra-1-5",
+"url": "https://www.mercadolibre.com.ar/p/MLA31236180",
+"precio": 7200,
+"producto": "Jugo de naranja con pulpa Citric 1,5 L"
+},
+{
+"id": "ades-soja-1-lt",
+"url": "https://www.mercadolibre.com.ar/p/MLA64422721",
+"precio": 4603,
+"producto": "Jugo base soja naranja Ades 1 L"
+},
+{
+"id": "jugo-hi-c-naranja-2-25-lts",
+"url": "https://www.mercadolibre.com.ar/p/MLA57665343",
+"precio": 3999,
+"producto": "Jugo Hi-C naranja 2,25 L"
+},
+{
+"id": "bebida-energizante-speed-250-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA19940842",
+"precio": 2879,
+"producto": "Speed Unlimited energizante lata 250 ml"
+},
+{
+"id": "bebida-hidratante-suerox-manzana-630-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA24242117",
+"precio": 4569,
+"producto": "Suerox manzana 630 ml"
+},
+{
+"id": "bebida-isotonica-powerade-mountain-blast",
+"url": "https://www.mercadolibre.com.ar/p/MLA40237871",
+"precio": 3500,
+"producto": "Powerade Mountain Blast 1,5 L"
+},
+{
+"id": "ariel",
+"url": "https://www.mercadolibre.com.ar/p/MLA27822878",
+"precio": 11491,
+"producto": "Jabón líquido Ariel Platinum 3 L"
+},
+{
+"id": "suavizante",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3221042962",
+"precio": 15892,
+"producto": "Suavizante para ropa Vivere 5 L"
+},
+{
+"id": "cif",
+"url": "https://www.mercadolibre.com.ar/p/MLA19546297",
+"precio": 4582,
+"producto": "Limpiador en crema Cif Bioactive 750 g"
+},
+{
+"id": "yerba",
+"url": "https://www.mercadolibre.com.ar/p/MLA19991741",
+"precio": 2470,
+"producto": "Yerba mate Playadito 500 g"
+},
+{
+"id": "papel-higienico",
+"url": "https://www.mercadolibre.com.ar/p/MLA23607866",
+"precio": 2991,
+"producto": "Papel higiénico Higienol Plus doble hoja 30 m x 4"
+},
+{
+"id": "rollo-cocina",
+"url": "https://www.mercadolibre.com.ar/p/MLA53767360",
+"precio": 13039,
+"producto": "Bolsón de rollos de cocina 8 rollos x 300 paños"
+},
+{
+"id": "detergente",
+"url": "https://www.mercadolibre.com.ar/p/MLA16155211",
+"precio": 4745,
+"producto": "Detergente Magistral ultra desengrasante limón 750 ml"
+},
+{
+"id": "lavandina",
+"url": "https://www.mercadolibre.com.ar/p/MLA45063616",
+"precio": 2260,
+"producto": "Lavandina Ayudín Clásica 2 L"
+},
+{
+"id": "esponjas",
+"url": "https://www.mercadolibre.com.ar/p/MLA28647816",
+"precio": 1883,
+"producto": "Esponja Virulana máxima eficiencia pack x2"
+},
+{
+"id": "bolsas-residuo",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3757420141",
+"precio": 3500,
+"producto": "Bolsas de residuo 50x70 rollo x20"
+},
+{
+"id": "jabon-polvo",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3785166289",
+"precio": 7043,
+"producto": "Jabón en polvo Zorro bicarbonato 3 kg"
+},
+{
+"id": "desodorante-ambiente",
+"url": "https://www.mercadolibre.com.ar/p/MLA58703179",
+"precio": 2892,
+"producto": "Aromatizante Glade limón aerosol 360 ml"
+},
+{
+"id": "limpiador-pisos",
+"url": "https://www.mercadolibre.com.ar/p/MLA38885620",
+"precio": 2450,
+"producto": "Procenex limpiador de pisos brisa floral 900 ml"
+},
+{
+"id": "lustramuebles",
+"url": "https://www.mercadolibre.com.ar/p/MLA45555842",
+"precio": 6380,
+"producto": "Lustramuebles Blem lavanda aerosol 360 ml"
+},
+{
+"id": "insecticida",
+"url": "https://www.mercadolibre.com.ar/p/MLA20027142",
+"precio": 7335,
+"producto": "Insecticida Raid moscas y mosquitos aerosol 360 ml"
+},
+{
+"id": "film-cocina",
+"url": "https://www.mercadolibre.com.ar/up/MLAU423766655",
+"precio": 5888,
+"producto": "Rollo papel film adherente 38 cm x 100 m"
+},
+{
+"id": "papel-aluminio",
+"url": "https://www.mercadolibre.com.ar/p/MLA29523987",
+"precio": 5408,
+"producto": "Rollo de papel aluminio 30 cm x 25 m"
+},
+{
+"id": "servilletas",
+"url": "https://www.mercadolibre.com.ar/p/MLA19941944",
+"precio": 15495,
+"producto": "Servilletas de papel Elegante 33x32 x 1000"
+},
+{
+"id": "lysoform",
+"url": "https://www.mercadolibre.com.ar/p/MLA21641618",
+"precio": 4757,
+"producto": "Desinfectante Lysoform aerosol 360 ml"
+},
+{
+"id": "limpiador-antigrasa",
+"url": "https://www.mercadolibre.com.ar/p/MLA19546009",
+"precio": 2926,
+"producto": "Procenex limpiador de cocina antigrasa gatillo 500 ml"
+},
+{
+"id": "limpiador-bano",
+"url": "https://www.mercadolibre.com.ar/up/MLAU264789853",
+"precio": 3166,
+"producto": "Limpiador para baño Cif Expert doypack 900 ml"
+},
+{
+"id": "jabon-liquido-ala-camellito-ropa-delicad",
+"url": "https://www.mercadolibre.com.ar/p/MLA17545706",
+"precio": 7439,
+"producto": "Jabón líquido Ala Camellito ropa fina doypack 900 ml"
+},
+{
+"id": "jabon-en-polvo-ala-matic-con-bicarbonato",
+"url": "https://www.mercadolibre.com.ar/p/MLA21162796",
+"precio": 10388,
+"producto": "Jabón en polvo Ala Matic con bicarbonato 800 g"
+},
+{
+"id": "quitamanchas-vanish-liquido-blanco-repue",
+"url": "https://www.mercadolibre.com.ar/p/MLA20026666",
+"precio": 3839,
+"producto": "Quitamanchas Vanish Crystal White doypack 650 ml"
+},
+{
+"id": "zorro-quitamanchas-400-ml",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3795259356",
+"precio": 9659,
+"producto": "Zorro Evolution líquido quitamanchas 3 L"
+},
+{
+"id": "quitamanchas-ayudin-blancos-intensos-flo",
+"url": "https://www.mercadolibre.com.ar/p/MLA19979693",
+"precio": 5618,
+"producto": "Quitamanchas Ayudín ropa blanco supremo 650 ml"
+},
+{
+"id": "limpiador-para-lavarropas-multimax-3-tab",
+"url": "https://www.mercadolibre.com.ar/p/MLA69246551",
+"precio": 4878,
+"producto": "Pastillas limpia lavarropas Multimax"
+},
+{
+"id": "quitamanchas-vanish-prelavado-en-barra-b",
+"url": "https://www.mercadolibre.com.ar/p/MLA20026640",
+"precio": 2155,
+"producto": "Vanish super barra ropa blanca 75 g"
+},
+{
+"id": "suavizante-downy-brisa-suave-rinde-4-lt-",
+"url": "https://www.mercadolibre.com.ar/p/MLA40656365",
+"precio": 12520,
+"producto": "Suavizante Downy brisa suave 1 L rinde 4 L"
+},
+{
+"id": "suavizante-downy-brisa-intenso-rinde-2l-",
+"url": "https://www.mercadolibre.com.ar/p/MLA68213070",
+"precio": 4860,
+"producto": "Suavizante Downy brisa intenso 350 ml rinde 1,4 L"
+},
+{
+"id": "suavizante-concentrado-comfort-brisa-ele",
+"url": "https://www.mercadolibre.com.ar/p/MLA19944482",
+"precio": 5967,
+"producto": "Comfort suavizante concentrado cuidado esencial 500 ml"
+},
+{
+"id": "zorro-deluxe-suavizante-oriental-900-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA37576215",
+"precio": 8498,
+"producto": "Enjuague Zorro Deluxe oriental 3 L"
+},
+{
+"id": "suavizante-downy-mistico-rinde-1-8l-perf",
+"url": "https://www.mercadolibre.com.ar/p/MLA21096934",
+"precio": 12520,
+"producto": "Suavizante Downy Místico 900 ml rinde 2 L"
+},
+{
+"id": "apresto-para-ropa-robin-dp-450-cc",
+"url": "https://www.mercadolibre.com.ar/p/MLA20038318",
+"precio": 4170,
+"producto": "Apresto Robin plancha fácil repuesto 900 ml"
+},
+{
+"id": "aromtinzate-de-tela-glade-sunwashed-line",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4244934023",
+"precio": 7370,
+"producto": "Aromatizante de tela Glade Sunwashed Linen gatillo"
+},
+{
+"id": "limpiador-liquido-aromatizante-poett-ale",
+"url": "https://www.mercadolibre.com.ar/p/MLA19935036",
+"precio": 5119,
+"producto": "Poett limpiador de pisos frescura de lavanda 1,8 L"
+},
+{
+"id": "limpiador-liquido-procenex-gardenia-900-",
+"url": "https://www.mercadolibre.com.ar/p/MLA56511935",
+"precio": 2429,
+"producto": "Procenex limpia pisos frescura de gardenia 900 ml"
+},
+{
+"id": "limpiador-liquido-desinfectante-procenex",
+"url": "https://www.mercadolibre.com.ar/p/MLA23210809",
+"precio": 11299,
+"producto": "Limpiador de pisos Procenex lavanda 5 L"
+},
+{
+"id": "cera-liquida-pisos-autobrillo-ceramicol-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19939136",
+"precio": 4165,
+"producto": "Cera de pisos autobrillo incolora repuesto 450 ml"
+},
+{
+"id": "autobrillo-ceramicol-botella-875-ml",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3648556406",
+"precio": 5578,
+"producto": "Autobrillo Ceramicol botella 875 ml"
+},
+{
+"id": "cera-liquida-para-madera-suiza-roble-cla",
+"url": "https://www.mercadolibre.com.ar/p/MLA20729566",
+"precio": 8899,
+"producto": "Cera Suiza líquida roble claro 850 cc"
+},
+{
+"id": "cera-liquida-pisos-blem-ceramicos-rojo-b",
+"url": "https://www.mercadolibre.com.ar/p/MLA20959466",
+"precio": 19950,
+"producto": "Blem cera líquida cerámicos rojo 800 ml"
+},
+{
+"id": "lustramuebles-multisuperficies-ceramicol",
+"url": "https://www.mercadolibre.com.ar/p/MLA46081991",
+"precio": 5225,
+"producto": "Lustramuebles multisuperficies Ceramicol aerosol 360 ml"
+},
+{
+"id": "limpiador-multisuperficies-blem-citrus-a",
+"url": "https://www.mercadolibre.com.ar/p/MLA22341897",
+"precio": 4437,
+"producto": "Limpiador multisuperficies y electrónicos Blem citrus"
+},
+{
+"id": "brilla-metal-brasso-caja-70-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA19548362",
+"precio": 5684,
+"producto": "Brasso brilla metal crema tubo"
+},
+{
+"id": "mata-moscas-y-mosquitos-selton-accion-in",
+"url": "https://www.mercadolibre.com.ar/p/MLA61627146",
+"precio": 4479,
+"producto": "Baygon mata moscas y mosquitos 300 cc"
+},
+{
+"id": "insecticida-raid-mata-cucarachas-cebos-6",
+"url": "https://www.mercadolibre.com.ar/p/MLA28834839",
+"precio": 10879,
+"producto": "Cebos insecticidas mata cucarachas Raid Max x6"
+},
+{
+"id": "mata-cucarachas-y-aranas-baygon-en-aeros",
+"url": "https://www.mercadolibre.com.ar/p/MLA78854355",
+"precio": 4760,
+"producto": "Insecticida Baygon aerosol cucarachas y arañas"
+},
+{
+"id": "insecticida-raid-moscas-y-mosquitos-liqu",
+"url": "https://www.mercadolibre.com.ar/p/MLA19975820",
+"precio": 9939,
+"producto": "Insecticida Raid líquido eléctrico moscas y mosquitos aparato + repuesto"
+},
+{
+"id": "detergente-cif-bioactive-lima-botella-50",
+"url": "https://www.mercadolibre.com.ar/p/MLA23661615",
+"precio": 2527,
+"producto": "Detergente Cif Bioactive limón 500 ml"
+},
+{
+"id": "detergente-magistral-ultra-limon-botella",
+"url": "https://www.mercadolibre.com.ar/p/MLA22449396",
+"precio": 9092,
+"producto": "Detergente Magistral ultra limón botella 1,4 L"
+},
+{
+"id": "desinfectante-multisuperficies-ayudin-en",
+"url": "https://www.mercadolibre.com.ar/p/MLA19850303",
+"precio": 6507,
+"producto": "Desinfectante Ayudín Expert multisuperficies gatillo 500 ml"
+},
+{
+"id": "limpiador-en-gel-cif-con-lavandina-cloro",
+"url": "https://www.mercadolibre.com.ar/up/MLAU246757879",
+"precio": 3891,
+"producto": "Limpiador en gel Cif con lavandina 513 g"
+},
+{
+"id": "limpiahornos-y-parrillas-mr-musculo-dese",
+"url": "https://www.mercadolibre.com.ar/p/MLA22189694",
+"precio": 4649,
+"producto": "Limpiahornos y parrillas Mr. Músculo aerosol"
+},
+{
+"id": "abrillantador-para-lavavajillas-finish-4",
+"url": "https://www.mercadolibre.com.ar/p/MLA19737178",
+"precio": 9243,
+"producto": "Abrillantador para lavavajillas Finish 400 ml"
+},
+{
+"id": "finish-limpiamaquinas-para-lavavajillas-",
+"url": "https://www.mercadolibre.com.ar/p/MLA20597613",
+"precio": 8390,
+"producto": "Finish limpiador líquido para máquinas lavavajillas 250 ml"
+},
+{
+"id": "capsulas-para-lavavajillas-sun-4-en-1-pr",
+"url": "https://www.mercadolibre.com.ar/p/MLA68383762",
+"precio": 22543,
+"producto": "Sun tabletas lavavajilla Pro Expert 4 en 1 x38"
+},
+{
+"id": "lavandina-clasica-desinfectante-ayudin-2",
+"url": "https://www.mercadolibre.com.ar/p/MLA45063616",
+"precio": 2260,
+"producto": "Lavandina Ayudín Clásica 2 L"
+},
+{
+"id": "lavandina-original-odex-4-l",
+"url": "https://www.mercadolibre.com.ar/p/MLA19958668",
+"precio": 8710,
+"producto": "Lavandina Ayudín triple poder pureza glaciar 4 L"
+},
+{
+"id": "lavandina-en-gel-ayudin-citrica-500-cc",
+"url": "https://www.mercadolibre.com.ar/p/MLA21088672",
+"precio": 5028,
+"producto": "Lavandina en gel Ayudín lavanda 700 ml"
+},
+{
+"id": "toallitas-desinfectante-ayudin-aroma-fre",
+"url": "https://www.mercadolibre.com.ar/p/MLA19763548",
+"precio": 6345,
+"producto": "Toallitas desinfectantes Ayudín flowpack aroma fresco"
+},
+{
+"id": "gel-limpiador-desinfectante-para-inodoro",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3756359371",
+"precio": 3995,
+"producto": "Limpiador de inodoros Harpic Power Plus original 500 ml"
+},
+{
+"id": "destapa-canerias-ayudin-1-l",
+"url": "https://www.mercadolibre.com.ar/p/MLA19991304",
+"precio": 4900,
+"producto": "Destapa cañerías concentrado Merclin 1 L"
+},
+{
+"id": "limpiador-inodoro-bloque-para-mochila-pa",
+"url": "https://www.mercadolibre.com.ar/p/MLA19959194",
+"precio": 3759,
+"producto": "Limpiador de inodoro bloque para mochila Pato marina 40 g"
+},
+{
+"id": "limpiador-inodoro-pastillas-pato-citrus-",
+"url": "https://www.mercadolibre.com.ar/p/MLA40927335",
+"precio": 1359,
+"producto": "Pastilla aromatizante para inodoro Pato citrus 25 g"
+},
+{
+"id": "limpiador-inodoro-discos-activos-pato-ma",
+"url": "https://www.mercadolibre.com.ar/p/MLA21089955",
+"precio": 3846,
+"producto": "Pato discos adhesivos repuesto encanto floral"
+},
+{
+"id": "bloque-adhesivo-pato-arcade-floral-24-6-",
+"url": "https://www.mercadolibre.com.ar/up/MLAU2882175753",
+"precio": 2895,
+"producto": "Bloques adhesivos para inodoro citrus pack x3"
+},
+{
+"id": "aromatizante-de-ambientes-glade-toque-li",
+"url": "https://www.mercadolibre.com.ar/p/MLA20731561",
+"precio": 2892,
+"producto": "Aromatizante Glade Toque repuesto lavanda 9 g"
+},
+{
+"id": "aromatizante-de-ambientes-automatico-gla",
+"url": "https://www.mercadolibre.com.ar/p/MLA61425764",
+"precio": 8575,
+"producto": "Glade automático repuesto naranjo y orquídeas"
+},
+{
+"id": "aromatizante-ambiental-glade-limon-minig",
+"url": "https://www.mercadolibre.com.ar/p/MLA19639361",
+"precio": 4773,
+"producto": "Aromatizante Glade limón minigel 70 g"
+},
+{
+"id": "antihumedad-purific-air-aroma-relax-en-p",
+"url": "https://www.mercadolibre.com.ar/p/MLA53814183",
+"precio": 6900,
+"producto": "Purific Air antihumedad neutro pote 300 g"
+},
+{
+"id": "antihumedad-involcable-neutro-seca-dry-1",
+"url": "https://www.mercadolibre.com.ar/p/MLA76019524",
+"precio": 5500,
+"producto": "Antihumedad involcable Secadry Iberia 150 g"
+},
+{
+"id": "aerosol-desinfectante-de-ambientes-y-sup",
+"url": "https://www.mercadolibre.com.ar/p/MLA36604918",
+"precio": 3889,
+"producto": "Aerosol desinfectante de ambientes original 360 ml"
+},
+{
+"id": "desinfectante-ayudin-expert-frescura-mat",
+"url": "https://www.mercadolibre.com.ar/p/MLA26305576",
+"precio": 5549,
+"producto": "Desinfectante Ayudín Expert original aerosol 332 ml"
+},
+{
+"id": "bolsa-de-residuos-trash-45x60-x-10-uni",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3733678438",
+"precio": 3500,
+"producto": "Bolsas de residuo 45x60 rollo x20"
+},
+{
+"id": "toallitas-desinfectantes-lysol-frescura-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19840047",
+"precio": 4842,
+"producto": "Toallitas desinfectantes Lysol frescura marina x36"
+},
+{
+"id": "rollito-virulana-6-u",
+"url": "https://www.mercadolibre.com.ar/p/MLA28957212",
+"precio": 3500,
+"producto": "Virulana rollitos de lana x10"
+},
+{
+"id": "esponja-scotch-brite-limpieza-pesada-x-4",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3770084519",
+"precio": 3790,
+"producto": "Esponja 3M Scotch-Brite limpieza pesada x4"
+},
+{
+"id": "guantes-mortimer-color-verde-talle-m-40-",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4148145105",
+"precio": 5762,
+"producto": "Guantes Mortimer naranja talle M x1 par"
+},
+{
+"id": "shampoo",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4028758722",
+"precio": 5300,
+"producto": "Shampoo Sedal 340 ml"
+},
+{
+"id": "jabon-tocador",
+"url": "https://www.mercadolibre.com.ar/p/MLA17007665",
+"precio": 5940,
+"producto": "Jabón de tocador Dove Original pack 3 x 90 g"
+},
+{
+"id": "pasta-dental",
+"url": "https://www.mercadolibre.com.ar/p/MLA16134707",
+"precio": 3789,
+"producto": "Crema dental Colgate Triple Acción 90 g"
+},
+{
+"id": "acondicionador",
+"url": "https://www.mercadolibre.com.ar/up/MLAU4028755502",
+"precio": 5103,
+"producto": "Acondicionador Sedal mega crecimiento 340 ml"
+},
+{
+"id": "desodorante",
+"url": "https://www.mercadolibre.com.ar/p/MLA17416711",
+"precio": 4854,
+"producto": "Antitranspirante Rexona Clinical Classic aerosol 150 ml"
+},
+{
+"id": "afeitadoras",
+"url": "https://www.mercadolibre.com.ar/p/MLA47158019",
+"precio": 17137,
+"producto": "Máquinas de afeitar Gillette Prestobarba pack x8"
+},
+{
+"id": "protector-solar",
+"url": "https://www.mercadolibre.com.ar/p/MLA16048315",
+"precio": 24930,
+"producto": "Protector solar Dermaglós emulsión FPS50 250 ml"
+},
+{
+"id": "algodon",
+"url": "https://www.mercadolibre.com.ar/p/MLA19957543",
+"precio": 4498,
+"producto": "Algodón Estrella Súper 200 g"
+},
+{
+"id": "repelente",
+"url": "https://www.mercadolibre.com.ar/p/MLA34157829",
+"precio": 7139,
+"producto": "Repelente OFF! Family aerosol 170 ml"
+},
+{
+"id": "cepillo-dientes",
+"url": "https://www.mercadolibre.com.ar/p/MLA22773548",
+"precio": 3697,
+"producto": "Cepillo de dientes Colgate ZigZag pack x2"
+},
+{
+"id": "pasta-dental-infantil",
+"url": "https://www.mercadolibre.com.ar/p/MLA69224506",
+"precio": 3597,
+"producto": "Pasta dental Colgate Smiles Harry Potter 75 ml"
+},
+{
+"id": "shampoo-ninos",
+"url": "https://www.mercadolibre.com.ar/p/MLA24164289",
+"precio": 8997,
+"producto": "Shampoo Johnson's Baby original 400 ml"
+},
+{
+"id": "toallitas-femeninas",
+"url": "https://www.mercadolibre.com.ar/p/MLA19733511",
+"precio": 4503,
+"producto": "Toallas femeninas Siempre Libre Adapt Plus suave con alas x8"
+},
+{
+"id": "jabon-liquido-manos",
+"url": "https://www.mercadolibre.com.ar/p/MLA17016034",
+"precio": 2674,
+"producto": "Jabón líquido para manos nutrición profunda repuesto"
+},
+{
+"id": "shampoo-dove-nutricion-tri-oleos-400-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA22990627",
+"precio": 5680,
+"producto": "Shampoo Dove nutrición + fusión de óleos 400 ml"
+},
+{
+"id": "plusbelle-esencia-shampoo-control-frizz-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19842570",
+"precio": 4211,
+"producto": "Shampoo Plusbelle Esencia restauración 970 ml"
+},
+{
+"id": "shampoo-sedal-luminous-uv-650-ml",
+"url": "https://www.mercadolibre.com.ar/up/MLAU2977258883",
+"precio": 8901,
+"producto": "Shampoo Sedal Luminous UV 650 ml"
+},
+{
+"id": "shampoo-head-shoulders-control-caspa-ant",
+"url": "https://www.mercadolibre.com.ar/p/MLA45739529",
+"precio": 8482,
+"producto": "Shampoo Head & Shoulders anti-comezón 375 ml"
+},
+{
+"id": "shampoo-tresemme-keratina-antifrizz-880-",
+"url": "https://www.mercadolibre.com.ar/p/MLA21689359",
+"precio": 6494,
+"producto": "Shampoo Tresemmé keratina antifrizz 500 ml"
+},
+{
+"id": "shampoo-sedal-caspa-control-340-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA26070872",
+"precio": 5854,
+"producto": "Shampoo Sedal caspa control 340 ml"
+},
+{
+"id": "plusbelle-litro-shampoo-suavidad-1-lt",
+"url": "https://www.mercadolibre.com.ar/p/MLA19794176",
+"precio": 6358,
+"producto": "Shampoo Plusbelle 1 L suavidad manzana verde"
+},
+{
+"id": "shampoo-tresemme-detox-capilar-500-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA22807379",
+"precio": 6494,
+"producto": "Shampoo Tresemmé detox capilar 500 ml"
+},
+{
+"id": "shampoo-anti-comezon-head-shoulders-180-",
+"url": "https://www.mercadolibre.com.ar/p/MLA39317187",
+"precio": 5433,
+"producto": "Shampoo Head & Shoulders control caspa anti-comezón 180 ml"
+},
+{
+"id": "acondicionador-dove-nutricion-tri-oleo-4",
+"url": "https://www.mercadolibre.com.ar/p/MLA23948986",
+"precio": 6094,
+"producto": "Acondicionador Dove óleo nutrición 400 ml"
+},
+{
+"id": "acondicionador-tresemme-keratina-antifri",
+"url": "https://www.mercadolibre.com.ar/p/MLA21699276",
+"precio": 6494,
+"producto": "Acondicionador Tresemmé keratina antifrizz 500 ml"
+},
+{
+"id": "acondicionador-sedal-luminous-uv-650-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA46562327",
+"precio": 9405,
+"producto": "Acondicionador Sedal Luminous UV 650 ml"
+},
+{
+"id": "acondicionador-dove-bond-repair-peptido-",
+"url": "https://www.mercadolibre.com.ar/p/MLA45649078",
+"precio": 5043,
+"producto": "Acondicionador Dove Bond Intense Repair 250 ml"
+},
+{
+"id": "acondicionador-sedal-crema-balance-340-c",
+"url": "https://www.mercadolibre.com.ar/p/MLA25885414",
+"precio": 5857,
+"producto": "Acondicionador Sedal crema balance 340 ml"
+},
+{
+"id": "spray-tresemme-protector-termico-antifri",
+"url": "https://www.mercadolibre.com.ar/p/MLA47060509",
+"precio": 6592,
+"producto": "Protector térmico Tresemmé antifrizz spray 120 ml"
+},
+{
+"id": "mascara-de-tratamiento-sedal-luminous-uv",
+"url": "https://www.mercadolibre.com.ar/p/MLA45495577",
+"precio": 5997,
+"producto": "Mascarilla capilar Sedal Luminous UV 300 ml"
+},
+{
+"id": "serum-elvive-dream-liso-100-ml",
+"url": "https://www.mercadolibre.com.ar/p/MLA50368948",
+"precio": 12992,
+"producto": "Sérum liso 7 días Elvive antifrizz 100 ml"
+},
+{
+"id": "mascarilla-elvive-hidra-hialuronico-300-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19862464",
+"precio": 11188,
+"producto": "Crema de tratamiento Elvive Hidra Hialurónico 300 ml"
+},
+{
+"id": "crema-para-peinar-fructis-probioticos-fu",
+"url": "https://www.mercadolibre.com.ar/p/MLA34198070",
+"precio": 8990,
+"producto": "Crema para peinar Fructis recarga nutritiva 250 ml"
+},
+{
+"id": "gel-fijador-fuerte-algabo-en-pomo-150-gr",
+"url": "https://www.mercadolibre.com.ar/p/MLA30461813",
+"precio": 4733,
+"producto": "Gel para el pelo fijación fuerte Algabo 150 g"
+},
+{
+"id": "gel-para-el-cabello-tresemme-modelador-d",
+"url": "https://www.mercadolibre.com.ar/p/MLA45172438",
+"precio": 5258,
+"producto": "Gel Tresemmé texturizador define 300 g"
+},
+{
+"id": "gel-fijador-algabo-fuerte-325-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA19940835",
+"precio": 4340,
+"producto": "Gel capilar fijación fuerte Algabo 350 g"
+},
+{
+"id": "pasta-dental-colgate-luminous-white-colo",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3838358388",
+"precio": 4795,
+"producto": "Crema dental Colgate Luminous White color correct 70 g"
+},
+{
+"id": "pack-pasta-dental-colgate-triple-accion-",
+"url": "https://www.mercadolibre.com.ar/p/MLA52052533",
+"precio": 12690,
+"producto": "Pack pasta dental Colgate Triple Acción 180 g x3"
+},
+{
+"id": "pasta-dental-colgate-sensitive-pro-alivi",
+"url": "https://www.mercadolibre.com.ar/p/MLA16134859",
+"precio": 5796,
+"producto": "Colgate Sensitive Pro-Alivio original crema dental"
+},
+{
+"id": "enjuague-bucal-listerine-cool-mint-suave",
+"url": "https://www.mercadolibre.com.ar/p/MLA40162927",
+"precio": 4131,
+"producto": "Enjuague bucal Listerine Cool Mint frescura intensa 250 ml"
+},
+{
+"id": "listerine-antisarro-frescura-intensa-500",
+"url": "https://www.mercadolibre.com.ar/p/MLA19938031",
+"precio": 7997,
+"producto": "Enjuague bucal Listerine antisarro 500 ml"
+},
+{
+"id": "enjuague-bucal-listerine-whitening-473-c",
+"url": "https://www.mercadolibre.com.ar/p/MLA20535028",
+"precio": 7791,
+"producto": "Enjuague bucal Listerine Whitening Extreme 473 ml"
+},
+{
+"id": "cepillo-dental-indicator-clasico-oral-b-",
+"url": "https://www.mercadolibre.com.ar/p/MLA20731289",
+"precio": 6969,
+"producto": "Cepillos dentales Oral-B Clean Indicator pack x3"
+},
+{
+"id": "hilo-dental-colgate-total-25-mts",
+"url": "https://www.mercadolibre.com.ar/p/MLA19559831",
+"precio": 4091,
+"producto": "Hilo dental encerado Colgate Total 12"
+},
+{
+"id": "flossers-horqueta-con-hilo-dental-menta-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19551544",
+"precio": 5997,
+"producto": "Hilo dental con mango GUM Flossers original"
+},
+{
+"id": "jabon-de-tocador-lux-orquidea-negra-120-",
+"url": "https://www.mercadolibre.com.ar/p/MLA40339061",
+"precio": 5575,
+"producto": "Jabón en barra Lux orquídea negra x3 de 120 g"
+},
+{
+"id": "jabon-de-tocador-palmolive-naturals-kari",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3381372547",
+"precio": 3179,
+"producto": "Jabón de tocador Palmolive Naturals karité 90 g"
+},
+{
+"id": "plusbelle-esencia-jabon-de-tocador-todo-",
+"url": "https://www.mercadolibre.com.ar/p/MLA66476116",
+"precio": 7010,
+"producto": "Jabón de tocador Plusbelle piel sensible x3 de 120 g"
+},
+{
+"id": "toallitas-doncella-normal-tela-suave-con",
+"url": "https://www.mercadolibre.com.ar/p/MLA27351473",
+"precio": 3500,
+"producto": "Toallas femeninas Doncella ultra fina x16"
+},
+{
+"id": "always-xtra-suave-toallas-nocturnas-8-un",
+"url": "https://www.mercadolibre.com.ar/p/MLA22307868",
+"precio": 5806,
+"producto": "Toallas Always nocturnas seca máxima protección x8"
+},
+{
+"id": "protector-diario-calipso-normal-20-uni",
+"url": "https://www.mercadolibre.com.ar/p/MLA22972266",
+"precio": 4364,
+"producto": "Protector diario Calipso normal con extracto de algodón"
+},
+{
+"id": "protectores-diarios-doncella-sin-perfume",
+"url": "https://www.mercadolibre.com.ar/p/MLA67447196",
+"precio": 6697,
+"producto": "Doncella protector anatómico con perfume x20"
+},
+{
+"id": "tampones-ob-siempre-libre-super-x-16-uni",
+"url": "https://www.mercadolibre.com.ar/p/MLA19876963",
+"precio": 5675,
+"producto": "Tampones o.b. Siempre Libre súper x16"
+},
+{
+"id": "jabon-intimo-dermovagisil-piel-sensible-",
+"url": "https://www.mercadolibre.com.ar/p/MLA20729978",
+"precio": 11992,
+"producto": "Jabón líquido íntimo DermoVagisil cuidado pH 354 ml"
+},
+{
+"id": "serum-cellular-nivea-con-acido-hialuroni",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3263710791",
+"precio": 23387,
+"producto": "Sérum Nivea Cellular con ácido hialurónico 30 ml"
+},
+{
+"id": "barra-de-limpieza-facial-neutrogena-deep",
+"url": "https://www.mercadolibre.com.ar/p/MLA17007755",
+"precio": 6580,
+"producto": "Jabón en barra Neutrogena Deep Clean limpieza facial"
+},
+{
+"id": "agua-micelar-neutrogena-hydro-boost-400-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19719411",
+"precio": 14780,
+"producto": "Agua micelar Neutrogena Hydro Boost 400 ml"
+},
+{
+"id": "gel-limpiador-facial-neutrogena-ultra-ge",
+"url": "https://www.mercadolibre.com.ar/p/MLA37650895",
+"precio": 26328,
+"producto": "Gel de limpieza facial Neutrogena Ultra Gentle 354 ml"
+},
+{
+"id": "discos-desmaquillantes-q-soft-70-uni",
+"url": "https://www.mercadolibre.com.ar/p/MLA62757296",
+"precio": 3325,
+"producto": "Discos desmaquillantes Q Soft algodón premium"
+},
+{
+"id": "crema-hidratante-intensiva-nivea-creme-e",
+"url": "https://www.mercadolibre.com.ar/p/MLA19055489",
+"precio": 7199,
+"producto": "Crema hidratante intensiva Nivea Creme en lata"
+},
+{
+"id": "emulsion-corporal-dermaglos-300-cc",
+"url": "https://www.mercadolibre.com.ar/p/MLA16135295",
+"precio": 18509,
+"producto": "Emulsión corporal Dermaglós hidratación esencial 300 ml"
+},
+{
+"id": "crema-para-manos-hinds-anti-age-lift-90-",
+"url": "https://www.mercadolibre.com.ar/p/MLA19717848",
+"precio": 4197,
+"producto": "Hinds crema rosa para manos 90 ml"
+},
+{
+"id": "protector-labial-humectante-nivea-essent",
+"url": "https://www.mercadolibre.com.ar/p/MLA19957365",
+"precio": 3200,
+"producto": "Bálsamo labial Nivea Original Care 4,8 g"
+},
+{
+"id": "protector-solar-facial-nivea-sun-invisib",
+"url": "https://www.mercadolibre.com.ar/p/MLA40220655",
+"precio": 17701,
+"producto": "Protector solar facial Nivea Sun Invisible Daily Fluid FPS 50"
+},
+{
+"id": "protector-solar-facial-dermaglos-f50-tn-",
+"url": "https://www.mercadolibre.com.ar/p/MLA16189495",
+"precio": 24585,
+"producto": "Protector solar facial Dermaglós FPS 50 x 50 g"
+},
+{
+"id": "protector-solar-dermaglos-f30-emulsion-3",
+"url": "https://www.mercadolibre.com.ar/p/MLA20541178",
+"precio": 23119,
+"producto": "Protector solar Dermaglós FPS30 emulsión 250 ml"
+},
+{
+"id": "protector-solar-dermaglos-f40-200-cc",
+"url": "https://www.mercadolibre.com.ar/p/MLA16048239",
+"precio": 24112,
+"producto": "Protector solar Dermaglós FPS40 emulsión 250 ml"
+},
+{
+"id": "antitranspirante-en-aerosol-axe-apollo-s",
+"url": "https://www.mercadolibre.com.ar/p/MLA17017134",
+"precio": 6058,
+"producto": "Desodorante en aerosol Axe Apollo 96 g"
+},
+{
+"id": "antitranspirante-en-aerosol-dove-origina",
+"url": "https://www.mercadolibre.com.ar/p/MLA26158358",
+"precio": 4699,
+"producto": "Antitranspirante Dove Original aerosol 150 ml"
+},
+{
+"id": "desodorante-antitranspirante-rexona-v8-e",
+"url": "https://www.mercadolibre.com.ar/p/MLA19466144",
+"precio": 4878,
+"producto": "Antitranspirante Rexona V8 Men aerosol 250 ml"
+},
+{
+"id": "desodorante-antitranspirante-nivea-men-b",
+"url": "https://www.mercadolibre.com.ar/p/MLA27800810",
+"precio": 5783,
+"producto": "Desodorante antimanchas Nivea Men Black & White"
+},
+{
+"id": "antitranspirante-rexona-bamboo-roll-on-5",
+"url": "https://www.mercadolibre.com.ar/p/MLA42072325",
+"precio": 2625,
+"producto": "Antitranspirante Rexona Woman bamboo y aloe vera roll on"
+},
+{
+"id": "antitranspirante-en-barra-dove-invisible",
+"url": "https://www.mercadolibre.com.ar/p/MLA66328366",
+"precio": 6597,
+"producto": "Dove desodorante en barra antitranspirante Invisible Care"
+},
+{
+"id": "desodorante-antitranspirante-rexona-v8-e-2",
+"url": "https://www.mercadolibre.com.ar/p/MLA19542593",
+"precio": 5912,
+"producto": "Rexona desodorante en barra V8 50 g"
+},
+{
+"id": "bandas-depilatorias-facial-veet-piel-sen",
+"url": "https://www.mercadolibre.com.ar/p/MLA42150999",
+"precio": 5837,
+"producto": "Bandas de cera depilatoria Veet facial piel sensible"
+},
+{
+"id": "rasuradora-gillette-prestobarba-3-carbon",
+"url": "https://www.mercadolibre.com.ar/p/MLA46976583",
+"precio": 11190,
+"producto": "Máquina para afeitar Gillette Prestobarba3 carbono"
+},
+{
+"id": "gel-de-afeitar-nivea-men-sensitive-para-",
+"url": "https://www.mercadolibre.com.ar/p/MLA20039418",
+"precio": 12078,
+"producto": "Nivea Men gel de afeitar Sensitive 200 ml"
+},
+{
+"id": "desodorante-para-pies-rexona-efficient-o",
+"url": "https://www.mercadolibre.com.ar/p/MLA21009290",
+"precio": 5856,
+"producto": "Desodorante para pies Rexona Efficient original polvo"
+},
+{
+"id": "desodorante-para-pies-rexona-efficient-o-2",
+"url": "https://www.mercadolibre.com.ar/up/MLAU290401015",
+"precio": 5997,
+"producto": "Rexona Efficient talco polvo original 200 g"
+},
+{
+"id": "talco-corporal-algabo-clasico-180-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA19940222",
+"precio": 3710,
+"producto": "Algabo talco polvo desodorante repuesto 200 g"
+},
+{
+"id": "espirales-para-mosquitos-selton-protecci",
+"url": "https://www.mercadolibre.com.ar/up/MLAU429431928",
+"precio": 3500,
+"producto": "Raid espirales verde mosquitos caja x12"
+},
+{
+"id": "repelente-para-mosquitos-aktiol-extra-du",
+"url": "https://www.mercadolibre.com.ar/p/MLA51923911",
+"precio": 5524,
+"producto": "Aktiol repelente de insectos 25% DEET 143 ml"
+},
+{
+"id": "maquina-de-afeitar-gillette-prestobarba3",
+"url": "https://www.mercadolibre.com.ar/p/MLA46976583",
+"precio": 11190,
+"producto": "Máquina para afeitar Gillette Prestobarba3 carbono"
+},
+{
+"id": "maquina-de-afeitar-bic-flex3-2-uni",
+"url": "https://www.mercadolibre.com.ar/up/MLAU2861739170",
+"precio": 6076,
+"producto": "Máquina de afeitar Bic Flex3 x2"
+},
+{
+"id": "repuesto-para-maquina-de-afeitar-gillett",
+"url": "https://www.mercadolibre.com.ar/up/MLAU3683007108",
+"precio": 7628,
+"producto": "Repuesto máquina de afeitar Gillette Mach3 x2"
+},
+{
+"id": "panales",
+"url": "https://www.mercadolibre.com.ar/p/MLA40830839",
+"precio": 26106,
+"producto": "Pañales Huggies Dermacare talle G x48"
+},
+{
+"id": "toallitas-humedas",
+"url": "https://www.mercadolibre.com.ar/p/MLA62569022",
+"precio": 3500,
+"producto": "Toallitas húmedas Huggies limpieza efectiva x48"
+},
+{
+"id": "panales-xg",
+"url": "https://www.mercadolibre.com.ar/p/MLA51199865",
+"precio": 30269,
+"producto": "Pañales Huggies Classic talle XG x56"
+},
+{
+"id": "oleo-calcareo",
+"url": "https://www.mercadolibre.com.ar/p/MLA15993172",
+"precio": 7241,
+"producto": "Óleo calcáreo Estrella sin fragancia 500 ml"
+},
+{
+"id": "crema-paspaduras",
+"url": "https://www.mercadolibre.com.ar/p/MLA66693119",
+"precio": 21537,
+"producto": "Hipoglós pomada cuidado diario 90 g"
+},
+{
+"id": "jabon-liquido-bebe",
+"url": "https://www.mercadolibre.com.ar/p/MLA17016010",
+"precio": 7125,
+"producto": "Jabón líquido Johnson's recién nacido"
+},
+{
+"id": "leche-crecimiento",
+"url": "https://www.mercadolibre.com.ar/p/MLA10730853",
+"precio": 14280,
+"producto": "Leche en polvo Nido 3 Prebio 800 g"
+},
+{
+"id": "panales-huggies-natural-care-rn-34-uni",
+"url": "https://www.mercadolibre.com.ar/p/MLA19964348",
+"precio": 18877,
+"producto": "Pañales Huggies Natural Care talle RN x34"
+},
+{
+"id": "panales-estrella-talle-xxg-34-u",
+"url": "https://www.mercadolibre.com.ar/p/MLA19620914",
+"precio": 14990,
+"producto": "Pañales Estrella Baby hiperpack talle XXG x34"
+},
+{
+"id": "toallitas-humedas-johnson-s-limpieza-y-s",
+"url": "https://www.mercadolibre.com.ar/p/MLA19855590",
+"precio": 3499,
+"producto": "Toallitas húmedas Johnson's Baby cabeza a pies"
+},
+{
+"id": "fecula-para-bebe-bed-time-johnsons-200-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA39228950",
+"precio": 9085,
+"producto": "Polvo para bebé Johnson's antes de dormir 200 g"
+},
+{
+"id": "oleo-calcareo-extract-algodon-estrella-b",
+"url": "https://www.mercadolibre.com.ar/p/MLA15993170",
+"precio": 9390,
+"producto": "Óleo calcáreo Estrella Baby sin fragancia 950 ml"
+},
+{
+"id": "aceite-para-bebe-johnsons-baby-puro-100-",
+"url": "https://www.mercadolibre.com.ar/p/MLA15993157",
+"precio": 4608,
+"producto": "Aceite Johnson's Baby puro 100 ml"
+},
+{
+"id": "pomada-hipoglos-cuidado-diario-90-g",
+"url": "https://www.mercadolibre.com.ar/p/MLA66693119",
+"precio": 21537,
+"producto": "Hipoglós pomada cuidado diario 90 g"
+},
+{
+"id": "shampoo-johnsons-baby-original-750-cc",
+"url": "https://www.mercadolibre.com.ar/p/MLA22703281",
+"precio": 15497,
+"producto": "Shampoo Johnson's Baby pH balanceado 750 ml"
+},
+{
+"id": "nido-fortigrow-leche-en-polvo-750-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA44417407",
+"precio": 18525,
+"producto": "Leche en polvo Nido Fortigrow 750 g"
+},
+{
+"id": "nido-fortigrow-leche-en-polvo-370-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA48480071",
+"precio": 7927,
+"producto": "Leche en polvo Nido Fortigrow 370 g"
+},
+{
+"id": "nestum-multicereal-500-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA20072211",
+"precio": 8796,
+"producto": "Cereal infantil Nestum multicereal 500 g"
+},
+{
+"id": "pure-mix-frutal-zummy-pouch-110-g",
+"url": "https://www.mercadolibre.com.ar/up/MLAU1490468798",
+"precio": 1541,
+"producto": "Puré Zummy mix frutal pouch 90 g"
+},
+{
+"id": "nestum-multicereal-225-grs",
+"url": "https://www.mercadolibre.com.ar/p/MLA24457810",
+"precio": 5018,
+"producto": "Nestum multicereal en polvo 225 g"
+}
+]

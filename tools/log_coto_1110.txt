@@ -1,0 +1,10 @@
+647 filas Coto
+coto: 647 en 30 s; errores 2, desaparecidos 2, sin stock 0
+coto: comparables 642, suben 33, bajan 18, saltos>40% 1
+647 filas Coto
+reintentos: 2
+ ronda 1 quedan 2 12 s
+ ronda 2 quedan 2 30 s
+ ronda 3 quedan 2 47 s
+errores finales: 2 | con precio: 643
+FIN
